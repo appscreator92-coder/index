@@ -9,8 +9,6 @@
 
 {"name":"ICC MENS T20 WORLD CUP","url":"go:t20","logo":"https://static-gi.asianetnews.com/v1/microsites/T20-worldcup2026/t20_worldCupOgImage.png"}, 
 
-
-
 {"name":"ZEE5","url":"go:zee","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzAy0k4kPf5Y_oGyDmf10vmrba0jOb0xESEg&usqp=CAU"}, 
 
 {"name":"JIOTV","url":"go:jio","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAphSf5LPrenpV0dNnoZMmwxAB8UZk27Z3F-az3MoACmz0IwdvIRY5Io&s=10"},
@@ -19,14 +17,9 @@
 
 {"name":"FANCODE","url":"go:fancode","logo":"https://technosports.co.in/wp-content/uploads/2024/02/23196-fancode-1024x614.webp"}, 
 
-
- 
-
- {"name":"AKASH GO","url":"go:akashgo","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4aD0ftdWFb2UAyyr-YNRs6RGK_rDBKsS1xXrcyxe3A&s=10"},
-
+{"name":"AKASH GO","url":"go:akashgo","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4aD0ftdWFb2UAyyr-YNRs6RGK_rDBKsS1xXrcyxe3A&s=10"},
 
 {"name":"DISTROTV","url":"go:distrotv","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnK8hoFbN_MwvKRFPMJwF2L8gcLvbZqrc3iTFfLuPLEr-73E9lzLiUyPc&s=10"}, 
-
 
 {"name":"PISHOW TV","url":"go:pishow”,"logo":"https://play-lh.googleusercontent.com/eOpDiVz0yhxE2UhJL8mTbh5HNnXykKWgbZSUWOl3af_uxzje0Nfr6nDiigRYTjhialcC"}, 
 
