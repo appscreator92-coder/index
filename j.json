@@ -13774,5 +13774,29 @@
         "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/ET_Now_Swadesh_BTS/output/index.mpd",
         "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/ET_Now_Swadesh_BTS/output/index.mpd",
         "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/ET_Now_Swadesh_BTS/output/index.mpd"
+    },
+    {
+        "name": "Asianet HD",
+        "id": 3000,
+        "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer.php?id=3000",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png",
+        "group": "Entertaiment",
+        "keyId": "438370e98be35e618650b4fde6f7bcee",
+        "key": "8af903db53e7b69e6e1c9a04711ebd62",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd"
+    },
+     {
+        "name": "Asianet Movies HD",
+        "id": 3001,
+        "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer.php?id=3001",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
+        "group": "Movies",
+        "keyId": "318d6d7df2c155b3b15247f320bad160",
+        "key": "c06652ae93c16814dad7008e84c7171d",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/output/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/output/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/output/index.mpd"
     }
 ]
