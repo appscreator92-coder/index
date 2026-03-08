@@ -1,28 +1,5 @@
 [
-   {
-        "name": "ICC World Cup",
-        "id": 5001,
-        "idx": "https://tvplaytv.pages.dev/p3?mpd=https%3A%2F%2Fa96aivottlinear-a.akamaihd.net%2FOTTB%2Flhr-nitro%2Fenc%2F7j8yftutgs%2Fout%2Fv1%2F8a40608178f045839a1c0c0a055d6a90%2Fcenc.mpd&keyId=2d0646dd8a8c511de3b2485071705038&key=1ddbda2f121875fd43dcd758497cbf82",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
-        "group": "Sports",
-        "keyId": "2d0646dd8a8c511de3b2485071705038",
-        "key": "1ddbda2f121875fd43dcd758497cbf82",
-        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
-        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
-        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd"
-    },
- {
-        "name": "ICC World Cup 2026",
-        "id": 5000,
-        "idx": "https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
-        "group": "Sports",
-        "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
-        "key": "859695076e67fe961836b564db6d689c",
-        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
-        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
-        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd"
-    },
+   
 
  {
         "name": "Star Sports 1 HD",
@@ -251,5 +228,29 @@
         "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd",
         "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd",
         "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd"
+    },
+   {
+        "name": "ICC World Cup",
+        "id": 5001,
+        "idx": "https://tvplaytv.pages.dev/p3?mpd=https%3A%2F%2Fa96aivottlinear-a.akamaihd.net%2FOTTB%2Flhr-nitro%2Fenc%2F7j8yftutgs%2Fout%2Fv1%2F8a40608178f045839a1c0c0a055d6a90%2Fcenc.mpd&keyId=2d0646dd8a8c511de3b2485071705038&key=1ddbda2f121875fd43dcd758497cbf82",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
+        "group": "Sports",
+        "keyId": "2d0646dd8a8c511de3b2485071705038",
+        "key": "1ddbda2f121875fd43dcd758497cbf82",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd"
+    },
+ {
+        "name": "ICC World Cup 2026",
+        "id": 5000,
+        "idx": "https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
+        "group": "Sports",
+        "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
+        "key": "859695076e67fe961836b564db6d689c",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd"
     }
 ]
