@@ -13,6 +13,8 @@
 
 {"name":"JIOTV","url":"go:jio","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAphSf5LPrenpV0dNnoZMmwxAB8UZk27Z3F-az3MoACmz0IwdvIRY5Io&s=10"},
 
+{"name":"SUN NXT","url":"go:sunnxt","logo":"https://www.sunnxt.com/images/logo/logo.png"},
+
 {"name":"YUPPTV","url":"go:yupptv","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMeTwS0OgFWR-2pJd0gRxthwByh6Z2Schy9KwZ49pxa1RD8SVwgANEAH0&s=10"},
 
 {"name":"SONY LIV","url":"go:sonyliv","logo":"https://i.pinimg.com/736x/7f/42/4c/7f424c0d27062ef0a47b5314d54e1524.jpg"},
