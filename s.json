@@ -220,6 +220,17 @@
         "idx": "https://hdlive1.unaux.com/livetv/sun/sunplayer.php?mpd=https://cors-proxy.cooks.fyi/https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd&keyId=b4dbffb517824732a955ca02dd6aacd9&key=83c2aa2946432f1ded7c049efe79feef"
     },
     {
+        "name": " Surya TV HD - Dolby Vision",
+        "id": 194397,
+        "logo": "https://sund-images.sunnxt.com/195489/640x360_SuryaTVHDDolbyVision_195489_b51cb569-382c-4dc4-b9ec-5c09396ebd2a.jpg",
+        "language": "Malayalam",
+        "group": "SunNxt",
+        "link": "https://cors-proxy.cooks.fyi/https://cors-proxy.cooks.fyi/https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd",
+        "kid": "eae838ccd75d4a1fbff6fd7dd1c97780",
+        "key": "8259ce0c112725a4d2c94d154207425f",
+        "idx": "https://hdlive1.unaux.com/livetv/sun/sunplayer.php?mpd=https://cors-proxy.cooks.fyi/https://cors-proxy.cooks.fyi/https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd&keyId=eae838ccd75d4a1fbff6fd7dd1c97780&key=8259ce0c112725a4d2c94d154207425f"
+    },
+    {
         "name": " Surya Movies",
         "id": 194385,
         "logo": "https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg",
