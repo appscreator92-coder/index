@@ -274,6 +274,17 @@
         "key": "6dee8663e63cc8f8dda8478b8b2f3b71",
         "idx": "https://hdlive1.unaux.com/livetv/sun/sunplayer.php?mpd=https://cors-proxy.cooks.fyi/https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd&keyId=56e1f5b5b72e4e45a98b6f287c265ab9&key=6dee8663e63cc8f8dda8478b8b2f3b71"
     },
+     {
+        "name": " Kochu TV",
+        "id": 1943,
+        "logo": "https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg",
+        "language": "Malayalam",
+        "group": "SunNxt",
+        "link": "https://cors-proxy.cooks.fyi/https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd",
+        "kid": "7354fb333b0c4159bc6c433c4db13d0f",
+        "key": "fbf8b4a11febf7d2eed2283006979176",
+        "idx": "https://hdlive1.unaux.com/livetv/sun/sunplayer.php?mpd=https://cors-proxy.cooks.fyi/https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd&keyId=7354fb333b0c4159bc6c433c4db13d0f&key=fbf8b4a11febf7d2eed2283006979176"
+    },
     {
         "name": " Udaya HD",
         "id": 194399,
