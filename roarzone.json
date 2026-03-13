@@ -1,45 +1,250 @@
 [
-  { "id": "t sports", "name": "t sports", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/102.png" },
-  { "id": "star sports 1", "name": "star sports 1", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/25.png" },
-  { "id": "star sports 2", "name": "star sports 2", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/26.png" },
-  { "id": "gazi tv", "name": "gazi tv", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/1.png" },
-  { "id": "ptv sports", "name": "ptv sports", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/73.png" },
-  { "id": "asports", "name": "asports", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/add-sports-1.png" },
-  { "id": "sony ten 1", "name": "sony ten 1", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/20.png" },
-  { "id": "sony ten 2", "name": "sony ten 2", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/21.png" },
-  { "id": "sony ten 3", "name": "sony ten 3", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/22.png" },
-  { "id": "sony six", "name": "sony six", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/24.png" },
-  { "id": "star sports select 1", "name": "star sports select 1", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/27.png" },
-  { "id": "star sports select 2", "name": "star sports select 2", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/28.png" },
-  { "id": "euro sports", "name": "euro sports", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/euro_sports_hd.png" },
-  { "id": "dubai sports", "name": "dubai sports", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/dubai-sports.png" },
-  { "id": "ten cricket", "name": "ten cricket", "genre": "sports", "logo": "http://tvassets.roarzone.info/images/ten_cricket.png" },
-  { "id": "star gold", "name": "star gold", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/75.png" },
-  { "id": "sony tv", "name": "sony tv", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/38.png" },
-  { "id": "sony max", "name": "sony max", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/sonymax.png" },
-  { "id": "sony max hd", "name": "sony max hd", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/sonymaxhd.png" },
-  { "id": "colors", "name": "colors", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/68.png" },
-  { "id": "sony max 2", "name": "sony max 2", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/sonymax2.png" },
-  { "id": "zee tv", "name": "zee tv", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/40.png" },
-  { "id": "zee cinema", "name": "zee cinema", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/76.png" },
-  { "id": "zee bollywood", "name": "zee bollywood", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/94.png" },
-  { "id": "zee action", "name": "zee action", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/90.png" },
-  { "id": "star plus", "name": "star plus", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/67.png" },
-  { "id": "and tv hd", "name": "and tv hd", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/74.png" },
-  { "id": "and pictures", "name": "and pictures", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/100.png" },
-  { "id": "hum tv", "name": "hum tv", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/humtv.png" },
-  { "id": "zee-anmol", "name": "zee-anmol", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/zee-anmol.png" },
-  { "id": "hum masala", "name": "hum masala", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/hummasala.png" },
-  { "id": "hum sitarey", "name": "hum sitarey", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/humsitarey.png" },
-  { "id": "b4u movies", "name": "b4u movies", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/b4umovies.png" },
-  { "id": "sony sab", "name": "sony sab", "genre": "hindi", "logo": "http://tvassets.roarzone.info/images/36.png" },
-  { "id": "discovery hd", "name": "discovery hd", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/43.png" },
-  { "id": "discovery science", "name": "discovery science", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/discoveryscience.png" },
-  { "id": "discovery turbo", "name": "discovery turbo", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/discoveryturbo.png" },
-  { "id": "discovery hd investigation", "name": "discovery hd investigation", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/discoveryhdInvestigation.png" },
-  { "id": "cnn", "name": "cnn", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/cnn.png" },
-  { "id": "sony bbc earth hd", "name": "sony bbc earth hd", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/44.png" },
-  { "id": "natgeo", "name": "natgeo", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/35.png" },
+  { 
+    "id": "t sports",
+    "name": "t sports",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/102.png" 
+  },
+  {
+    "id": "star sports 1", 
+    "name": "star sports 1",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/25.png" 
+  },
+  { 
+    "id": "star sports 2", 
+    "name": "star sports 2",
+    "genre": "sports", 
+    "logo": "http://tvassets.roarzone.info/images/26.png" 
+  },
+  {
+    "id": "gazi tv", 
+    "name": "gazi tv",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/1.png" 
+  },
+  {
+    "id": "ptv sports",
+    "name": "ptv sports", 
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/73.png" 
+  },
+  {
+    "id": "asports",
+    "name": "asports",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/add-sports-1.png"
+  },
+  { 
+    "id": "sony ten 1", 
+    "name": "sony ten 1",
+    "genre": "sports", 
+    "logo": "http://tvassets.roarzone.info/images/20.png" 
+  },
+  { 
+    "id": "sony ten 2",
+    "name": "sony ten 2",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/21.png"
+  },
+  { 
+    "id": "sony ten 3",
+    "name": "sony ten 3", 
+    "genre": "sports", 
+    "logo": "http://tvassets.roarzone.info/images/22.png"
+  },
+  {
+    "id": "sony six", 
+    "name": "sony six", 
+    "genre": "sports", 
+    "logo": "http://tvassets.roarzone.info/images/24.png"
+  },
+  { 
+    "id": "star sports select 1",
+    "name": "star sports select 1",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/27.png" 
+  },
+  { 
+    "id": "star sports select 2",
+    "name": "star sports select 2",
+    "genre": "sports", 
+    "logo": "http://tvassets.roarzone.info/images/28.png"
+  },
+  { 
+    "id": "euro sports", 
+    "name": "euro sports",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/euro_sports_hd.png"
+  },
+  {
+    "id": "dubai sports",
+    "name": "dubai sports",
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/dubai-sports.png"
+  },
+  { 
+    "id": "ten cricket",
+    "name": "ten cricket", 
+    "genre": "sports",
+    "logo": "http://tvassets.roarzone.info/images/ten_cricket.png" 
+  },
+  { 
+    "id": "star gold", 
+    "name": "star gold",
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/75.png"
+  },
+  {
+    "id": "sony tv",
+    "name": "sony tv", 
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/38.png" 
+  },
+  {
+    "id": "sony max", 
+    "name": "sony max", 
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/sonymax.png" 
+  },
+  {
+    "id": "sony max hd",
+    "name": "sony max hd", 
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/sonymaxhd.png"
+  },
+  { 
+    "id": "colors",
+    "name": "colors", 
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/68.png" 
+  },
+  {
+    "id": "sony max 2",
+    "name": "sony max 2",
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/sonymax2.png" 
+  },
+  {
+    "id": "zee tv",
+    "name": "zee tv",
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/40.png"
+  },
+  { 
+    "id": "zee cinema", 
+    "name": "zee cinema", 
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/76.png"
+  },
+  { 
+    "id": "zee bollywood", 
+    "name": "zee bollywood",
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/94.png"
+  },
+  { 
+    "id": "zee action",
+    "name": "zee action",
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/90.png" 
+  },
+  { 
+    "id": "star plus",
+    "name": "star plus",
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/67.png"
+  },
+  {
+    "id": "and tv hd",
+    "name": "and tv hd",
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/74.png" 
+  },
+  { 
+    "id": "and pictures",
+    "name": "and pictures",
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/100.png"
+  },
+  {
+    "id": "hum tv",
+    "name": "hum tv",
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/humtv.png"
+  },
+  {
+    "id": "zee-anmol", 
+    "name": "zee-anmol",
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/zee-anmol.png" 
+  },
+  { 
+    "id": "hum masala",
+    "name": "hum masala", 
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/hummasala.png"
+  },
+  {
+    "id": "hum sitarey",
+    "name": "hum sitarey", 
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/humsitarey.png" 
+  },
+  { 
+    "id": "b4u movies",
+    "name": "b4u movies",
+    "genre": "hindi",
+    "logo": "http://tvassets.roarzone.info/images/b4umovies.png"
+  },
+  { 
+    "id": "sony sab",
+    "name": "sony sab", 
+    "genre": "hindi", 
+    "logo": "http://tvassets.roarzone.info/images/36.png"
+  },
+  { 
+    "id": "discovery hd",
+    "name": "discovery hd", 
+    "genre": "documentary",
+    "logo": "http://tvassets.roarzone.info/images/43.png" 
+  },
+  { 
+    "id": "discovery science",
+    "name": "discovery science",
+    "genre": "documentary", 
+    "logo": "http://tvassets.roarzone.info/images/discoveryscience.png"
+  },
+  { 
+    "id": "discovery turbo",
+    "name": "discovery turbo",
+    "genre": "documentary",
+    "logo": "http://tvassets.roarzone.info/images/discoveryturbo.png"
+  },
+  {
+    "id": "discovery hd investigation",
+    "name": "discovery hd investigation",
+    "genre": "documentary",
+    "logo": "http://tvassets.roarzone.info/images/discoveryhdInvestigation.png"
+  },
+  { 
+    "id": "cnn", 
+    "name": "cnn", 
+    "genre": "documentary",
+    "logo": "http://tvassets.roarzone.info/images/cnn.png"
+  },
+  {
+    "id": "sony bbc earth hd", 
+    "name": "sony bbc earth hd", 
+    "genre": "documentary", 
+    "logo": "http://tvassets.roarzone.info/images/44.png" 
+  },
+  {
+    "id": "natgeo",
+    "name": "natgeo", 
+    "genre": "documentary",
+    "logo": "http://tvassets.roarzone.info/images/35.png" 
+  },
   { "id": "animal planet", "name": "animal planet", "genre": "documentary", "logo": "http://tvassets.roarzone.info/images/animalplanet.png" },
   { "id": "star jalsha", "name": "star jalsha", "genre": "inbangla", "logo": "http://tvassets.roarzone.info/images/30.png" },
   { "id": "star jalsha movies", "name": "star jalsha movies", "genre": "inbangla", "logo": "http://tvassets.roarzone.info/images/31.png" },
@@ -191,9 +396,40 @@
   { "id": "movie bangla tv", "name": "movie bangla tv", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/86.png" },
   { "id": "my tv", "name": "my tv", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/56.png" },
   { "id": "news24", "name": "news24", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/18.png" },
-  { "id": "ntv", "name": "ntv", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/54.png" },
-  { "id": "rtv", "name": "rtv", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/14.png" },
-  { "id": "sa tv", "name": "sa tv", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/15.png" },
-  { "id": "sangsad tv", "name": "sangsad tv", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/88.png" },
-  { "id": "ekhon", "name": "ekhon", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/ekhon-tv.jpg" },
-  { "id": "bijoy-tv", "name": "bijoy-tv", "genre": "bangla", "logo": "http://tvassets.roarzone.info/images/bijoy-tv.jpg" }]
+  { 
+    "id": "ntv",
+    "name": "ntv", 
+    "genre": "bangla",
+    "logo": "http://tvassets.roarzone.info/images/54.png"
+  },
+  {
+    "id": "rtv",
+    "name": "rtv", 
+    "genre": "bangla",
+    "logo": "http://tvassets.roarzone.info/images/14.png" 
+  },
+  { 
+    "id": "sa tv", 
+    "name": "sa tv", 
+    "genre": "bangla", 
+    "logo": "http://tvassets.roarzone.info/images/15.png" 
+  },
+  { 
+    "id": "sangsad tv",
+    "name": "sangsad tv",
+    "genre": "bangla",
+    "logo": "http://tvassets.roarzone.info/images/88.png"
+  },
+  { 
+    "id": "ekhon",
+    "name": "ekhon", 
+    "genre": "bangla",
+    "logo": "http://tvassets.roarzone.info/images/ekhon-tv.jpg"
+  },
+  { 
+    "id": "bijoy-tv",
+    "name": "bijoy-tv",
+    "genre": "bangla",
+    "logo": "http://tvassets.roarzone.info/images/bijoy-tv.jpg" 
+  }
+  ]
