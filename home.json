@@ -9,6 +9,8 @@
 
 {"name":"IPL 2026","url":"go:t20","logo":"https://battingfirst.com/wp-content/uploads/2025/11/IPL-2026-297x300.jpg"}, 
 
+{"name":"CRIC HD","url":"go:crichd","logo":"https://tse2.mm.bing.net/th/id/OIP.yT4DEzdjpphCd3VohSvEMgAAAA?pid=Api&h=220&P=0"},
+
 {"name":"SPORTS","url":"go:sports","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/sports.jpg"}, 
 
 {"name":"MUSIC","url":"go:music","logo":"https://static.vecteezy.com/system/resources/previews/010/618/648/large_2x/logo-music-illustration-of-musical-notes-vector.jpg"}, 
@@ -19,11 +21,11 @@
 
 {"name":"SUN NXT","url":"go:sunnxt","logo":"https://www.sunnxt.com/images/logo/logo.png"},
 
-{"name":"YUPPTV","url":"go:yupptv","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMeTwS0OgFWR-2pJd0gRxthwByh6Z2Schy9KwZ49pxa1RD8SVwgANEAH0&s=10"},
-
 {"name":"SONY LIV","url":"go:sonyliv","logo":"https://i.pinimg.com/736x/7f/42/4c/7f424c0d27062ef0a47b5314d54e1524.jpg"},
 
 {"name":"SONY LIV LIVE EVENTS","url":"go:slivliveev","logo":"https://i.pinimg.com/736x/7f/42/4c/7f424c0d27062ef0a47b5314d54e1524.jpg"},
+
+{"name":"YUPPTV","url":"go:yupptv","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMeTwS0OgFWR-2pJd0gRxthwByh6Z2Schy9KwZ49pxa1RD8SVwgANEAH0&s=10"},
 
 {"name":"FANCODE","url":"go:fancode","logo":"https://technosports.co.in/wp-content/uploads/2024/02/23196-fancode-1024x614.webp"}, 
 
