@@ -44,10 +44,10 @@
         "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
         "keyId": "ce59e82f061f57c5a423d3342ae4cb7d",
         "key": "5218a59b8da17a2b2e4b217802f716f0",
-        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd",
-        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd",
-        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd",
-        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd",
+        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd",
         "idx1": "https://joplay.lrl45.workers.dev/443"
     },
     {
@@ -78,10 +78,10 @@
         "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
         "keyId": "6f7b7241b2935a909d389fe318e5baaa",
         "key": "65783311644973348f359dc154bb41db",
-        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd",
-        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd",
-        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd",
-        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd",
+        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd",
         "idx1": "https://joplay.lrl45.workers.dev/1132"
     },
     {
@@ -129,10 +129,10 @@
         "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
         "keyId": "ec7ad3786d9e5efa9e0c4aeb3e58c7b7",
         "key": "907509ccae7e68b30ae75b5d09fe60ef",
-        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd",
-        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd",
-        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd",
-        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd",
+        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd",
         "idx1": "https://joplay.lrl45.workers.dev/156"
     },
     {
@@ -146,10 +146,10 @@
         "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
         "keyId": "e6afa4754bc15dd28ab6806f417d319d",
         "key": "6a74ef2884813547109ee96098610387",
-        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd",
-        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd",
-        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd",
-        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd",
+        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd",
         "idx1": "https://joplay.lrl45.workers.dev/3096"
     },
     {
