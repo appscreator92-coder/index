@@ -3,6 +3,7 @@
   {
     "name": "Star Sports 1 HD",
     "id": "1106",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1106",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
     "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
@@ -12,6 +13,7 @@
   {
     "name": "Star Sports 1",
     "id": "1142",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1142",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd",
     "keyId": "df20894ec30954d3b28097c138f4cfda",
@@ -21,6 +23,7 @@
   {
     "name": "Star Sports 1 Hindi HD",
     "id": "1108",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1108",
     "category": "Hindi",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
     "keyId": "400131994b445d8c8817202248760fda",
@@ -30,6 +33,7 @@
   {
     "name": "Star Sports 1 Hindi",
     "id": "362",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=362",
     "category": "Hindi",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd",
     "keyId": "8ea9b607549252068e260a5f4d7dd321",
@@ -39,6 +43,7 @@
   {
     "name": "Star Sports 2 HD",
     "id": "1109",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1109",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
     "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
@@ -48,6 +53,7 @@
   {
     "name": "Star Sports 2",
     "id": "1141",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1141",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd",
     "keyId": "fc3aafe80845584199a637249fad2ffa",
@@ -57,6 +63,7 @@
   {
     "name": "Star Sports 2 Hindi HD",
     "id": "1984",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1984",
     "category": "Hindi",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd",
     "keyId": "bd1ea6a1c1fb5dcdb709434e0826bbc0",
@@ -66,6 +73,7 @@
   {
     "name": "Star Sports 2 Hindi",
     "id": "1985",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1985",
     "category": "Hindi",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_1_SD_BTS/WDVLive/index.mpd",
     "keyId": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
@@ -75,6 +83,7 @@
   {
     "name": "Star Sports 3",
     "id": "1389",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1389",
     "category": "Hindi",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd",
     "keyId": "e4e8647eaf0659ac85f61765a5abcdc1",
@@ -84,6 +93,7 @@
   {
     "name": "Star Sports 1 Tamil HD",
     "id": "3277",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=3277",
     "category": "Tamil",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd",
     "keyId": "2272c0bc6b2e5cb090b1f55996e0026c",
@@ -93,6 +103,7 @@
   {
     "name": "Star Sports 1 Tamil",
     "id": "1124",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1124",
     "category": "Tamil",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd",
     "keyId": "d0d750ebd52b5756aa7fb833f61ceece",
@@ -102,6 +113,7 @@
   {
     "name": "Star Sports 1 Telugu HD",
     "id": "3278",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=3278",
     "category": "Telugu",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd",
     "keyId": "49e84b9edfd85379b90c81b7d2d3d2bf",
@@ -111,6 +123,7 @@
   {
     "name": "Star Sports 1 Telugu",
     "id": "1651",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1651",
     "category": "Telugu",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd",
     "keyId": "200a6dd89c6b5a48b9991d8ab57fc7d2",
@@ -120,6 +133,7 @@
   {
     "name": "Star Sports 1 Kannada",
     "id": "1650",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1650",
     "category": "Kannada",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd",
     "keyId": "9a6d058fa40b5460a946178900eb44cb",
@@ -129,6 +143,7 @@
   {
     "name": "Star Sports 2 Kannada",
     "id": "1122",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1122",
     "category": "Kannada",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd",
     "keyId": "7af2add2968a56309519ac2680c18f25",
@@ -138,6 +153,7 @@
   {
     "name": "Star Sports 2 Tamil HD",
     "id": "3273",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=3273",
     "category": "Tamil",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd",
     "keyId": "dc44fe6251825774b90d58dcfa7d94e0",
@@ -147,6 +163,7 @@
   {
     "name": "Star Sports 2 Tamil",
     "id": "2853",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=2853",
     "category": "Tamil",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd",
     "keyId": "3979aae1ca51561c9e8074cd618b3864",
@@ -156,6 +173,7 @@
   {
     "name": "Star Sports 2 Telugu HD",
     "id": "3274",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=3274",
     "category": "Telugu",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd",
     "keyId": "c8a2fb190fc957c1b8333af9a7a39d31",
@@ -165,6 +183,7 @@
   {
     "name": "Star Sports 2 Telugu",
     "id": "2852",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=2852",
     "category": "Telugu",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd",
     "keyId": "e38f46718d9d5c40af83095f176ba41e",
