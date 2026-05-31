@@ -1,5 +1,19 @@
 [
- 
+
+  {
+        "name": "Star Sports 1 HD",
+        "id": "1002",
+        "category": "Sports",
+        "logo": "https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/Star-Sports-1-HD.png",
+        "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
+    },
+ {
+        "name": "Willow HD TV",
+        "id": "1013",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+    },
   {
     "name": "Star Sports 1 HD",
     "id": "1106",
