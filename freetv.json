@@ -1,0 +1,2354 @@
+[
+    {
+        "name": " Dangal",
+        "id": "36",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000043.png",
+        "link": "https://origin1.freetvindia.com/live/DANGAL.m3u8"
+    },
+    {
+        "name": " Shemaroo TV",
+        "id": "3847",
+        "logo": "https://core.freetvindia.com/media/Shemaroo_TV_6RRpF5Z.png",
+        "link": "https://origin1.freetvindia.com/live/SHEMAROOTV.m3u8"
+    },
+    {
+        "name": " Dangal 2",
+        "id": "3884",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000111.png",
+        "link": "https://origin1.freetvindia.com/live/DANGAL2.m3u8"
+    },
+    {
+        "name": " Shemaroo Umang",
+        "id": "3921",
+        "logo": "https://core.freetvindia.com/media/Shemaroo_Umang.png",
+        "link": "https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8"
+    },
+    {
+        "name": " Nazara TV",
+        "id": "21436",
+        "logo": "https://core.freetvindia.com/media/channels/NazaraTv.png",
+        "link": "https://mumt03.tangotv.in/NAZARA/index.m3u8"
+    },
+    {
+        "name": " The Q",
+        "id": "3958",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000115.png",
+        "link": "https://mumt05.tangotv.in/THEQ/index.m3u8"
+    },
+    {
+        "name": " Shemaroo JOSH",
+        "id": "4143",
+        "logo": "https://core.freetvindia.com/media/channels/shemaroo_josh.png",
+        "link": "https://mumt04.tangotv.in/Shemaroojosh/index.m3u8"
+    },
+    {
+        "name": " Unique TV",
+        "id": "4180",
+        "logo": "https://core.freetvindia.com/media/UniqueTV.png",
+        "link": "https://mumt05.tangotv.in/UNIQUETV/index.m3u8"
+    },
+    {
+        "name": " Pasand TV",
+        "id": "4217",
+        "logo": "https://core.freetvindia.com/media/pasandtv_logos.png",
+        "link": "https://mumt01.tangotv.in/PASANDTV/index.m3u8"
+    },
+    {
+        "name": " DD National HD",
+        "id": "3995",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000351.png",
+        "link": "https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8"
+    },
+    {
+        "name": " Manoranjan TV",
+        "id": "28135",
+        "logo": "https://core.freetvindia.com/media/channels/Manoranjan_TV.png",
+        "link": "https://cdn-1.pishow.tv/live/1013/master.m3u8"
+    },
+    {
+        "name": " Manoranjan Grand",
+        "id": "4032",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000109.png",
+        "link": "https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8"
+    },
+    {
+        "name": " Anjan TV",
+        "id": "4069",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000140.png",
+        "link": "https://mumt02.tangotv.in/ANJANTV/index.m3u8"
+    },
+    {
+        "name": " Manoranjan Prime",
+        "id": "4106",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000487.png",
+        "link": "https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8"
+    },
+    {
+        "name": " ABZY Dhakad",
+        "id": "28177",
+        "logo": "https://core.freetvindia.com/media/channels/Abzy_Dhakad.png",
+        "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8"
+    },
+    {
+        "name": " Gangaur",
+        "id": "4254",
+        "logo": "https://core.freetvindia.com/media/gangourtv.png",
+        "link": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/3a2f587c-8163-4acd-b5b1-ab20be368c33/1.m3u8"
+    },
+    {
+        "name": " Padharo SA - Rajasthani",
+        "id": "7325",
+        "logo": "https://core.freetvindia.com/media/padharosa.png",
+        "link": "https://mumt03.tangotv.in/PADHAROSA/index.m3u8"
+    },
+    {
+        "name": " All Time Movies",
+        "id": "4328",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000637.png",
+        "link": "https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8"
+    },
+    {
+        "name": " Goldmines Movies",
+        "id": "4402",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000604.png",
+        "link": "https://origin1.freetvindia.com/live/GoldminesMovies.m3u8"
+    },
+    {
+        "name": " B4U Kadak",
+        "id": "4513",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000005.png",
+        "link": "https://origin1.freetvindia.com/live/B4UKADAK.m3u8"
+    },
+    {
+        "name": " Goldmines",
+        "id": "4439",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000243.png",
+        "link": "https://origin1.freetvindia.com/live/GoldMines.m3u8"
+    },
+    {
+        "name": " B4U Movies",
+        "id": "4550",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000001.png",
+        "link": "https://origin1.freetvindia.com/live/B4UMOVIES.m3u8"
+    },
+    {
+        "name": " Goldmines bollywood",
+        "id": "4476",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000658.png",
+        "link": "https://origin1.freetvindia.com/live/GOLDMINESBOLLYWOOD.m3u8"
+    },
+    {
+        "name": " MH One",
+        "id": "12468",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000259.png",
+        "link": "https://origin1.freetvindia.com/live/MHONE.m3u8"
+    },
+    {
+        "name": " India Talkies",
+        "id": "4291",
+        "logo": "https://core.freetvindia.com/media/FreeTV_India_Talkies.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/IndiaTalkies/master_1.m3u8"
+    },
+    {
+        "name": " ABZY Movies",
+        "id": "28261",
+        "logo": "https://core.freetvindia.com/media/channels/ABZY_Movies.png",
+        "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
+    },
+    {
+        "name": " Manoranjan Movies",
+        "id": "4735",
+        "logo": "https://core.freetvindia.com/media/Manoranjan_movies.png",
+        "link": "https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8"
+    },
+    {
+        "name": " Maha Movie",
+        "id": "4698",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000463.png",
+        "link": "https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8"
+    },
+    {
+        "name": " Wow Cinema One",
+        "id": "4661",
+        "logo": "https://core.freetvindia.com/media/wow_cinemaone.png",
+        "link": "https://mumt02.tangotv.in/WOWCINEMAONE/index.m3u8"
+    },
+    {
+        "name": " Music India",
+        "id": "4772",
+        "logo": "https://core.freetvindia.com/media/music_india.png",
+        "link": "https://mumt05.tangotv.in/MUSICINDIA/index.m3u8"
+    },
+    {
+        "name": " 9XM",
+        "id": "4809",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000092.png",
+        "link": "https://origin1.freetvindia.com/live/9XM.m3u8"
+    },
+    {
+        "name": " Mastiii",
+        "id": "4846",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000045.png",
+        "link": "https://mumt02.tangotv.in/MASTIII/index.m3u8"
+    },
+    {
+        "name": " 9X Jalwa",
+        "id": "4883",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000103.png",
+        "link": "https://mumt03.tangotv.in/9XJALWA/index.m3u8"
+    },
+    {
+        "name": " Show Box",
+        "id": "21398",
+        "logo": "https://core.freetvindia.com/media/channels/Show_Box.png",
+        "link": "https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8"
+    },
+    {
+        "name": " E24",
+        "id": "4920",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000002.png",
+        "link": "https://mumt04.tangotv.in/E24/index.m3u8"
+    },
+    {
+        "name": " B4U Music",
+        "id": "4957",
+        "logo": "https://core.freetvindia.com/media/9005123451000055_PM1LSJ7.png",
+        "link": "https://origin1.freetvindia.com/live/B4UMUSIC.m3u8"
+    },
+    {
+        "name": " Hindi Hits",
+        "id": "4994",
+        "logo": "https://core.freetvindia.com/media/Hindihits_FW.png",
+        "link": "https://origin1.freetvindia.com/live/HINDIHITS.m3u8"
+    },
+    {
+        "name": " Evergreen Hits",
+        "id": "5031",
+        "logo": "https://core.freetvindia.com/media/Evergreenhits_FW.png",
+        "link": "https://origin1.freetvindia.com/live/EVERGREENHITS.m3u8"
+    },
+    {
+        "name": " Melody Hits",
+        "id": "5068",
+        "logo": "https://core.freetvindia.com/media/Melodyhits_FW.png",
+        "link": "https://mumt03.tangotv.in/MELODYHITS/index.m3u8"
+    },
+    {
+        "name": " Insync",
+        "id": "5105",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000362.png",
+        "link": "https://mumt04.tangotv.in/INSYNC/index.m3u8"
+    },
+    {
+        "name": " Aaj Tak",
+        "id": "5179",
+        "logo": "https://core.freetvindia.com/media/Aaj_tak_news.png",
+        "link": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"
+    },
+    {
+        "name": " TV9 Bharatvarsh",
+        "id": "5253",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000015.png",
+        "link": "https://origin1.freetvindia.com/live/TV9BHARATVARSH.m3u8"
+    },
+    {
+        "name": " Zee News",
+        "id": "6178",
+        "logo": "https://core.freetvindia.com/media/Z_News.png",
+        "link": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8"
+    },
+    {
+        "name": " Republic Bharat",
+        "id": "5216",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000013.png",
+        "link": "https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8"
+    },
+    {
+        "name": " India TV",
+        "id": "5364",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000024.png",
+        "link": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8"
+    },
+    {
+        "name": " ABP News",
+        "id": "5290",
+        "logo": "https://core.freetvindia.com/media/ABP_NEWS_HINDI.png",
+        "link": "https://origin1.freetvindia.com/live/ABPNEWS.m3u8"
+    },
+    {
+        "name": " NDTV India",
+        "id": "5438",
+        "logo": "https://core.freetvindia.com/media/NDTV_india.png",
+        "link": "https://origin1.freetvindia.com/live/NDTVINDIA.m3u8"
+    },
+    {
+        "name": " Zee Business",
+        "id": "7362",
+        "logo": "https://core.freetvindia.com/media/Z_Business.png",
+        "link": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8"
+    },
+    {
+        "name": " CNBC TV Awaaz",
+        "id": "6252",
+        "logo": "https://core.freetvindia.com/media/CNBC_Awaj.png",
+        "link": "https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "name": " ET Now Swadesh",
+        "id": "6289",
+        "logo": "https://core.freetvindia.com/media/ETnow_Swadesh.png",
+        "link": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8"
+    },
+    {
+        "name": " Media9 News",
+        "id": "37887",
+        "logo": "https://core.freetvindia.com/media/channels/media9.png",
+        "link": "http://tv.media9news.com:8080/hls/media9.m3u8"
+    },
+    {
+        "name": " News Nation",
+        "id": "5327",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000020.png",
+        "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+    },
+    {
+        "name": " Times Now Navbharat",
+        "id": "5142",
+        "logo": "https://core.freetvindia.com/media/Timesnow_navbharat.png",
+        "link": "https://origin1.freetvindia.com/live/TIMESNOWNAVBHARAT.m3u8"
+    },
+    {
+        "name": " News24",
+        "id": "5549",
+        "logo": "https://core.freetvindia.com/media/news24.png",
+        "link": "https://mumt03.tangotv.in/NEWS24/index.m3u8"
+    },
+    {
+        "name": " Zee Bharat",
+        "id": "6215",
+        "logo": "https://core.freetvindia.com/media/zee_hindustan.png",
+        "link": "https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8"
+    },
+    {
+        "name": " Good News Today",
+        "id": "5623",
+        "logo": "https://core.freetvindia.com/media/gnt.png",
+        "link": "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8"
+    },
+    {
+        "name": " Bharat Express",
+        "id": "5771",
+        "logo": "https://core.freetvindia.com/media/Bharat_Express.png",
+        "link": "https://mumt02.tangotv.in/BHARATEXPRESS/index.m3u8"
+    },
+    {
+        "name": " Bharat Samachar",
+        "id": "5808",
+        "logo": "https://core.freetvindia.com/media/bharat_samachar.png",
+        "link": "https://mumt03.tangotv.in/BHARATSAMACHAR/index.m3u8"
+    },
+    {
+        "name": " DD News",
+        "id": "5475",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000352.png",
+        "link": "https://mumt04.tangotv.in/DDNEWS/index.m3u8"
+    },
+    {
+        "name": " MKN News",
+        "id": "21474",
+        "logo": "https://core.freetvindia.com/media/channels/MKN_NEWS_hindi.png",
+        "link": "https://mumt04.tangotv.in/MKNNEWSHINDI/index.m3u8"
+    },
+    {
+        "name": " India Ahead",
+        "id": "27946",
+        "logo": "https://core.freetvindia.com/media/channels/India_Ahead.png",
+        "link": "https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8"
+    },
+    {
+        "name": " Sansad TV HD 1",
+        "id": "5697",
+        "logo": "https://core.freetvindia.com/media/Sansadtv_hd1.png",
+        "link": "https://mumt04.tangotv.in/SANSADTVHD1/index.m3u8"
+    },
+    {
+        "name": " Sansad TV HD 2",
+        "id": "5660",
+        "logo": "https://core.freetvindia.com/media/Sansadtv_hd2.png",
+        "link": "https://mumt04.tangotv.in/SANSADTVHD2/index.m3u8"
+    },
+    {
+        "name": " India TV Speed News",
+        "id": "5401",
+        "logo": "https://core.freetvindia.com/media/indiatv_speed_news.png",
+        "link": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8"
+    },
+    {
+        "name": " Sudarshan News",
+        "id": "5512",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000087.png",
+        "link": "https://mumt04.tangotv.in/SUDARSHANNEWS/index.m3u8"
+    },
+    {
+        "name": " Bharat 24",
+        "id": "5586",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000375.png",
+        "link": "https://mumt03.tangotv.in/BHARAT24/index.m3u8"
+    },
+    {
+        "name": " APN",
+        "id": "5734",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000262.png",
+        "link": "https://mumt01.tangotv.in/APN/index.m3u8"
+    },
+    {
+        "name": " Hindi Khabar",
+        "id": "5845",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000081.png",
+        "link": "https://mumt04.tangotv.in/HINDIKHABAR/index.m3u8"
+    },
+    {
+        "name": " Khabrain Abhi Tak",
+        "id": "5882",
+        "logo": "https://core.freetvindia.com/media/khabre_abhi_tak.png",
+        "link": "https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8"
+    },
+    {
+        "name": " Network 10",
+        "id": "5919",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000104.png",
+        "link": "https://mumt01.tangotv.in/NETWORK10/index.m3u8"
+    },
+    {
+        "name": " News 1 India",
+        "id": "5956",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000122.png",
+        "link": "https://mumt02.tangotv.in/NEWS1INDIA/index.m3u8"
+    },
+    {
+        "name": " News 11 Bharat",
+        "id": "5993",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000098.png",
+        "link": "https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8"
+    },
+    {
+        "name": " Jantantra",
+        "id": "6030",
+        "logo": "https://core.freetvindia.com/media/Jantantra_tv.png",
+        "link": "https://mumt05.tangotv.in/JANTANTRA/index.m3u8"
+    },
+    {
+        "name": " Rajya 24 News",
+        "id": "6067",
+        "logo": "https://core.freetvindia.com/media/Rajya_24_1.png",
+        "link": "https://itassist.one/rajya24news/rajya24/index.m3u8"
+    },
+    {
+        "name": " India 24X7",
+        "id": "6104",
+        "logo": "https://core.freetvindia.com/media/india24x7.png",
+        "link": "https://itassist.one/livetv/india24x7/video.m3u8"
+    },
+    {
+        "name": " Samrat TV",
+        "id": "6141",
+        "logo": "https://core.freetvindia.com/media/samrattv.png",
+        "link": "https://itassist.one/LIVEOTT/kahbar24x7/video.m3u8"
+    },
+    {
+        "name": " DD Madhya Pradesh",
+        "id": "6326",
+        "logo": "https://core.freetvindia.com/media/DD_Madhyapradesh.png",
+        "link": "https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8"
+    },
+    {
+        "name": " NDTV MPCG",
+        "id": "6363",
+        "logo": "https://core.freetvindia.com/media/NDTV_MP_Chhatishgarh.png",
+        "link": "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8"
+    },
+    {
+        "name": " News24 MP/CG",
+        "id": "6400",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000004.png",
+        "link": "https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8"
+    },
+    {
+        "name": " News State MP & CHG",
+        "id": "7177",
+        "logo": "https://core.freetvindia.com/media/News_State_MPCG.png",
+        "link": "https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8"
+    },
+    {
+        "name": " Sadhna News MP",
+        "id": "6696",
+        "logo": "https://core.freetvindia.com/media/Sadhna_News_MPRAJ.png",
+        "link": "https://mumt04.tangotv.in/SADHNEWSPMRAJ/video.m3u8"
+    },
+    {
+        "name": " DD Uttar Pradesh",
+        "id": "6437",
+        "logo": "https://core.freetvindia.com/media/DD_Uttrarpradesh.png",
+        "link": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/0d978355-5b3c-4a2b-8fa9-32423aec9f3a/2.m3u8"
+    },
+    {
+        "name": " DD Utrakhsnd",
+        "id": "48720",
+        "logo": "https://core.freetvindia.com/media/channels/DD_Utrakhand.png",
+        "link": "https://mumt03.tangotv.in/DDUTTRAKHAND/index.m3u8"
+    },
+    {
+        "name": " DD Bihar",
+        "id": "6548",
+        "logo": "https://core.freetvindia.com/media/DD_Bihar.png",
+        "link": "https://mumt03.tangotv.in/DDBIHAR/index.m3u8"
+    },
+    {
+        "name": " DD Rajasthan",
+        "id": "6474",
+        "logo": "https://core.freetvindia.com/media/DD_Rajasthan.png",
+        "link": "https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8"
+    },
+    {
+        "name": " NDTV Rajasthan",
+        "id": "6511",
+        "logo": "https://core.freetvindia.com/media/NDTV_Rajasthan.png",
+        "link": "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/chunklist_3.m3u8"
+    },
+    {
+        "name": " India News Rajasthan",
+        "id": "28303",
+        "logo": "https://core.freetvindia.com/media/channels/India_News_Rajasthan.png",
+        "link": "https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8"
+    },
+    {
+        "name": " JAN TV",
+        "id": "28345",
+        "logo": "https://core.freetvindia.com/media/channels/Jan_TV.png",
+        "link": "https://mumt03.tangotv.in/JANTV/index.m3u8"
+    },
+    {
+        "name": " 1st India News",
+        "id": "6918",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000535.png",
+        "link": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
+    },
+    {
+        "name": " Bansal News",
+        "id": "6622",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000405.png",
+        "link": "https://mumt02.tangotv.in/BANSALNEWS/index.m3u8"
+    },
+    {
+        "name": " Sadhana Plus News",
+        "id": "6659",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000189.png",
+        "link": "https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8"
+    },
+    {
+        "name": " Swaraj Express SMBC",
+        "id": "28471",
+        "logo": "https://core.freetvindia.com/media/channels/swaraj_Express_SMBC.png",
+        "link": "https://cdn-2.pishow.tv/live/477/master.m3u8"
+    },
+    {
+        "name": " Total TV",
+        "id": "6733",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000391.png",
+        "link": "https://mumt04.tangotv.in/TOTALTV/index.m3u8"
+    },
+    {
+        "name": " TV 24",
+        "id": "6770",
+        "logo": "https://core.freetvindia.com/media/tv24_live.png",
+        "link": "https://mumt01.tangotv.in/TV24/index.m3u8?filter.tracks=v1a1"
+    },
+    {
+        "name": " BS TV",
+        "id": "6807",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000220.png",
+        "link": "https://mumt02.tangotv.in/BSTV/index.m3u8"
+    },
+    {
+        "name": " Ind 24",
+        "id": "6844",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000101.png",
+        "link": "https://mumt02.tangotv.in/IND24/index.m3u8"
+    },
+    {
+        "name": " In 24 News",
+        "id": "28513",
+        "logo": "https://core.freetvindia.com/media/channels/in24_News.png",
+        "link": "https://server.livelegitpro.in/in24news/in24news/index.fmp4.m3u8"
+    },
+    {
+        "name": " Raftaar Media",
+        "id": "6881",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000384.png",
+        "link": "https://mumt04.tangotv.in/RAFTAARMEDIA/index.m3u8"
+    },
+    {
+        "name": " ANB News National",
+        "id": "6955",
+        "logo": "https://core.freetvindia.com/media/ANB_NEWS.png",
+        "link": "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8"
+    },
+    {
+        "name": " Har Khabar",
+        "id": "6992",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000494.png",
+        "link": "https://mumt01.tangotv.in/HARKHABAR/index.m3u8"
+    },
+    {
+        "name": " News Hour",
+        "id": "7029",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000495.png",
+        "link": "https://mumt01.tangotv.in/NEWS24/index.m3u8"
+    },
+    {
+        "name": " AMV News Network",
+        "id": "7066",
+        "logo": "https://core.freetvindia.com/media/AMV_Network.png",
+        "link": "https://mumt02.tangotv.in/AMVNETWORK/index.m3u8"
+    },
+    {
+        "name": " Sach Bedhadak",
+        "id": "7103",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000517.png",
+        "link": "https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8"
+    },
+    {
+        "name": " IBC 24",
+        "id": "7140",
+        "logo": "https://core.freetvindia.com/media/IBC_24.png",
+        "link": "https://mumt05.tangotv.in/IBC24/index.m3u8"
+    },
+    {
+        "name": " Khabar Fast",
+        "id": "7251",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000461.png",
+        "link": "https://mumt04.tangotv.in/KHABARFAST/index.m3u8"
+    },
+    {
+        "name": " STV Haryana News",
+        "id": "25204",
+        "logo": "https://core.freetvindia.com/media/channels/STVHaeryana.png",
+        "link": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8"
+    },
+    {
+        "name": " Vertent SamacharPlus",
+        "id": "7288",
+        "logo": "https://core.freetvindia.com/media/Vertent_Samachar_plus.png",
+        "link": "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8"
+    },
+    {
+        "name": " HI Dost",
+        "id": "2663",
+        "logo": "https://core.freetvindia.com/media/hi_dost.png",
+        "link": "https://mumt03.tangotv.in/HIDOST/index.m3u8"
+    },
+    {
+        "name": " Action Hollywood",
+        "id": "2737",
+        "logo": "https://core.freetvindia.com/media/action_hollywood_movie.png",
+        "link": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+    },
+    {
+        "name": " Hollywood Color",
+        "id": "2774",
+        "logo": "https://core.freetvindia.com/media/528_FreeTV_Hollywood_classic_CLR.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/HollywoodCLR/master_1.m3u8"
+    },
+    {
+        "name": " Hollywood Black & White",
+        "id": "2811",
+        "logo": "https://core.freetvindia.com/media/529_FreeTV_Hollywood_Classic_BW.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/HollywoodBW/master_1.m3u8"
+    },
+    {
+        "name": " Afrobeat",
+        "id": "2848",
+        "logo": "https://core.freetvindia.com/media/Afrobeat_TV.png",
+        "link": "https://stream.ecable.tv/afrobeats/index.m3u8"
+    },
+    {
+        "name": " India Today",
+        "id": "2959",
+        "logo": "https://core.freetvindia.com/media/India_Today.png",
+        "link": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8"
+    },
+    {
+        "name": " NEWS9",
+        "id": "3033",
+        "logo": "https://core.freetvindia.com/media/news9_live_QkLeE1F.png",
+        "link": "https://vg-tv9live.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-573213/679220d8-59d5-4dc0-8bb9-fd2bde1b989a/3.m3u8"
+    },
+    {
+        "name": " NDTV 24x7",
+        "id": "3144",
+        "logo": "https://core.freetvindia.com/media/NDTV_24x7.png",
+        "link": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
+    },
+    {
+        "name": " Times Now",
+        "id": "3107",
+        "logo": "https://core.freetvindia.com/media/Times_Now.png",
+        "link": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8"
+    },
+    {
+        "name": " Republic TV",
+        "id": "2885",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000069.png",
+        "link": "https://mumt05.tangotv.in/REPUBLICTV/index.m3u8"
+    },
+    {
+        "name": " DD India",
+        "id": "2922",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000359.png",
+        "link": "https://mumt05.tangotv.in/DDINDIA/index.m3u8"
+    },
+    {
+        "name": " CVR News English",
+        "id": "2996",
+        "logo": "https://core.freetvindia.com/media/CVR_English.png",
+        "link": "https://mumt03.tangotv.in/CVRNEWSENGLISH/index.m3u8"
+    },
+    {
+        "name": " CNBC TV18",
+        "id": "3181",
+        "logo": "https://core.freetvindia.com/media/CNBC_TV18.png",
+        "link": "https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "name": " NDTV Profit",
+        "id": "3218",
+        "logo": "https://core.freetvindia.com/media/NDTV_Profit.png",
+        "link": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_4.m3u8"
+    },
+    {
+        "name": " ET Now",
+        "id": "3070",
+        "logo": "https://core.freetvindia.com/media/etnow.png",
+        "link": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8"
+    },
+    {
+        "name": " Super Yatch TV",
+        "id": "52000",
+        "logo": "https://core.freetvindia.com/media/channels/superyatchtv.png",
+        "link": "https://sy.wns.live/hls/stream.m3u8"
+    },
+    {
+        "name": " Al Jazeera HD",
+        "id": "3255",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000427.png",
+        "link": "https://mumt05.tangotv.in/ALJAZEERAHD/index.m3u8"
+    },
+    {
+        "name": " CNA",
+        "id": "3403",
+        "logo": "https://core.freetvindia.com/media/CNA_lGjPAvd.png",
+        "link": "https://mumt05.tangotv.in/CNA/index.m3u8"
+    },
+    {
+        "name": " DW",
+        "id": "3292",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000073.png",
+        "link": "https://mumt05.tangotv.in/DWTV/index.m3u8"
+    },
+    {
+        "name": " NHK World",
+        "id": "3329",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000429.png",
+        "link": "https://mumt02.tangotv.in/NHKWORLD/index.m3u8"
+    },
+    {
+        "name": " TRT World",
+        "id": "3366",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000428.png",
+        "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+    },
+    {
+        "name": " Arirang",
+        "id": "47961",
+        "logo": "https://core.freetvindia.com/media/channels/arirang.png",
+        "link": "https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8"
+    },
+    {
+        "name": " CGTN",
+        "id": "3440",
+        "logo": "https://core.freetvindia.com/media/CGTN_English.png",
+        "link": "https://english-livebkali.cgtn.com/live/encgtn.m3u8"
+    },
+    {
+        "name": " RT News",
+        "id": "3477",
+        "logo": "https://core.freetvindia.com/media/RT_News.png",
+        "link": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8"
+    },
+    {
+        "name": " E24 test",
+        "id": "23560",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000002.png",
+        "link": "https://mumt04.tangotv.in/E24/index.m3u8"
+    },
+    {
+        "name": " RT Doc",
+        "id": "51912",
+        "logo": "https://core.freetvindia.com/media/channels/RT_DOC.png",
+        "link": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+    },
+    {
+        "name": " DD Sports",
+        "id": "12542",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000373.png",
+        "link": "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
+    },
+    {
+        "name": " Sports Squad Haryana",
+        "id": "12579",
+        "logo": "https://core.freetvindia.com/media/Sports_Squad_Hariyana.png",
+        "link": "https://mumt01.tangotv.in/SPORTSSQUADHARYANA/index.m3u8"
+    },
+    {
+        "name": " Kabaddi 24X7",
+        "id": "12616",
+        "logo": "https://core.freetvindia.com/media/kabaddi_24x7.png",
+        "link": "https://mumt02.tangotv.in/KABADDI24X7/index.m3u8"
+    },
+    {
+        "name": " Food Food",
+        "id": "7399",
+        "logo": "https://core.freetvindia.com/media/Food_Food.png",
+        "link": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
+    },
+    {
+        "name": " DD Kisan",
+        "id": "7436",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000063.png",
+        "link": "https://mumt04.tangotv.in/DDKISAN/index.m3u8"
+    },
+    {
+        "name": " BVG",
+        "id": "7473",
+        "logo": "https://core.freetvindia.com/media/bvg.png",
+        "link": "https://mumt05.tangotv.in/BVG/index.m3u8"
+    },
+    {
+        "name": " DD Bharati",
+        "id": "7510",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000488.png",
+        "link": "https://mumt01.tangotv.in/DDBHARATI/index.m3u8"
+    },
+    {
+        "name": " DD Urdu",
+        "id": "7547",
+        "logo": "https://core.freetvindia.com/media/DD_urdu_2Y1e95n.png",
+        "link": "https://mumt05.tangotv.in/DDURDU/index.m3u8"
+    },
+    {
+        "name": " Aastha",
+        "id": "1627",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000511.png",
+        "link": "https://origin1.freetvindia.com/live/AASTHA.m3u8"
+    },
+    {
+        "name": " Aastha Bhajan",
+        "id": "1664",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000021.png",
+        "link": "https://mumt05.tangotv.in/AASTHABHAJAN/index.m3u8"
+    },
+    {
+        "name": " Sanskar",
+        "id": "1701",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000616.png",
+        "link": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8"
+    },
+    {
+        "name": " Hare Krsna",
+        "id": "1738",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000197.png",
+        "link": "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8"
+    },
+    {
+        "name": " Satsang",
+        "id": "1775",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000038.png",
+        "link": "https://mumt05.tangotv.in/SATSANG/index.m3u8"
+    },
+    {
+        "name": " SVBC 4 Hindi",
+        "id": "1812",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000366.png",
+        "link": "https://mumt05.tangotv.in/SVBC4HINDI/index.m3u8"
+    },
+    {
+        "name": " Ishwar Bhakti",
+        "id": "1886",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000107.png",
+        "link": "https://freetv.tangotv.in/sdscoder1/IshwarBhaktiTv/video.m3u8"
+    },
+    {
+        "name": " Bhakti Sagar",
+        "id": "1923",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000161.png",
+        "link": "https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8"
+    },
+    {
+        "name": " Divya",
+        "id": "1960",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000012.png",
+        "link": "https://origin1.freetvindia.com/live/DIVYA.m3u8"
+    },
+    {
+        "name": " Awakening TV",
+        "id": "1997",
+        "logo": "https://core.freetvindia.com/media/Awakening.png",
+        "link": "https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8"
+    },
+    {
+        "name": " Peace of Mind",
+        "id": "2034",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000008.png",
+        "link": "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8"
+    },
+    {
+        "name": " Santvani",
+        "id": "2071",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000136.png",
+        "link": "https://mumt05.tangotv.in/SANTVANI/index.m3u8"
+    },
+    {
+        "name": " Sarv Dharm Sangam",
+        "id": "2108",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000037.png",
+        "link": "https://mumt05.tangotv.in/SARVDHARMSANGAM/index.m3u8"
+    },
+    {
+        "name": " Subharti TV",
+        "id": "2145",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000389.png",
+        "link": "https://mumt04.tangotv.in/SUBHARTITV/index.m3u8"
+    },
+    {
+        "name": " Vedic",
+        "id": "2182",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000363.png",
+        "link": "https://mumt05.tangotv.in/VEDIC/index.m3u8"
+    },
+    {
+        "name": " Sadhna TV",
+        "id": "2219",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000018.png",
+        "link": "https://mumt05.tangotv.in/SADHNATV/index.m3u8"
+    },
+    {
+        "name": " Darshan24",
+        "id": "2256",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000547.png",
+        "link": "https://mumt05.tangotv.in/DARSHAN24/index.m3u8"
+    },
+    {
+        "name": " Shubh TV",
+        "id": "2293",
+        "logo": "https://core.freetvindia.com/media/Shubh_Cinema.png",
+        "link": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index_8.m3u8"
+    },
+    {
+        "name": " Sadhna Gold",
+        "id": "2330",
+        "logo": "https://core.freetvindia.com/media/sadhana_Gold.png",
+        "link": "https://mumt03.tangotv.in/SADHNAGOLD/index.m3u8"
+    },
+    {
+        "name": " A One Imagine",
+        "id": "27999",
+        "logo": "https://core.freetvindia.com/media/channels/Aone_imagine_oxZPMkT.png",
+        "link": "http://117.211.8.100:8080/0.m3u8"
+    },
+    {
+        "name": " Dharm Sandesh",
+        "id": "2367",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000553.png",
+        "link": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8"
+    },
+    {
+        "name": " Aadinath TV",
+        "id": "2404",
+        "logo": "https://core.freetvindia.com/media/Adinath_TV.png",
+        "link": "https://mumt01.tangotv.in/AADINATHTV/index.m3u8"
+    },
+    {
+        "name": " Soham",
+        "id": "2441",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000621.png",
+        "link": "https://mumt03.tangotv.in/SOHAMTV/index.m3u8"
+    },
+    {
+        "name": " Jinvani",
+        "id": "2478",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000271.png",
+        "link": "https://mumt03.tangotv.in/JINVANI/index.m3u8"
+    },
+    {
+        "name": " Shubhsandesh TV",
+        "id": "2515",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000218.png",
+        "link": "https://mumt03.tangotv.in/SHUBHSANDESH/index.m3u8"
+    },
+    {
+        "name": " Hope Channel India",
+        "id": "2552",
+        "logo": "https://core.freetvindia.com/media/hope_channel.png",
+        "link": "https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8"
+    },
+    {
+        "name": " Goodnews TV",
+        "id": "2589",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000223.png",
+        "link": "https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8"
+    },
+    {
+        "name": " Grace TV",
+        "id": "2626",
+        "logo": "https://core.freetvindia.com/media/Grace_TV.png",
+        "link": "https://mumt03.tangotv.in/GRACETV/index.m3u8"
+    },
+    {
+        "name": " PTC Punjabi",
+        "id": "10951",
+        "logo": "https://core.freetvindia.com/media/IMG-20240905-WA0029.jpg",
+        "link": "https://origin1.freetvindia.com/live/PTCPUNJABI.m3u8"
+    },
+    {
+        "name": " PTC Punjabi Gold",
+        "id": "10988",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000034.png",
+        "link": "https://origin1.freetvindia.com/live/PTCPUNJABIGOLD.m3u8"
+    },
+    {
+        "name": " MH One Dil Se",
+        "id": "12431",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000261.png",
+        "link": "https://origin1.freetvindia.com/live/MHONEDILSE.m3u8"
+    },
+    {
+        "name": " Pitaara",
+        "id": "11025",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000085.png",
+        "link": "https://origin1.freetvindia.com/live/PITAARA.m3u8"
+    },
+    {
+        "name": " DD Punjabi",
+        "id": "11062",
+        "logo": "https://core.freetvindia.com/media/DD_Punjabi.png",
+        "link": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/b0667b3a-0e18-4a11-990b-b341542eca06/2.m3u8"
+    },
+    {
+        "name": " Movie Punjab",
+        "id": "11099",
+        "logo": "https://core.freetvindia.com/media/900_FreeTV_Movie_punjab.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/MoviePunjab/master_1.m3u8"
+    },
+    {
+        "name": " PTC Music",
+        "id": "11136",
+        "logo": "https://core.freetvindia.com/media/IMG-20240905-WA0032.jpg",
+        "link": "https://origin1.freetvindia.com/live/PTCMusic.m3u8"
+    },
+    {
+        "name": " 9X Tashan",
+        "id": "11173",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000019.png",
+        "link": "https://mumt01.tangotv.in/9XTASHAN/index.m3u8"
+    },
+    {
+        "name": " PTC Chak De",
+        "id": "11210",
+        "logo": "https://core.freetvindia.com/media/9005123451000030.png",
+        "link": "https://origin1.freetvindia.com/live/PTCCHAKDE.m3u8"
+    },
+    {
+        "name": " Punjabi Beats HD",
+        "id": "11247",
+        "logo": "https://core.freetvindia.com/media/Punjabi_Beats.png",
+        "link": "https://origin1.freetvindia.com/live/PUNJABIBEATSHD.m3u8"
+    },
+    {
+        "name": " Tabbar Hits",
+        "id": "11284",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000149.png",
+        "link": "https://origin1.freetvindia.com/live/TabbarHits.m3u8"
+    },
+    {
+        "name": " Balle Balle",
+        "id": "11321",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000390.png",
+        "link": "https://origin1.freetvindia.com/live/BALLEBALLE.m3u8"
+    },
+    {
+        "name": " Punjabi TV",
+        "id": "11358",
+        "logo": "https://core.freetvindia.com/media/tvPunjab.png",
+        "link": "https://mumt02.tangotv.in/PUNJABITV/index.m3u8"
+    },
+    {
+        "name": " FastMix",
+        "id": "11395",
+        "logo": "https://core.freetvindia.com/media/fast_mix.png",
+        "link": "https://mumt01.tangotv.in/FASTMIX/index.m3u8"
+    },
+    {
+        "name": " Punjabi Music HD",
+        "id": "11432",
+        "logo": "https://core.freetvindia.com/media/Punjabi_Music_HD.png",
+        "link": "https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8"
+    },
+    {
+        "name": " PTC News",
+        "id": "11469",
+        "logo": "https://core.freetvindia.com/media/IMG-20240905-WA0030.jpg",
+        "link": "https://origin1.freetvindia.com/live/PTCNEWS.m3u8"
+    },
+    {
+        "name": " ABP Sanjha",
+        "id": "11506",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000253.png",
+        "link": "https://mumt04.tangotv.in/ABPSANJHA/index.m3u8"
+    },
+    {
+        "name": " Living India News",
+        "id": "12505",
+        "logo": "https://core.freetvindia.com/media/LivingIndia_New.png",
+        "link": "https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8"
+    },
+    {
+        "name": " MH One News",
+        "id": "11543",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000258.png",
+        "link": "https://origin1.freetvindia.com/live/MHOneNews.m3u8"
+    },
+    {
+        "name": " Daily Post",
+        "id": "11580",
+        "logo": "https://core.freetvindia.com/media/Daily_post.png",
+        "link": "https://origin1.freetvindia.com/live/DAILYPOST.m3u8"
+    },
+    {
+        "name": " World Punjabi TV",
+        "id": "11617",
+        "logo": "https://core.freetvindia.com/media/World_Punjabi_TV.png",
+        "link": "https://origin1.freetvindia.com/live/WPNWORLDPUNJABI.m3u8"
+    },
+    {
+        "name": " Chardikala Time TV",
+        "id": "11654",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000150.png",
+        "link": "https://origin1.freetvindia.com/live/CHARDIKALATIMETV.m3u8"
+    },
+    {
+        "name": " Chardikala Time TV North America",
+        "id": "11691",
+        "logo": "https://core.freetvindia.com/media/chartikalatime_northAmerika.png",
+        "link": "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8"
+    },
+    {
+        "name": " PTC Simran",
+        "id": "11728",
+        "logo": "https://core.freetvindia.com/media/9005123451000035.png",
+        "link": "https://origin1.freetvindia.com/live/PTCSIMRAN.m3u8"
+    },
+    {
+        "name": " MH One Shraddha",
+        "id": "11765",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000260.png",
+        "link": "https://mumt01.tangotv.in/MHONESHRADDHA/index.m3u8"
+    },
+    {
+        "name": " Fateh TV",
+        "id": "11802",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000007.png",
+        "link": "https://mumt05.tangotv.in/FATEHTV/index.m3u8"
+    },
+    {
+        "name": " Sangat TV",
+        "id": "11987",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000599.png",
+        "link": "http://210.89.51.164:80/hlslive/Admin/RSPD032/live/Sangat_Tv_SRT_IN/master_1.m3u8"
+    },
+    {
+        "name": " Namdhari Channel",
+        "id": "12024",
+        "logo": "https://core.freetvindia.com/media/namdhari_tv.jpg",
+        "link": "https://hdvideo.namdhari.tv/live/sbs1.m3u8"
+    },
+    {
+        "name": " Amrit Gurbani",
+        "id": "11839",
+        "logo": "https://core.freetvindia.com/media/Amritgurbani.png",
+        "link": "https://origin1.freetvindia.com/live/AMRITGURBANI.m3u8"
+    },
+    {
+        "name": " Anandpur Live",
+        "id": "11876",
+        "logo": "https://core.freetvindia.com/media/Anandpur_Live.png",
+        "link": "https://mumt05.tangotv.in/ANANDPURLIVE/index.m3u8"
+    },
+    {
+        "name": " Shaheedan Live",
+        "id": "12283",
+        "logo": "https://core.freetvindia.com/media/Shaheedan_Live.png",
+        "link": "https://mumt02.tangotv.in/SHAHEEDDANLIVE/index.m3u8"
+    },
+    {
+        "name": " Shree Hazur Sahibji",
+        "id": "12320",
+        "logo": "https://core.freetvindia.com/media/Shree_Hazursahibji.png",
+        "link": "https://mumt02.tangotv.in/SHREEHAZURSAHIBJI/index.m3u8"
+    },
+    {
+        "name": " Nanaksar Live",
+        "id": "11913",
+        "logo": "https://core.freetvindia.com/media/Nanasar_live.png",
+        "link": "https://origin1.freetvindia.com/live/NanaksarLive.m3u8"
+    },
+    {
+        "name": " Dukhnivaran Patiala Live",
+        "id": "11950",
+        "logo": "https://core.freetvindia.com/media/dukhniwaran.png",
+        "link": "https://mumt02.tangotv.in/DUKHNIWARANPATIALA/index.m3u8"
+    },
+    {
+        "name": " Durgiana Live",
+        "id": "12098",
+        "logo": "https://core.freetvindia.com/media/Durgiana_Live.png",
+        "link": "https://mumt01.tangotv.in/DURGIANALIVE/index.m3u8"
+    },
+    {
+        "name": " Chintpurni Live",
+        "id": "12357",
+        "logo": "https://core.freetvindia.com/media/Chintpurni_Live.png",
+        "link": "https://origin1.freetvindia.com/live/CHINTPURNILIVE.m3u8"
+    },
+    {
+        "name": " Saang",
+        "id": "12135",
+        "logo": "https://core.freetvindia.com/media/Saang_TV.png",
+        "link": "https://mumt02.tangotv.in/SAANGTV/index.m3u8"
+    },
+    {
+        "name": " Maina TV",
+        "id": "12172",
+        "logo": "https://core.freetvindia.com/media/Maina_TV.png",
+        "link": "https://mumt03.tangotv.in/MAINATV/index.m3u8"
+    },
+    {
+        "name": " Pankh",
+        "id": "12209",
+        "logo": "https://core.freetvindia.com/media/pankh.png",
+        "link": "https://mumt04.tangotv.in/PANKH/index.m3u8"
+    },
+    {
+        "name": " Ragni",
+        "id": "12246",
+        "logo": "https://core.freetvindia.com/media/Ragni.png",
+        "link": "https://mumt04.tangotv.in/RAGNITV/index.m3u8"
+    },
+    {
+        "name": " CNBC TV Bajaar",
+        "id": "3810",
+        "logo": "https://core.freetvindia.com/media/CNBC_Bazaar.png",
+        "link": "https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "name": " DD Girnar",
+        "id": "3514",
+        "logo": "https://core.freetvindia.com/media/DD_Girnar.png",
+        "link": "https://mumt01.tangotv.in/DDGIRNAR/index.m3u8"
+    },
+    {
+        "name": " Aastha Gujarati",
+        "id": "3773",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000554.png",
+        "link": "https://mumt05.tangotv.in/AASTHATELUGU/index.m3u8"
+    },
+    {
+        "name": " ABP Asmita",
+        "id": "3551",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000251.png",
+        "link": "https://mumt02.tangotv.in/ABPASMITA/index.m3u8"
+    },
+    {
+        "name": " TV9 Gujarati",
+        "id": "3588",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000047.png",
+        "link": "https://mumt03.tangotv.in/TV9GUJARATI/index.m3u8"
+    },
+    {
+        "name": " GS TV",
+        "id": "3662",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000264.png",
+        "link": "https://mumt05.tangotv.in/GSTV/index.m3u8"
+    },
+    {
+        "name": " Sandesh News",
+        "id": "3699",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000378.png",
+        "link": "https://mumt01.tangotv.in/SANDESHNEWS/index.m3u8"
+    },
+    {
+        "name": " Josh TV",
+        "id": "48788",
+        "logo": "https://core.freetvindia.com/media/channels/josh_TV.png",
+        "link": "https://mumt03.tangotv.in/JOSHTV/index.m3u8"
+    },
+    {
+        "name": " Damdama Sahib",
+        "id": "48259",
+        "logo": "https://core.freetvindia.com/media/channels/damdama_sahib.png",
+        "link": "https://mumt03.tangotv.in/DAMDMASAHIB/index.m3u8"
+    },
+    {
+        "name": " Apna Punjab",
+        "id": "48133",
+        "logo": "https://core.freetvindia.com/media/channels/Apna_punjab.png",
+        "link": "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
+    },
+    {
+        "name": " Punjabi Hits",
+        "id": "48065",
+        "logo": "https://core.freetvindia.com/media/channels/Punjabi_Hits.png",
+        "link": "https://mumt04.tangotv.in/PUNJABIHITS/index.m3u8"
+    },
+    {
+        "name": " Shree Bachu Sahib",
+        "id": "48323",
+        "logo": "https://core.freetvindia.com/media/channels/Shree_Bachu_Sahib.png",
+        "link": "https://mumt02.tangotv.in/SHREEBACHUSAHIB/index.m3u8"
+    },
+    {
+        "name": " Shaheed Baba Deep Singh",
+        "id": "48387",
+        "logo": "https://core.freetvindia.com/media/channels/Shaheed_Baba_Deep_Singh.png",
+        "link": "https://mumt03.tangotv.in/SHAHEEDBABADEEPSINGH/index.m3u8"
+    },
+    {
+        "name": " Nistha HD",
+        "id": "48450",
+        "logo": "https://core.freetvindia.com/media/channels/Nistha_HD.png",
+        "link": "https://mumt03.tangotv.in/NISHTHAHD/index.m3u8"
+    },
+    {
+        "name": " Matti TV",
+        "id": "48518",
+        "logo": "https://core.freetvindia.com/media/channels/Matti.png",
+        "link": "https://mumt03.tangotv.in/MATTITV/index.m3u8"
+    },
+    {
+        "name": " Tadka",
+        "id": "48594",
+        "logo": "https://core.freetvindia.com/media/channels/tadka.png",
+        "link": "https://mumt03.tangotv.in/TADKA/index.m3u8"
+    },
+    {
+        "name": " Fakt Marathi",
+        "id": "9286",
+        "logo": "https://core.freetvindia.com/media/Fakt_Marathi_krKUH3M.png",
+        "link": "https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8"
+    },
+    {
+        "name": " Shemaroo Marathi Bana",
+        "id": "9323",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000116.png",
+        "link": "https://mumt02.tangotv.in/SHEMAROOMARATHIBANA/index.m3u8"
+    },
+    {
+        "name": " DD Sahyadri",
+        "id": "9249",
+        "logo": "https://core.freetvindia.com/media/Dd_Sheyadri.png",
+        "link": "https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8"
+    },
+    {
+        "name": " Dukhniwaran",
+        "id": "48657",
+        "logo": "https://core.freetvindia.com/media/channels/dukhniwaran.png",
+        "link": "https://mumt03.tangotv.in/DUKHNIWARAN/index.m3u8"
+    },
+    {
+        "name": " Soneri Cinema",
+        "id": "9360",
+        "logo": "https://core.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png",
+        "link": "https://mumt04.tangotv.in/SONERICINEMA/index.m3u8"
+    },
+    {
+        "name": " Maiboli",
+        "id": "9212",
+        "logo": "https://core.freetvindia.com/media/Maiboli.png",
+        "link": "https://mumt01.tangotv.in/MAIBOLI/index.m3u8"
+    },
+    {
+        "name": " Sangeet Marathi",
+        "id": "9434",
+        "logo": "https://core.freetvindia.com/media/sanjeet_marathi.png",
+        "link": "https://mumt02.tangotv.in/SANGEETMARATHI/index.m3u8"
+    },
+    {
+        "name": " Zee 24 Taas",
+        "id": "9545",
+        "logo": "https://core.freetvindia.com/media/Zee_24_Taas.png",
+        "link": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
+    },
+    {
+        "name": " ABP Majha",
+        "id": "9582",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000250.png",
+        "link": "https://mumt05.tangotv.in/ABPMAJHA/index.m3u8"
+    },
+    {
+        "name": " TV9 Marathi",
+        "id": "9619",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000171.png",
+        "link": "https://mumt01.tangotv.in/TV9MARATHI/index.m3u8"
+    },
+    {
+        "name": " Saam TV",
+        "id": "9656",
+        "logo": "https://core.freetvindia.com/media/Saam_TV_vGtXy1k.png",
+        "link": "https://mumt02.tangotv.in/SAAMTV/index.m3u8"
+    },
+    {
+        "name": " Jai Maharashtra",
+        "id": "9693",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000195.png",
+        "link": "https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8"
+    },
+    {
+        "name": " Pudhari News",
+        "id": "9730",
+        "logo": "https://core.freetvindia.com/media/Pudhari_News_HeQUaWg.png",
+        "link": "https://origin1.freetvindia.com/live/PUDHARINEWS.m3u8"
+    },
+    {
+        "name": " Lokshahi Marathi",
+        "id": "9767",
+        "logo": "https://core.freetvindia.com/media/Lok_Shahi.png",
+        "link": "https://mumt05.tangotv.in/LOKSAAHI/index.m3u8"
+    },
+    {
+        "name": " NDTV Marathi",
+        "id": "9841",
+        "logo": "https://core.freetvindia.com/media/NDTV_Marathi.png",
+        "link": "https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_4.m3u8"
+    },
+    {
+        "name": " News Marathi 24X7",
+        "id": "9915",
+        "logo": "https://core.freetvindia.com/media/News_Marathi247.png",
+        "link": "https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8"
+    },
+    {
+        "name": " DD Goa",
+        "id": "8176",
+        "logo": "https://core.freetvindia.com/media/DD_Goa.png",
+        "link": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/a556fd55-3d07-4069-9f3d-6cda1e3192f8/2.m3u8"
+    },
+    {
+        "name": " RDX Goa",
+        "id": "8213",
+        "logo": "https://core.freetvindia.com/media/RDx_Goa.png",
+        "link": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks_dvr.m3u8"
+    },
+    {
+        "name": " Prudent News",
+        "id": "8250",
+        "logo": "https://core.freetvindia.com/media/prudent_news_goa.png",
+        "link": "https://prudentmcdn.rixcast.com/prudentm.m3u8"
+    },
+    {
+        "name": " Goa 365",
+        "id": "8287",
+        "logo": "https://core.freetvindia.com/media/Goa_365.png",
+        "link": "https://ktismaservers.in:3086/live/goa365live.m3u8"
+    },
+    {
+        "name": " Dabangg",
+        "id": "1405",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000016.png",
+        "link": "https://mumt01.tangotv.in/DABANGG/index.m3u8"
+    },
+    {
+        "name": " B4U Bhojpuri",
+        "id": "1442",
+        "logo": "https://core.freetvindia.com/media/B4U_Bhojpuri.png",
+        "link": "https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8"
+    },
+    {
+        "name": " Bhojpuri Cinema",
+        "id": "1479",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000042.png",
+        "link": "https://mumt05.tangotv.in/BHOJPURICINEMA/index.m3u8"
+    },
+    {
+        "name": " Oscar Movies Bhojpuri",
+        "id": "1516",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000028.png",
+        "link": "https://mumt05.tangotv.in/OSCARMOVIESBHOJPURI/index.m3u8"
+    },
+    {
+        "name": " Filmachi Bhojpuri",
+        "id": "21512",
+        "logo": "https://core.freetvindia.com/media/channels/filmachi_bhojpuri.png",
+        "link": "https://epiconvh.akamaized.net/live/filamchi/master_1080.m3u8"
+    },
+    {
+        "name": " Rapchik",
+        "id": "25165",
+        "logo": "https://core.freetvindia.com/media/channels/rapchik.png",
+        "link": "https://mumt01.tangotv.in/RAPCHIK/index.m3u8"
+    },
+    {
+        "name": " Sangeet Bhojpuri",
+        "id": "1553",
+        "logo": "https://core.freetvindia.com/media/sangeet_bhojpuri.png",
+        "link": "https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8"
+    },
+    {
+        "name": " ABP Ganga",
+        "id": "1590",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000143.png",
+        "link": "https://mumt05.tangotv.in/ABPGANGA/index.m3u8"
+    },
+    {
+        "name": " Makkal TV",
+        "id": "12653",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000177.png",
+        "link": "https://mumt01.tangotv.in/MAKKALTV/index.m3u8"
+    },
+    {
+        "name": " Polimer TV",
+        "id": "23948",
+        "logo": "https://core.freetvindia.com/media/channels/PolimerTV.png",
+        "link": "https://mumt04.tangotv.in/POLIMERTV/index.m3u8"
+    },
+    {
+        "name": " Peppers",
+        "id": "12690",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000415.png",
+        "link": "https://mumt02.tangotv.in/PEPPERS/index.m3u8"
+    },
+    {
+        "name": " PuthuYugam TV",
+        "id": "12764",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000270.png",
+        "link": "https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8"
+    },
+    {
+        "name": " Vendhar TV",
+        "id": "12801",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000255.png",
+        "link": "https://origin1.freetvindia.com/live/VENDHARTV.m3u8"
+    },
+    {
+        "name": " DD TAMIL",
+        "id": "12949",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000190.png",
+        "link": "https://mumt04.tangotv.in/DDTAMIL/index.m3u8"
+    },
+    {
+        "name": " Vaanavil TV",
+        "id": "12838",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000277.png",
+        "link": "https://mumt01.tangotv.in/VAANAVILTV/index.m3u8"
+    },
+    {
+        "name": " Valicham Plus",
+        "id": "12986",
+        "logo": "https://core.freetvindia.com/media/valichamplus.png",
+        "link": "https://mumt05.tangotv.in/VALICHAMPLUS/index.m3u8"
+    },
+    {
+        "name": " Tamil Ratnam",
+        "id": "12727",
+        "logo": "https://core.freetvindia.com/media/1152FreeTV_Tamil_Ratnam.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/TamilRatna/master_1.m3u8"
+    },
+    {
+        "name": " Moon TV",
+        "id": "12912",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000181.png",
+        "link": "https://mumt03.tangotv.in/MOONTV/index.m3u8"
+    },
+    {
+        "name": " MK Tunes",
+        "id": "13023",
+        "logo": "https://core.freetvindia.com/media/MK_Tune.png",
+        "link": "https://mumt01.tangotv.in/MKTUNES/index.m3u8"
+    },
+    {
+        "name": " Puthiya Thalaimurai",
+        "id": "13060",
+        "logo": "https://core.freetvindia.com/media/puthiya_thalai.png",
+        "link": "https://mumt02.tangotv.in/PUTHIYATHALAIMURAI/index.m3u8"
+    },
+    {
+        "name": " Tamilan Television",
+        "id": "13097",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000236.png",
+        "link": "https://mumt02.tangotv.in/TAMILANTELEVISION/index.m3u8"
+    },
+    {
+        "name": " Malai Murasu Seithigal",
+        "id": "13134",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000388.png",
+        "link": "https://mumt04.tangotv.in/MALAIMURASUSEITHIGAL/index.m3u8"
+    },
+    {
+        "name": " Polimer News",
+        "id": "23910",
+        "logo": "https://core.freetvindia.com/media/channels/Polimernews.png",
+        "link": "https://mumt05.tangotv.in/POLIMERNEWS/index.m3u8"
+    },
+    {
+        "name": " News J",
+        "id": "13208",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000228.png",
+        "link": "https://mumt01.tangotv.in/NEWSJ/index.m3u8"
+    },
+    {
+        "name": " Sathiyam TV",
+        "id": "13245",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000515.png",
+        "link": "https://mumt02.tangotv.in/SATHIYAMTV/index.m3u8"
+    },
+    {
+        "name": " Thanthi TV",
+        "id": "13282",
+        "logo": "https://core.freetvindia.com/media/Thanti_TV_Nl4jmtR.png",
+        "link": "https://mumt03.tangotv.in/THANTHITV/index.m3u8"
+    },
+    {
+        "name": " Vasanth TV",
+        "id": "13319",
+        "logo": "https://core.freetvindia.com/media/Vasanth_TV.png",
+        "link": "https://mumt04.tangotv.in/VASANTHTV/index.m3u8"
+    },
+    {
+        "name": " Malar TV",
+        "id": "13356",
+        "logo": "https://core.freetvindia.com/media/Malar_Tv.png",
+        "link": "https://mumt04.tangotv.in/MALARTV/index.m3u8"
+    },
+    {
+        "name": " Mathimugam Tholaikatchi",
+        "id": "13393",
+        "logo": "https://core.freetvindia.com/media/Madhimugam_tv.png",
+        "link": "https://mumt01.tangotv.in/MATHIMUGAMTV/index.m3u8"
+    },
+    {
+        "name": " News7 Tamil",
+        "id": "13430",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000225.png",
+        "link": "https://mumt02.tangotv.in/NEWS7TAMIL/index.m3u8"
+    },
+    {
+        "name": " Janam TV Tamil",
+        "id": "23834",
+        "logo": "https://core.freetvindia.com/media/channels/Janamtv_Tamil.png",
+        "link": "https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8"
+    },
+    {
+        "name": " SVBC 2 Tamil",
+        "id": "13467",
+        "logo": "https://core.freetvindia.com/media/SVBC2.png",
+        "link": "https://mumt03.tangotv.in/SVBC2TAMIL/index.m3u8"
+    },
+    {
+        "name": " Sairam TV",
+        "id": "13504",
+        "logo": "https://core.freetvindia.com/media/Sairam.png",
+        "link": "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8"
+    },
+    {
+        "name": " Aaseervatham TV",
+        "id": "13541",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000120.png",
+        "link": "https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8"
+    },
+    {
+        "name": " Angel TV",
+        "id": "13578",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000279.png",
+        "link": "https://mumt01.tangotv.in/ANGELTVHD/index.m3u8"
+    },
+    {
+        "name": " Madha TV",
+        "id": "13615",
+        "logo": "https://core.freetvindia.com/media/Madha.png",
+        "link": "https://mumt02.tangotv.in/MADHATV/index.m3u8"
+    },
+    {
+        "name": " Nambikkai TV",
+        "id": "13652",
+        "logo": "https://core.freetvindia.com/media/Nambikai_TV.png",
+        "link": "https://mumt05.tangotv.in/NAMBIKAITV/index.m3u8"
+    },
+    {
+        "name": " Vissa TV",
+        "id": "13689",
+        "logo": "https://core.freetvindia.com/media/Vissa_TV.png",
+        "link": "https://mumt02.tangotv.in/VISSATV/index.m3u8"
+    },
+    {
+        "name": " DD Saptagiri",
+        "id": "13726",
+        "logo": "https://core.freetvindia.com/media/Dd-Saptagiri.png",
+        "link": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/6efa1e28-9ee0-47c7-a5b4-af3e4161a17b/2.m3u8"
+    },
+    {
+        "name": " DD Yadagiri",
+        "id": "13763",
+        "logo": "https://core.freetvindia.com/media/DD_Yadgiri.png",
+        "link": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/73fec65b-a5ba-4fba-ac8b-48eda02fa074/2.m3u8"
+    },
+    {
+        "name": " Studio One Plus",
+        "id": "13800",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000263.png",
+        "link": "https://mumt04.tangotv.in/STUDIOONEPLUS/index.m3u8"
+    },
+    {
+        "name": " Studio Yuva",
+        "id": "13837",
+        "logo": "https://core.freetvindia.com/media/Studio_Yuva.png",
+        "link": "https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8"
+    },
+    {
+        "name": " Raj Musix Telugu",
+        "id": "13874",
+        "logo": "https://core.freetvindia.com/media/Raj_Musix_telugu.png",
+        "link": "https://mumt02.tangotv.in/RAJMUSIXTELUGU/index.m3u8"
+    },
+    {
+        "name": " Vanitha",
+        "id": "14392",
+        "logo": "https://core.freetvindia.com/media/vanitha_tv.png",
+        "link": "https://mumt01.tangotv.in/VANITHA/index.m3u8"
+    },
+    {
+        "name": " CVR Health",
+        "id": "14355",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000213.png",
+        "link": "https://mumt04.tangotv.in/CVRHEALTH/index.m3u8"
+    },
+    {
+        "name": " TV9 Telugu",
+        "id": "14133",
+        "logo": "https://core.freetvindia.com/media/9005123451000339.png",
+        "link": "https://mumt04.tangotv.in/TV9TELUGU/index.m3u8"
+    },
+    {
+        "name": " HMTV",
+        "id": "13985",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000210.png",
+        "link": "https://mumt04.tangotv.in/HMTV/index.m3u8"
+    },
+    {
+        "name": " Sakshi TV",
+        "id": "14059",
+        "logo": "https://core.freetvindia.com/media/Sakshi_TV.png",
+        "link": "https://mumt02.tangotv.in/SAKSHITV/index.m3u8"
+    },
+    {
+        "name": " Raj News Telugu",
+        "id": "14318",
+        "logo": "https://core.freetvindia.com/media/Raj_news_Telugu_0YYrRzJ.png",
+        "link": "https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8"
+    },
+    {
+        "name": " Studio N News",
+        "id": "14281",
+        "logo": "https://core.freetvindia.com/media/Studio_N_News.png",
+        "link": "https://mumt03.tangotv.in/STUDIONNEWS/index.m3u8"
+    },
+    {
+        "name": " V6 News",
+        "id": "14170",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000209.png",
+        "link": "https://mumt05.tangotv.in/V6NEWS/index.m3u8"
+    },
+    {
+        "name": " Big TV",
+        "id": "14207",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000382.png",
+        "link": "https://mumt01.tangotv.in/BIGTV/index.m3u8"
+    },
+    {
+        "name": " Mojo TV",
+        "id": "14244",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000376.png",
+        "link": "https://mumt02.tangotv.in/MOJOTV/index.m3u8"
+    },
+    {
+        "name": " CVR News Telugu",
+        "id": "13948",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000212.png",
+        "link": "https://mumt04.tangotv.in/CVRNEWS/index.m3u8"
+    },
+    {
+        "name": " Mahaa News",
+        "id": "14429",
+        "logo": "https://core.freetvindia.com/media/Maha_News.png",
+        "link": "https://mumt02.tangotv.in/MAHAANEWS/index.m3u8"
+    },
+    {
+        "name": " SVBC Telugu",
+        "id": "14466",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000204.png",
+        "link": "https://mumt04.tangotv.in/SVBCTELUGU/index.m3u8"
+    },
+    {
+        "name": " Aastha Telugu",
+        "id": "14503",
+        "logo": "https://core.freetvindia.com/media/Aasths_Telugu.png",
+        "link": "https://mumt05.tangotv.in/AASTHATELUGU/index.m3u8"
+    },
+    {
+        "name": " Hindu Dharmam",
+        "id": "14540",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000175.png",
+        "link": "https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8"
+    },
+    {
+        "name": " Swara Sagar",
+        "id": "14577",
+        "logo": "https://core.freetvindia.com/media/Swara_Sagar_094gI3B.png",
+        "link": "https://mumt02.tangotv.in/SWARASAGAR/index.m3u8"
+    },
+    {
+        "name": " CVR Spiritual OM",
+        "id": "14651",
+        "logo": "https://core.freetvindia.com/media/CVR_Spiritual_om.png",
+        "link": "https://mumt01.tangotv.in/CVRSPRITUALOM/index.m3u8"
+    },
+    {
+        "name": " Calvary TV",
+        "id": "14688",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000385.png",
+        "link": "https://mumt04.tangotv.in/CALVARYTV/index.m3u8"
+    },
+    {
+        "name": " Subhavaartha TV",
+        "id": "14725",
+        "logo": "https://core.freetvindia.com/media/Subhvaartha_TV.png",
+        "link": "https://mumt05.tangotv.in/SUBHAVAARTHATV/index.m3u8"
+    },
+    {
+        "name": " 99TV Telugu",
+        "id": "14762",
+        "logo": "https://core.freetvindia.com/media/99_TV.png",
+        "link": "https://mumt02.tangotv.in/99TVTELUGU/index.m3u8"
+    },
+    {
+        "name": " TV5 News",
+        "id": "14096",
+        "logo": "https://core.freetvindia.com/media/TV_News5.png",
+        "link": "https://mumt02.tangotv.in/TV5NEWS/index.m3u8"
+    },
+    {
+        "name": " Kairali",
+        "id": "8324",
+        "logo": "https://core.freetvindia.com/media/kairali.png",
+        "link": "https://mumt01.tangotv.in/KAIRALI/index.m3u8"
+    },
+    {
+        "name": " Mazhavil Manorama",
+        "id": "8361",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000139.png",
+        "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8"
+    },
+    {
+        "name": " Amrita TV",
+        "id": "8398",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000400.png",
+        "link": "https://mumt02.tangotv.in/AMRITATV/index.m3u8"
+    },
+    {
+        "name": " Jeevan TV",
+        "id": "8842",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000154.png",
+        "link": "https://mumt04.tangotv.in/JEEVANTV/index.m3u8"
+    },
+    {
+        "name": " Kaumudy TV",
+        "id": "8472",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000155.png",
+        "link": "https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8"
+    },
+    {
+        "name": " DD Malayalam",
+        "id": "8546",
+        "logo": "https://core.freetvindia.com/media/DD_Malayalam_eJEprmw.png",
+        "link": "https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8"
+    },
+    {
+        "name": " Kerala Vision",
+        "id": "8583",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000113.png",
+        "link": "https://mumt03.tangotv.in/KERALAVISION/index.m3u8"
+    },
+    {
+        "name": " We TV",
+        "id": "8509",
+        "logo": "https://core.freetvindia.com/media/We_Tv.png",
+        "link": "https://mumt01.tangotv.in/WETV/index.m3u8"
+    },
+    {
+        "name": " Chhaya Chitram Telugu",
+        "id": "44830",
+        "logo": "https://core.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/PlayOut9/master_1.m3u8"
+    },
+    {
+        "name": " Kappa TV",
+        "id": "8435",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000186.png",
+        "link": "https://mumt03.tangotv.in/KAPPATV/index.m3u8"
+    },
+    {
+        "name": " Raj Musix Malyalam",
+        "id": "8620",
+        "logo": "https://core.freetvindia.com/media/Raj_Musix_Malayalam.png",
+        "link": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
+    },
+    {
+        "name": " Safari TV",
+        "id": "9027",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000409.png",
+        "link": "https://mumt04.tangotv.in/SAFARITV/index.m3u8"
+    },
+    {
+        "name": " Asianet News",
+        "id": "8657",
+        "logo": "https://core.freetvindia.com/media/Asianet_News.png",
+        "link": "https://mumt05.tangotv.in/ASIANETNEWS/index.m3u8"
+    },
+    {
+        "name": " Kairali News",
+        "id": "20912",
+        "logo": "https://core.freetvindia.com/media/kairali_news.png",
+        "link": "https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8"
+    },
+    {
+        "name": " Manorama News",
+        "id": "8694",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000138.png",
+        "link": "https://mumt01.tangotv.in/MANORAMANEWSNORTH/index.m3u8"
+    },
+    {
+        "name": " Mathrubhumi News",
+        "id": "8731",
+        "logo": "https://core.freetvindia.com/media/Matrubhumi_news.png",
+        "link": "https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8"
+    },
+    {
+        "name": " Jai Hind",
+        "id": "8768",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000401.png",
+        "link": "https://mumt03.tangotv.in/JAIHIND/index.m3u8"
+    },
+    {
+        "name": " Janam TV",
+        "id": "8805",
+        "logo": "https://core.freetvindia.com/media/Janam_TV.png",
+        "link": "https://mumt03.tangotv.in/JANAMTV/index.m3u8"
+    },
+    {
+        "name": " Raj News Malyalam",
+        "id": "8990",
+        "logo": "https://core.freetvindia.com/media/Raj_News_Malayalam.png",
+        "link": "https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8"
+    },
+    {
+        "name": " Media One TV",
+        "id": "8879",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000408.png",
+        "link": "https://mumt01.tangotv.in/MEDIAONETV/index.m3u8"
+    },
+    {
+        "name": " Reporter TV",
+        "id": "8916",
+        "logo": "https://core.freetvindia.com/media/Reporter_tv.png",
+        "link": "https://mumt02.tangotv.in/REPORTERTV/index.m3u8"
+    },
+    {
+        "name": " Twenty four",
+        "id": "8953",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000402.png",
+        "link": "https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8"
+    },
+    {
+        "name": " Shalom Tv India",
+        "id": "9064",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000153.png",
+        "link": "https://mumt01.tangotv.in/SHALOMTVINDIA/index.m3u8"
+    },
+    {
+        "name": " Goodness TV",
+        "id": "9101",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000224.png",
+        "link": "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8"
+    },
+    {
+        "name": " Power Vision",
+        "id": "9138",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000410.png",
+        "link": "https://mumt02.tangotv.in/POWERVISION/index.m3u8"
+    },
+    {
+        "name": " Siri Kannada All Time",
+        "id": "7621",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000121.png",
+        "link": "https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8"
+    },
+    {
+        "name": " DD Chandana",
+        "id": "7584",
+        "logo": "https://core.freetvindia.com/media/DD_Chandana.png",
+        "link": "https://mumt05.tangotv.in/DDCHANDANA/index.m3u8"
+    },
+    {
+        "name": " Public Movies",
+        "id": "7695",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000185.png",
+        "link": "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8"
+    },
+    {
+        "name": " Public Music",
+        "id": "7732",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000184.png",
+        "link": "https://mumt04.tangotv.in/PUBLICMUSIC/index.m3u8"
+    },
+    {
+        "name": " Raj Musix Kannada",
+        "id": "7769",
+        "logo": "https://core.freetvindia.com/media/Raj_musix_kannada.png",
+        "link": "https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8"
+    },
+    {
+        "name": " Ayush TV",
+        "id": "7806",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000530.png",
+        "link": "https://mumt02.tangotv.in/AYUSHTV/index.m3u8"
+    },
+    {
+        "name": " TV9 Kannada",
+        "id": "7954",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000613.png",
+        "link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/pub-iotv9kanmo6oiq/live_720p/chunks.m3u8"
+    },
+    {
+        "name": " Public TV",
+        "id": "7880",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000182.png",
+        "link": "https://mumt04.tangotv.in/PUBLICTV/index.m3u8"
+    },
+    {
+        "name": " Republic Kannada",
+        "id": "7917",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000412.png",
+        "link": "https://mumt04.tangotv.in/REPUBLICKANNADA/index.m3u8"
+    },
+    {
+        "name": " TV5 Kannada",
+        "id": "7991",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000174.png",
+        "link": "https://mumt02.tangotv.in/TV5KANNADA/index.m3u8"
+    },
+    {
+        "name": " Raj News Kannada",
+        "id": "8028",
+        "logo": "https://core.freetvindia.com/media/Raj_News_Kannada.png",
+        "link": "https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8"
+    },
+    {
+        "name": " Aastha Kannada",
+        "id": "8065",
+        "logo": "https://core.freetvindia.com/media/Aastha_Kannada.png",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8"
+    },
+    {
+        "name": " Sri Sankara TV",
+        "id": "8102",
+        "logo": "https://core.freetvindia.com/media/Sri_Sankara.png",
+        "link": "https://mumt05.tangotv.in/SRISANKARA/index.m3u8"
+    },
+    {
+        "name": " SVBC 3 Kannada",
+        "id": "8139",
+        "logo": "https://core.freetvindia.com/media/SVBC3_Kannada.png",
+        "link": "https://mumt01.tangotv.in/SVBC3KANNADA/index.m3u8"
+    },
+    {
+        "name": " Aakash Aath",
+        "id": "1035",
+        "logo": "https://core.freetvindia.com/media/Aakash_Aath.png",
+        "link": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8"
+    },
+    {
+        "name": " Rupasi Bangla",
+        "id": "998",
+        "logo": "https://core.freetvindia.com/media/Rupashi_Bangla.png",
+        "link": "https://mumt05.tangotv.in/RUPASIBANGLA/index.m3u8"
+    },
+    {
+        "name": " Enterr10 Bangla",
+        "id": "924",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000151.png",
+        "link": "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8"
+    },
+    {
+        "name": " DD Bangla",
+        "id": "961",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000058.png",
+        "link": "https://mumt05.tangotv.in/DDBANGLA/index.m3u8"
+    },
+    {
+        "name": " Khushboo TV Bangla",
+        "id": "887",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000112.png",
+        "link": "https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8"
+    },
+    {
+        "name": " Sonar Bangla",
+        "id": "1072",
+        "logo": "https://core.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/SonarBangla/master_1.m3u8"
+    },
+    {
+        "name": " Sangeet Bangla",
+        "id": "1109",
+        "logo": "https://core.freetvindia.com/media/Sangeet_Bangla.png",
+        "link": "https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8"
+    },
+    {
+        "name": " Rongeen TV",
+        "id": "1146",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000108.png",
+        "link": "https://mumt05.tangotv.in/RONGEENTV/index.m3u8"
+    },
+    {
+        "name": " ABP Ananda",
+        "id": "1183",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000252.png",
+        "link": "https://mumt05.tangotv.in/ABPANANDA/index.m3u8"
+    },
+    {
+        "name": " Republic Bangla",
+        "id": "1220",
+        "logo": "https://core.freetvindia.com/media/R_Bangla.png",
+        "link": "https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/5da6ccdf-da5e-451d-a66f-e9fdfa4243d0/2.m3u8"
+    },
+    {
+        "name": " TV9 Bangla",
+        "id": "1257",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000244.png",
+        "link": "https://mumt05.tangotv.in/TV9BANGLA/index.m3u8"
+    },
+    {
+        "name": " R Plus Gold",
+        "id": "850",
+        "logo": "https://core.freetvindia.com/media/RPlus_gold.png",
+        "link": "https://mumt03.tangotv.in/RPLUSGOLD/index.m3u8"
+    },
+    {
+        "name": " R Plus",
+        "id": "1294",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000145.png",
+        "link": "https://mumt05.tangotv.in/RPLUS/index.m3u8"
+    },
+    {
+        "name": " NKTV Plus Bangla",
+        "id": "1331",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000651.png",
+        "link": "https://mumt05.tangotv.in/NKTVPLUSBANGLA/index.m3u8"
+    },
+    {
+        "name": " OTV Live 24x7",
+        "id": "10137",
+        "logo": "https://core.freetvindia.com/media/otv_odia.png",
+        "link": "https://mumt03.tangotv.in/OTVLIVE24X7/index.m3u8"
+    },
+    {
+        "name": " MBC TV",
+        "id": "9989",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000381.png",
+        "link": "https://mumt03.tangotv.in/MBCTV/index.m3u8"
+    },
+    {
+        "name": " Kalinga TV",
+        "id": "10026",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000275.png",
+        "link": "https://mumt01.tangotv.in/KALINGATV/index.m3u8"
+    },
+    {
+        "name": " Nandighosha TV",
+        "id": "10063",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000276.png",
+        "link": "https://mumt05.tangotv.in/NANDIGHOSHATV/index.m3u8"
+    },
+    {
+        "name": " Argus",
+        "id": "10100",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000273.png",
+        "link": "https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8"
+    },
+    {
+        "name": " Rengoni",
+        "id": "110",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000566.png",
+        "link": "https://mumt05.tangotv.in/RENGONI/index.m3u8"
+    },
+    {
+        "name": " Jonack",
+        "id": "147",
+        "logo": "https://core.freetvindia.com/media/channels/jonacktv.png",
+        "link": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8"
+    },
+    {
+        "name": " Spondon",
+        "id": "184",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000652.png",
+        "link": "https://mumt05.tangotv.in/SPONDON/index.m3u8"
+    },
+    {
+        "name": " DD Assam",
+        "id": "221",
+        "logo": "https://core.freetvindia.com/media/DD_Assam.png",
+        "link": "https://mumt05.tangotv.in/DDASSAM/index.m3u8"
+    },
+    {
+        "name": " Pear TV",
+        "id": "258",
+        "logo": "https://core.freetvindia.com/media/Pear_tv.png",
+        "link": "https://mumt01.tangotv.in/PEARTV/index.m3u8"
+    },
+    {
+        "name": " Prag News",
+        "id": "480",
+        "logo": "https://core.freetvindia.com/media/Prag_News.png",
+        "link": "https://mumt05.tangotv.in/PRAGNEWS/index.m3u8"
+    },
+    {
+        "name": " DY 365",
+        "id": "591",
+        "logo": "https://core.freetvindia.com/media/channels/dy365.png",
+        "link": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8"
+    },
+    {
+        "name": " Assam Talks",
+        "id": "369",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000525.png",
+        "link": "https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8"
+    },
+    {
+        "name": " NKTV Plus",
+        "id": "406",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000650.png",
+        "link": "https://mumt05.tangotv.in/NKTVPLUS/index.m3u8"
+    },
+    {
+        "name": " DD Nagaland",
+        "id": "665",
+        "logo": "https://core.freetvindia.com/media/DD_Nagaland.png",
+        "link": "https://mumt01.tangotv.in/DDNAGALAND/index.m3u8"
+    },
+    {
+        "name": " DD Tripura",
+        "id": "702",
+        "logo": "https://core.freetvindia.com/media/DD_Tripura.png",
+        "link": "https://mumt01.tangotv.in/DDTRIPURA/index.m3u8"
+    },
+    {
+        "name": " Hornbill TV",
+        "id": "739",
+        "logo": "https://core.freetvindia.com/media/Hornbill_TV.png",
+        "link": "https://mumt01.tangotv.in/HORNBILLTV/index.m3u8"
+    },
+    {
+        "name": " NE News",
+        "id": "776",
+        "logo": "https://core.freetvindia.com/media/NE_News.png",
+        "link": "https://mumt05.tangotv.in/NENEWS/index.m3u8"
+    },
+    {
+        "name": " DD Manipur",
+        "id": "813",
+        "logo": "https://core.freetvindia.com/media/DD_Manipur.png",
+        "link": "https://mumt03.tangotv.in/DDMANIPUR/index.m3u8"
+    },
+    {
+        "name": " Tehzeeb TV",
+        "id": "10618",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000265.png",
+        "link": "https://mumt05.tangotv.in/TEHZEEBTV/index.m3u8"
+    },
+    {
+        "name": " Munsif TV Urdu",
+        "id": "24025",
+        "logo": "https://core.freetvindia.com/media/channels/munshif_TV.png",
+        "link": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8"
+    },
+    {
+        "name": " Paigham Television",
+        "id": "10692",
+        "logo": "https://core.freetvindia.com/media/1655_FreeTV_Paigam.png",
+        "link": "http://210.89.51.165:80/hlslive/Admin/RSPD031/live/Paigam/master_1.m3u8"
+    },
+    {
+        "name": " 4TV News",
+        "id": "10729",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000208.png",
+        "link": "https://mumt05.tangotv.in/4TVNEWS/index.m3u8"
+    },
+    {
+        "name": " Channel Win",
+        "id": "10766",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000626.png",
+        "link": "https://mumt05.tangotv.in/CHANNELWIN/index.m3u8"
+    },
+    {
+        "name": " Zainabia Channel",
+        "id": "10803",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000627.png",
+        "link": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8"
+    },
+    {
+        "name": " Nepal 1",
+        "id": "10914",
+        "logo": "https://core.freetvindia.com/media/channels/9005123451000046.png",
+        "link": "https://mumt05.tangotv.in/NEPAL1/index.m3u8"
+    },
+    {
+        "name": " Pulari TV",
+        "id": "34523",
+        "logo": "https://core.freetvindia.com/media/channels/pularitv.png",
+        "link": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8"
+    },
+    {
+        "name": " Shalom TV Global",
+        "id": "34572",
+        "logo": "https://core.freetvindia.com/media/channels/Shalom.png",
+        "link": "https://d28xtgmk9tfk6b.cloudfront.net/master_720.m3u8"
+    },
+    {
+        "name": " Kashish News",
+        "id": "28555",
+        "logo": "https://core.freetvindia.com/media/channels/Kashish_News.png",
+        "link": "https://server.thelegitpro.in/kashishnews/kashishnews/index.fmp4.m3u8"
+    },
+    {
+        "name": " Fast 1",
+        "id": "28723",
+        "logo": "https://core.freetvindia.com/media/channels/fast1.png",
+        "link": "https://mumt03.tangotv.in/Fast1/index.m3u8"
+    }
+]
