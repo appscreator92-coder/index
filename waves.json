@@ -1,0 +1,520 @@
+[
+  {
+        "name": " DD News",
+        "id": 10541,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp",
+        "category": "National Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8"
+    },
+    {
+        "name": " India TV News",
+        "id": 14854,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp",
+        "category": "News",
+        "url": "https://vg-indiatvlive.akamaized.net/ptnr-waves/title-IndiaTV_MI_Waves/vglive-sk-394591/playlist.m3u8"
+    },
+    {
+        "name": " Zee News",
+        "id": 14582,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp",
+        "category": "News",
+        "url": "https://dt3lrqnyx3dks.cloudfront.net/index.m3u8"
+    },
+    {
+        "name": " SANSAD TV 1",
+        "id": 11022,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp",
+        "category": "News",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+    },
+    {
+        "name": " DD INDIA",
+        "id": 10539,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp",
+        "category": "National Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
+    },
+    {
+        "name": " SANSAD TV 2",
+        "id": 11021,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp",
+        "category": "News",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8"
+    },
+    {
+        "name": " AAJ TAK",
+        "id": 10608,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp",
+        "category": "News",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8"
+    },
+    {
+        "name": " ABP NEWS",
+        "id": 10549,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp",
+        "category": "News",
+        "url": "https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8"
+    },
+    {
+        "name": " GOOD NEWS TODAY",
+        "id": 10546,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp",
+        "category": "News",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8"
+    },
+    {
+        "name": " INDIA TODAY",
+        "id": 10547,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp",
+        "category": "News",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8"
+    },
+    {
+        "name": " IBC24",
+        "id": 10594,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp",
+        "category": "News",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8"
+    },
+    {
+        "name": " NAVBHARAT",
+        "id": 10585,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/921001071Navbharat.webp",
+        "category": "News",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8"
+    },
+    {
+        "name": " NDTV INDIA",
+        "id": 10593,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp",
+        "category": "News",
+        "url": "https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8"
+    },
+    {
+        "name": " NEWS 24 THINK FIRST",
+        "id": 10554,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp",
+        "category": "News",
+        "url": "https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/master_1.m3u8"
+    },
+    {
+        "name": " NEWS NATION",
+        "id": 10552,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1518387989NEWS_NATION.webp",
+        "category": "News",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+    },
+    {
+        "name": " NEWS 18 INDIA",
+        "id": 10590,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp",
+        "category": "News",
+        "url": "https://n18syndication-prasar-bharati.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8"
+    },
+    {
+        "name": " RAJ TV",
+        "id": 10645,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1032708131RAJ_TV.webp",
+        "category": "News",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8"
+    },
+    {
+        "name": " Republic TV Bharat",
+        "id": 10827,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp",
+        "category": "News",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8"
+    },
+    {
+        "name": " R Republic",
+        "id": 10551,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp",
+        "category": "News",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8"
+    },
+    {
+        "name": " TV9 BHARATVARSH",
+        "id": 10595,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp",
+        "category": "News",
+        "url": "https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8"
+    },
+    {
+        "name": " ABZY DHAKAD",
+        "id": 10648,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp",
+        "category": "Entertainment",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8"
+    },
+    {
+        "name": " ABZY Movies",
+        "id": 10647,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/651929306ABZY_MOVIES.webp",
+        "category": "Entertainment",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
+    },
+    {
+        "name": " B4U Bhojpuri",
+        "id": 10543,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp",
+        "category": "Entertainment",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
+    },
+    {
+        "name": " B4U KADAK",
+        "id": 10544,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp",
+        "category": "Entertainment",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
+    },
+    {
+        "name": " B4U Movies",
+        "id": 10548,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp",
+        "category": "Entertainment",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
+    },
+    {
+        "name": " DABANNG",
+        "id": 10598,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp",
+        "category": "Entertainment",
+        "url": "https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8"
+    },
+    {
+        "name": " DD Bharati",
+        "id": 10542,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1372479421Frame_1597877905.webp",
+        "category": "National Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
+    },
+    {
+        "name": " DD National HD",
+        "id": 10574,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp",
+        "category": "National Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
+    },
+    {
+        "name": " E24",
+        "id": 10596,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/659096870E_24.webp",
+        "category": "Entertainment",
+        "url": "https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8"
+    },
+    {
+        "name": " Gangaur",
+        "id": 10932,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp",
+        "category": "Entertainment",
+        "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8"
+    },
+    {
+        "name": " MAIBOLI",
+        "id": 10649,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp",
+        "category": "Entertainment",
+        "url": "https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8"
+    },
+    {
+        "name": " PITAARA MOVIES",
+        "id": 10553,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1082937311814700969PITAARA-MOVIES.webp",
+        "category": "Entertainment",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8"
+    },
+    {
+        "name": " PTC PUNJABI",
+        "id": 10556,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1461582026PTC_PUNJABI.webp",
+        "category": "Entertainment",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8"
+    },
+    {
+        "name": " PTC PUNJABI GOLD",
+        "id": 10555,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1468124252PTC_PUNJABI_GOLD.webp",
+        "category": "Entertainment",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8"
+    },
+    {
+        "name": " 9X JALWA",
+        "id": 10605,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp",
+        "category": "Music",
+        "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8"
+    },
+    {
+        "name": " PTC MUSIC",
+        "id": 15037,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp",
+        "category": "Music",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8"
+    },
+    {
+        "name": " 9X JHAKAS",
+        "id": 10606,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp",
+        "category": "Music",
+        "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8"
+    },
+    {
+        "name": " 9XM",
+        "id": 10591,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp",
+        "category": "Music",
+        "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8"
+    },
+    {
+        "name": " 9X TASHAN",
+        "id": 10607,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp",
+        "category": "Music",
+        "url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8"
+    },
+    {
+        "name": " B4U Music",
+        "id": 10545,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp",
+        "category": "Music",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
+    },
+    {
+        "name": " MASTI",
+        "id": 10651,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp",
+        "category": "Music",
+        "url": "https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8"
+    },
+    {
+        "name": " DIVYA",
+        "id": 10550,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp",
+        "category": "Spiritual",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8"
+    },
+    {
+        "name": " Sanskar",
+        "id": 10610,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/111206065DD_TRIPURA-4.webp",
+        "category": "Spiritual",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8"
+    },
+    {
+        "name": " SATSANG",
+        "id": 10611,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/896293492DD_TRIPURA-5.webp",
+        "category": "Spiritual",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8"
+    },
+    {
+        "name": " DD SPORTS",
+        "id": 10569,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1580369536PNG_image.webp",
+        "category": "National Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+    },
+    {
+        "name": " DD KISAN",
+        "id": 10540,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp",
+        "category": "National Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+    },
+    {
+        "name": " DD URDU",
+        "id": 10570,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/651127723DD_URDU.webp",
+        "category": "National Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
+    },
+    {
+        "name": " DD MADHYAPRADESH",
+        "id": 10583,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/569510685DD_TRIPURA-6__1_.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8"
+    },
+    {
+        "name": " DD Arunprabha",
+        "id": 10557,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/507508336DD_ARUNPRABHA.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8"
+    },
+    {
+        "name": " DD YADGIRI",
+        "id": 10579,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/f61ea6704a2d4040a2d8eb5c8855ebeb/index.m3u8"
+    },
+    {
+        "name": " DD GOA",
+        "id": 10592,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/125118494DD_TRIPURA-1.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8"
+    },
+    {
+        "name": " DD HARYANA",
+        "id": 10580,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/756814886hissar_720x405.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8"
+    },
+    {
+        "name": " DD Rajasthan",
+        "id": 10835,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/798231352129179468Dd-rajasthan-in.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
+    },
+    {
+        "name": " DD ASSAM",
+        "id": 10604,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/67253725DD_ASSAM.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8"
+    },
+    {
+        "name": " DD NAGALAND",
+        "id": 10603,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/272878572nagala.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8"
+    },
+    {
+        "name": " DD SAPTAGIRI",
+        "id": 10600,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1150594073Dd_saptgiri.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"
+    },
+    {
+        "name": " DD MEGHALAYA",
+        "id": 10599,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2120874491megha.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8"
+    },
+    {
+        "name": " DD Jharkhand",
+        "id": 10589,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/76646365Dd_jharkhan.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8"
+    },
+    {
+        "name": " DD BIHAR",
+        "id": 10588,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1565141068Dd_bihar.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
+    },
+    {
+        "name": " DD UP",
+        "id": 10587,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1960626856Uttar_Pradesh.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
+    },
+    {
+        "name": " DD HIMANCHAL",
+        "id": 10586,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/926769901DD_himanchal.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8"
+    },
+    {
+        "name": " DD BANGLA",
+        "id": 10558,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2065815638bang.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8"
+    },
+    {
+        "name": " DD UTTRAKHAND",
+        "id": 10581,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/371061248Uttarrakhand.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8"
+    },
+    {
+        "name": " DD Tripura",
+        "id": 10578,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/825234471DD_TRIPURA.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8"
+    },
+    {
+        "name": " DD MALAYALAM",
+        "id": 10582,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1010799992DD_TRIPURA.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8"
+    },
+    {
+        "name": " DD SHAYADRI",
+        "id": 10576,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/72497220DD_SAHYADRI_New_Logo_1600X900.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8"
+    },
+    {
+        "name": " DD PUNJABI",
+        "id": 10575,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2092344537Dd_Punjabi.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
+    },
+    {
+        "name": " DD GIRNAR",
+        "id": 10573,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1761185944DD_Girnar.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8"
+    },
+    {
+        "name": " DD CHHATISGARH",
+        "id": 10571,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1577670363DD_CHHATISGARH.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8"
+    },
+    {
+        "name": " DD CHANDANA",
+        "id": 10601,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/355252557DD_TRIPURA-3.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8"
+    },
+    {
+        "name": " DD TAMIL",
+        "id": 10577,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8"
+    },
+    {
+        "name": " DD ODIA",
+        "id": 10562,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/820017522odia.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8"
+    },
+    {
+        "name": " DD MANIPUR",
+        "id": 10560,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp",
+        "category": "Regional Channels",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8"
+    },
+    {
+        "name": " DD KASHIR",
+        "id": 10559,
+        "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp",
+        "category": "Regional Channels",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
+    }
+]
