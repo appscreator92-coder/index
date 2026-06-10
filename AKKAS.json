@@ -1,284 +1,317 @@
 [
     {
         "name": "Somoy TV",
-        "id": "98000",
+        "id": 98,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
     },
     {
         "name": "Jamuna TV",
-        "id": "97000",
+        "id": 97,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
     },
     {
         "name": "DBC News HD",
-        "id": "185000",
+        "id": 185,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8"
     },
     {
         "name": "Maasranga TV",
-        "id": "229000",
+        "id": 229,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+        "category": "Entertainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
     },
     {
         "name": "Ekattor HD",
-        "id": "102000",
+        "id": 102,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
     },
     {
         "name": "Channel 24 HD",
-        "id": "94000",
+        "id": 94,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
     },
     {
         "name": "ATN News",
-        "id": "93000",
+        "id": 93,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
     },
     {
         "name": "News 24 HD",
-        "id": "186000",
+        "id": 186,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
     },
     {
         "name": "Star News",
-        "id": "191000",
+        "id": 191,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
-    },
-    {
-        "name": "Islamic TV",
-        "id": "223000",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
     },
     {
         "name": "Deepto TV HD",
-        "id": "134000",
+        "id": 134,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+        "category": "Entertainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
     },
     {
         "name": "Channel 9 HD",
-        "id": "188000",
+        "id": 188,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8"
-    },
-    {
-        "name": "SRK TV",
-        "id": "141000",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",
-        "link": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
+        "category": "Entertainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8"
     },
     {
         "name": "Channel I HD",
-        "id": "132000",
+        "id": 132,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+        "category": "Entertainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
     },
     {
         "name": "Cineedge HD",
-        "id": "197000",
+        "id": 197,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8"
     },
     {
         "name": "Uniques HD",
-        "id": "196000",
+        "id": 196,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8"
     },
     {
         "name": "Superrix HD",
-        "id": "198000",
+        "id": 198,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8"
     },
     {
         "name": "Bangla Vision",
-        "id": "100000",
+        "id": 100,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
+        "category": "Entertainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
     },
     {
         "name": "NTV",
-        "id": "99000",
+        "id": 99,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+        "category": "Entertainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
     },
     {
         "name": "Screem",
-        "id": "192000",
+        "id": 192,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8"
-    },
-    {
-        "name": "Sports Legends",
-        "id": "205000",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8"
     },
     {
         "name": "Flash Guys HD",
-        "id": "206000",
+        "id": 206,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8"
+        "category": "Sports",
+        "url": "https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8"
     },
     {
         "name": "BuddyStar HD",
-        "id": "212000",
+        "id": 212,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"
+        "category": "Kids",
+        "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8"
     },
     {
         "name": "Luxel HD",
-        "id": "209000",
+        "id": 209,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8"
+        "category": "Infotainment",
+        "url": "https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8"
     },
     {
         "name": "Joy",
-        "id": "211000",
+        "id": 211,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8"
+        "category": "Kids",
+        "url": "https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8"
     },
     {
         "name": "Funny Junior HD",
-        "id": "213000",
+        "id": 213,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8"
+        "category": "Kids",
+        "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8"
     },
     {
         "name": "Crimes",
-        "id": "214000",
+        "id": 214,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8"
     },
     {
         "name": "True Stories",
-        "id": "215000",
+        "id": 215,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8"
     },
     {
         "name": "Intelligence",
-        "id": "216000",
+        "id": 216,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8"
-    },
-    {
-        "name": "Sports Range",
-        "id": "217000",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8"
     },
     {
         "name": "Thunder Er",
-        "id": "218000",
+        "id": 218,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8"
+        "category": "Sports",
+        "url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8"
     },
     {
         "name": "Fighters",
-        "id": "219000",
+        "id": 219,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8"
+        "category": "Sports",
+        "url": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8"
     },
     {
         "name": "Smarty",
-        "id": "220000",
+        "id": 220,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
+        "category": "Kids",
+        "url": "https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8"
     },
     {
         "name": "Lucky Family",
-        "id": "221000",
+        "id": 221,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8"
+        "category": "Kids",
+        "url": "https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8"
     },
     {
         "name": "Kids Stars",
-        "id": "222000",
+        "id": 222,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8"
+        "category": "Kids",
+        "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8"
     },
     {
-        "name": "BTV",
-        "id": "240000",
-        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+        "name": "SRK TV",
+        "id": 172,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png",
+        "category": "Entertainment",
+        "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
+    },
+    {
+        "name": "Sports Legends",
+        "id": 239,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1779609962271.png",
+        "category": "Sports",
+        "url": "https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8"
     },
     {
         "name": "Al Jazeera",
-        "id": "169000",
+        "id": 169,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
     },
     {
         "name": "Party Universe",
-        "id": "241000",
+        "id": 241,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8"
+        "category": "Music",
+        "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8"
     },
     {
         "name": "Al Quran",
-        "id": "245000",
+        "id": 245,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+        "category": "Infotainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
     },
     {
         "name": "Independent TV",
-        "id": "247000",
+        "id": 247,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+        "category": "News",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
     },
     {
         "name": "Nikki",
-        "id": "242000",
+        "id": 242,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8"
+        "category": "Kids",
+        "url": "https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8"
     },
     {
         "name": "Originals",
-        "id": "243000",
+        "id": 243,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8"
+        "category": "Movies",
+        "url": "https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8"
     },
     {
         "name": "Crazy Ex",
-        "id": "244000",
+        "id": 244,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8"
+        "category": "Sports",
+        "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8"
     },
     {
         "name": "Delicious",
-        "id": "246000",
+        "id": 246,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png",
-        "link": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8"
+        "category": "Infotainment",
+        "url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8"
     },
     {
         "name": "Program Promo",
-        "id": "248000",
+        "id": 248,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8"
+        "category": "Infotainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8"
     },
     {
         "name": "BTV",
-        "id": "122",
+        "id": 122,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+        "category": "Entertainment",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+    },
+    {
+        "name": "Sports Range",
+        "id": 267,
+        "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1779610478709.png",
+        "category": "Sports",
+        "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8"
     },
     {
         "name": "AKASH GO Sports 1",
-        "id": "250",
+        "id": 250,
         "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1780554094519.png",
-        "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
+        "category": "Sports",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
     }
 ]
