@@ -1,0 +1,1938 @@
+[
+    {
+        "name": "NTV FHD",
+        "id": 1,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_1_1720509115.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8"
+    },
+    {
+        "name": "BIG TV FHD",
+        "id": 2,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_2_1734957616.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8"
+    },
+    {
+        "name": "TV5 News FHD",
+        "id": 3,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_3_1720070827.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8"
+    },
+    {
+        "name": "10TV FHD",
+        "id": 5,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C5-1758277814.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/10TV/index.m3u8"
+    },
+    {
+        "name": "ABN FHD",
+        "id": 6,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_6_1743505456.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8"
+    },
+    {
+        "name": "CVR News HD",
+        "id": 7,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_7_1720509266.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8"
+    },
+    {
+        "name": "Swatantra TV",
+        "id": 8,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_8_1743505433.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8"
+    },
+    {
+        "name": "ETV Andhra Pradesh FHD",
+        "id": 9,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_9_1743505575.png",
+        "language": "te",
+        "category": "Eenadu Network (ETV WIN)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8"
+    },
+    {
+        "name": "Prime 9 FHD",
+        "id": 10,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_10_1743505786.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8"
+    },
+    {
+        "name": "Mahaa News HD",
+        "id": 11,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_11_1720509737.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8"
+    },
+    {
+        "name": "HMTV",
+        "id": 12,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_12_1720509822.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8"
+    },
+    {
+        "name": "T News",
+        "id": 13,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_13_1743505811.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/TNews/index.m3u8"
+    },
+    {
+        "name": "V6 News HD",
+        "id": 14,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_14_1743505265.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/V6News/index.m3u8"
+    },
+    {
+        "name": "6TV",
+        "id": 16,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_16_1737294281.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8"
+    },
+    {
+        "name": "TV6",
+        "id": 18,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C18-1770974878.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/TV6/index.m3u8"
+    },
+    {
+        "name": "6TV",
+        "id": 20,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_16_1737294281.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/99tv/index.m3u8"
+    },
+    {
+        "name": "ETV TELANGANA",
+        "id": 21,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_113_1721195229.png",
+        "language": "te",
+        "category": "Eenadu Network (ETV WIN)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8"
+    },
+    {
+        "name": "I News",
+        "id": 22,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_114_1743505617.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/INews/index.m3u8"
+    },
+    {
+        "name": "CVR English News",
+        "id": 23,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_450_1721195523.png",
+        "language": "te",
+        "category": "Telugu News",
+        "url": "https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8"
+    },
+    {
+        "name": "SSLC Mulitiplex  70mm",
+        "id": 24,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_19_1721195667.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/SSLCMultiplex/index.m3u8"
+    },
+    {
+        "name": "Bathukamma TV",
+        "id": 25,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_20_1721192955.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/BathukammaTV/index.m3u8"
+    },
+    {
+        "name": "RKTV",
+        "id": 26,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C26-1768576004.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/RKTV/index.m3u8"
+    },
+    {
+        "name": "KTV News",
+        "id": 27,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C27-1774968658.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/KTVNews/index.m3u8"
+    },
+    {
+        "name": "SSLC Gold (Free)",
+        "id": 28,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_23_1721196109.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8"
+    },
+    {
+        "name": "SSLC Cinemalu (Free)",
+        "id": 29,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_24_1721195960.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8"
+    },
+    {
+        "name": "BCT Classic",
+        "id": 30,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_25_1744023786.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8"
+    },
+    {
+        "name": "VCN HD",
+        "id": 31,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C31-1765071127.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/vcn/index.m3u8"
+    },
+    {
+        "name": "Kathalu",
+        "id": 32,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C32-1768575915.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/SSLCKathalu/index.m3u8"
+    },
+    {
+        "name": "Veduka HD",
+        "id": 33,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C33-1775917489.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/VedukaHD/index.m3u8"
+    },
+    {
+        "name": "2 Telugu (Free)",
+        "id": 34,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_29_1721196550.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/2Telugu/index.m3u8"
+    },
+    {
+        "name": "MAHA MAX",
+        "id": 35,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_30_1730975370.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8"
+    },
+    {
+        "name": "DS9 News",
+        "id": 36,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C36-1763644980.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/DS9/index.m3u8"
+    },
+    {
+        "name": "CVR Health",
+        "id": 37,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_449_1721197140.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8"
+    },
+    {
+        "name": "Vanitha TV",
+        "id": 38,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_454_1728551126.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8"
+    },
+    {
+        "name": "Gee TV - Voice of AP",
+        "id": 39,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C39-1774421013.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8"
+    },
+    {
+        "name": "BCT News",
+        "id": 40,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_471_1735830425.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/BCTNews/index.m3u8"
+    },
+    {
+        "name": "Shreyas TV",
+        "id": 41,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_472_1748355012.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8"
+    },
+    {
+        "name": "SD TV",
+        "id": 42,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_42_1721197005.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8"
+    },
+    {
+        "name": "City News Telugu",
+        "id": 43,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C43-1772102300.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8"
+    },
+    {
+        "name": "S9 Channel",
+        "id": 44,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C44-1774421077.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/S9News/index.m3u8"
+    },
+    {
+        "name": "Tirumala",
+        "id": 45,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_35_1721196906.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8"
+    },
+    {
+        "name": "MAA CABLE",
+        "id": 46,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_462_1735827728.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/MaaCable/index.m3u8"
+    },
+    {
+        "name": "News 9 Today Telugu",
+        "id": 47,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C315-1770199375.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/News9/index.m3u8"
+    },
+    {
+        "name": "BCT Movies",
+        "id": 48,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_38_1735827949.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8"
+    },
+    {
+        "name": "Anjali TV HD",
+        "id": 49,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C49-1760169213.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8"
+    },
+    {
+        "name": "AB NEWS",
+        "id": 50,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C50-1763884010.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/ABNews/index.m3u8"
+    },
+    {
+        "name": "Reshya TV",
+        "id": 51,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C51-1760169524.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/ReshyaTV/index.m3u8"
+    },
+    {
+        "name": "Deccan Today Telugu",
+        "id": 52,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C052-1772102864.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/DeccanToday/index.m3u8"
+    },
+    {
+        "name": "TG5 News",
+        "id": 53,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C53-1769000628.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/TG5/index.m3u8"
+    },
+    {
+        "name": "INB TODAY",
+        "id": 54,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C54-1770198675.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8"
+    },
+    {
+        "name": "Studio 18 News",
+        "id": 55,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C55-1775049939.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/Studio18/index.m3u8"
+    },
+    {
+        "name": "Maha Bhakthi",
+        "id": 56,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C56-1760173140.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8"
+    },
+    {
+        "name": "Shakthi TV",
+        "id": 57,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_47_1715845510.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8"
+    },
+    {
+        "name": "Food & Health",
+        "id": 58,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_48_1715845457.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/FAndH/index.m3u8"
+    },
+    {
+        "name": "PMC",
+        "id": 59,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_49_1727518055.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8"
+    },
+    {
+        "name": "NSTV",
+        "id": 60,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C60-1770307644.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/NSTV/index.m3u8"
+    },
+    {
+        "name": "BCT Keerthana",
+        "id": 61,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_467_1735829116.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/BCTKeerthana/index.m3u8"
+    },
+    {
+        "name": "Journalist Today TV",
+        "id": 62,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C062-1774417061.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/JournalistToday/index.m3u8"
+    },
+    {
+        "name": "DS9 Entertainment",
+        "id": 63,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C63-1763645023.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/ds9e/index.m3u8"
+    },
+    {
+        "name": "Garuda TV",
+        "id": 64,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C64-1767857123.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/GarudaTV/index.m3u8"
+    },
+    {
+        "name": "BCT Music",
+        "id": 65,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_486_1735830584.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8"
+    },
+    {
+        "name": "SSLC Janapadlu (Free)",
+        "id": 66,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_51_1721211096.png",
+        "language": "te",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8"
+    },
+    {
+        "name": "Masti Tv",
+        "id": 67,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_52_1721211426.png",
+        "language": "te",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8"
+    },
+    {
+        "name": "SSLC Music",
+        "id": 68,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_53_1721211529.png",
+        "language": "te",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8"
+    },
+    {
+        "name": "SSLC Banjara Dolu",
+        "id": 69,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_54_1721211721.png",
+        "language": "te",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8"
+    },
+    {
+        "name": "R5 TV",
+        "id": 70,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C070-1773403095.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/R5TV/index.m3u8"
+    },
+    {
+        "name": "RK Bhakthi TV",
+        "id": 71,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-71-1753712175.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8"
+    },
+    {
+        "name": "SRK News",
+        "id": 72,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_487_1722748309.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/SRKNews/index.m3u8"
+    },
+    {
+        "name": "BCN CHANNEL",
+        "id": 73,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C73-1765374654.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/BCN/index.m3u8"
+    },
+    {
+        "name": "MYTV FHD",
+        "id": 74,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C74-1762845018.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8"
+    },
+    {
+        "name": "Shreyas Music",
+        "id": 75,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_494_1748355672.png",
+        "language": "te",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8"
+    },
+    {
+        "name": "Local TV News",
+        "id": 76,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C76-1765071691.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/LocalTVNews/index.m3u8"
+    },
+    {
+        "name": "Sun Gemini HD",
+        "id": 77,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C77-1774001644.png",
+        "language": "te",
+        "category": "Sun Network (SUN NXT)",
+        "url": "https://mumbai-edge.smartplaytv.in/GeminiTVHD/index.m3u8"
+    },
+    {
+        "name": "Sun Gemini Music HD",
+        "id": 78,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C78-1774001721.png",
+        "language": "te",
+        "category": "Sun Network (SUN NXT)",
+        "url": "https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8"
+    },
+    {
+        "name": "Gemini Movies HD",
+        "id": 79,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C79-1769705812.png",
+        "language": "te",
+        "category": "Sun Network (SUN NXT)",
+        "url": "https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8"
+    },
+    {
+        "name": "Gemini Life",
+        "id": 80,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_60_1721407640.png",
+        "language": "te",
+        "category": "Sun Network (SUN NXT)",
+        "url": "https://mumbai-edge.smartplaytv.in/GeminiLife/index.m3u8"
+    },
+    {
+        "name": "J News",
+        "id": 81,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C81-1771672190.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/JNews/index.m3u8"
+    },
+    {
+        "name": "SV6",
+        "id": 90,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_32_1721200720.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/SV6/index.m3u8"
+    },
+    {
+        "name": "Vee9 News",
+        "id": 97,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C62-1770381116.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/Vee9/index.m3u8"
+    },
+    {
+        "name": "Zee Telugu HD",
+        "id": 100,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_83_1749555558.png",
+        "language": "te",
+        "category": "Zee Entertainment (Z5)",
+        "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
+    },
+    {
+        "name": "Zee Cinemalu HD",
+        "id": 101,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_81_1749555599.png",
+        "language": "te",
+        "category": "Zee Entertainment (Z5)",
+        "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
+    },
+    {
+        "name": "TG24 TV",
+        "id": 130,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C130-1770987944.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/TG24TV/index.m3u8"
+    },
+    {
+        "name": "ETV HD",
+        "id": 131,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_111_1721408142.png",
+        "language": "te",
+        "category": "Eenadu Network (ETV WIN)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8"
+    },
+    {
+        "name": "ETV Plus",
+        "id": 132,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_112_1721408385.png",
+        "language": "te",
+        "category": "Eenadu Network (ETV WIN)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8"
+    },
+    {
+        "name": "E69 News",
+        "id": 133,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0133-1770988296.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/E69News/index.m3u8"
+    },
+    {
+        "name": "Bahujana News TV",
+        "id": 134,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0134-1770989093.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8"
+    },
+    {
+        "name": "ETV Abhiruchi",
+        "id": 135,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_115_1721408224.png",
+        "language": "te",
+        "category": "Eenadu Network (ETV WIN)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8"
+    },
+    {
+        "name": "ETV Life",
+        "id": 136,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_116_1721408451.png",
+        "language": "te",
+        "category": "Eenadu Network (ETV WIN)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8"
+    },
+    {
+        "name": "ETV Cinema",
+        "id": 139,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_119_1721408512.png",
+        "language": "te",
+        "category": "Eenadu Network (ETV WIN)",
+        "url": "https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8"
+    },
+    {
+        "name": "Akshara News",
+        "id": 140,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0140-1770986726.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/AksharaNews/index.m3u8"
+    },
+    {
+        "name": "A1TV TELUGU NEWS",
+        "id": 141,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C141-1771242610.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8"
+    },
+    {
+        "name": "Bhakthi TV",
+        "id": 143,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_123_1721310317.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8"
+    },
+    {
+        "name": "Hindu Dharmam",
+        "id": 144,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_124_1721417469.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8"
+    },
+    {
+        "name": "Peace of Mind",
+        "id": 145,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_125_1721309724.png",
+        "language": "hi",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8"
+    },
+    {
+        "name": "Aastha Telugu",
+        "id": 146,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_126_1721309978.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8"
+    },
+    {
+        "name": "PCN HD",
+        "id": 147,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C149-1765072335.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/PCNHD/index.m3u8"
+    },
+    {
+        "name": "MunsifTV",
+        "id": 148,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C148-1765072489.png",
+        "language": "hi",
+        "category": "Urdu Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8"
+    },
+    {
+        "name": "S90 News",
+        "id": 151,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0151-1770989606.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/S90News/index.m3u8"
+    },
+    {
+        "name": "WIN TV",
+        "id": 155,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C155-1774869325.png",
+        "language": "te",
+        "category": "Telugu Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8"
+    },
+    {
+        "name": "SUPER TV",
+        "id": 160,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C160-1765072598.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/supertv/index.m3u8"
+    },
+    {
+        "name": "Divyavani",
+        "id": 161,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_497_1725878052.png",
+        "language": "te",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8"
+    },
+    {
+        "name": "Mercy TV",
+        "id": 163,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_515_1741238616.png",
+        "language": "hi",
+        "category": "Urdu Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8"
+    },
+    {
+        "name": "Aradana TV",
+        "id": 166,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_142_1721310566.png",
+        "language": "te",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8"
+    },
+    {
+        "name": "Sai TV",
+        "id": 168,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_144_1725429721.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8"
+    },
+    {
+        "name": "BMC",
+        "id": 170,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_146_1721312315.png",
+        "language": "te",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/BMC/index.m3u8"
+    },
+    {
+        "name": "Harvest TV",
+        "id": 171,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_147_1721312422.png",
+        "language": "en",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8"
+    },
+    {
+        "name": "PratyakshataTV",
+        "id": 173,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_149_1722243481.png",
+        "language": "te",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/PratyakshataTV/index.m3u8"
+    },
+    {
+        "name": "BIGJ TV",
+        "id": 174,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C174-1770466349.png",
+        "language": "te",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/BIGJTV/index.m3u8"
+    },
+    {
+        "name": "Joy TV",
+        "id": 175,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C197-1770467074.png",
+        "language": "en",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/JoyTV/index.m3u8"
+    },
+    {
+        "name": "POWER RANGERS",
+        "id": 176,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C176-1770662594.png",
+        "language": "en",
+        "category": "Kids",
+        "url": "https://mumbai-edge.smartplaytv.in/powerrangers/index.m3u8"
+    },
+    {
+        "name": "Happy Kids",
+        "id": 177,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_152_1722073886.png",
+        "language": "en",
+        "category": "Kids",
+        "url": "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8"
+    },
+    {
+        "name": "Happy Kids",
+        "id": 180,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_155_1715858655.png",
+        "language": "en",
+        "category": "Kids",
+        "url": "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8"
+    },
+    {
+        "name": "Rongeen TV",
+        "id": 183,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_158_1729599506.png",
+        "language": "kn",
+        "category": "Kids",
+        "url": "https://mumbai-edge.smartplaytv.in/RongeenTV/index.m3u8"
+    },
+    {
+        "name": "Adhyatm TV",
+        "id": 186,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_535_1730983665.png",
+        "language": "hi",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8"
+    },
+    {
+        "name": "Beep Beep",
+        "id": 190,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_165_1722074360.png",
+        "language": "en",
+        "category": "Kids",
+        "url": "https://mumbai-edge.smartplaytv.in/BeepBeep/index.m3u8"
+    },
+    {
+        "name": "The LEGO",
+        "id": 192,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_167_1722074469.png",
+        "language": "en",
+        "category": "Kids",
+        "url": "https://mumbai-edge.smartplaytv.in/TheLego/index.m3u8"
+    },
+    {
+        "name": "Mee TV News",
+        "id": 198,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C198-1771157316.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/MeeNews/index.m3u8"
+    },
+    {
+        "name": "Shemaroo Bollywood",
+        "id": 199,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_174_1749057163.png",
+        "language": "hi",
+        "category": "Hindi Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8"
+    },
+    {
+        "name": "BJTV",
+        "id": 200,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C200-1768907242.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/BJTV/index.m3u8"
+    },
+    {
+        "name": "DNB NEWS",
+        "id": 201,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C201-1771828232.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/DNBNEWS/index.m3u8"
+    },
+    {
+        "name": "PS NEWS",
+        "id": 206,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0206-1771497542.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/PSNEWS/index.m3u8"
+    },
+    {
+        "name": "EYE TV",
+        "id": 207,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0207-1771497724.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/EYETV/index.m3u8"
+    },
+    {
+        "name": "N24 News",
+        "id": 208,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0208-1772616127.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8"
+    },
+    {
+        "name": "I VIEW",
+        "id": 209,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0209-1772698494.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8"
+    },
+    {
+        "name": "CK NEWS",
+        "id": 210,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0211-1772700646.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8"
+    },
+    {
+        "name": "BV9 News",
+        "id": 211,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0210-1771828430.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/BV9NEWS/index.m3u8"
+    },
+    {
+        "name": "Time 2 Time",
+        "id": 212,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0212-1771308915.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/Time2Time/index.m3u8"
+    },
+    {
+        "name": "The Movie Club",
+        "id": 213,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2130-1770523570.png",
+        "language": "hi",
+        "category": "Hindi Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8"
+    },
+    {
+        "name": "ZOOM",
+        "id": 218,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_184_1721313059.png",
+        "language": "hi",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8"
+    },
+    {
+        "name": "IBTV TELUGU",
+        "id": 229,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C229-1771247401.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/IBTV/index.m3u8"
+    },
+    {
+        "name": "Only Music",
+        "id": 236,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_201_1722076488.png",
+        "language": "en",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8"
+    },
+    {
+        "name": "RT India",
+        "id": 238,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C230-1768576180.png",
+        "language": "en",
+        "category": "Hindi News",
+        "url": "https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8"
+    },
+    {
+        "name": "Network10",
+        "id": 239,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_447_1721419910.png",
+        "language": "hi",
+        "category": "Hindi News",
+        "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8"
+    },
+    {
+        "name": "SVBC TELUGU",
+        "id": 242,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_121_1721203848.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8"
+    },
+    {
+        "name": "NDTV India",
+        "id": 243,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_206_1721420194.png",
+        "language": "hi",
+        "category": "Hindi News",
+        "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
+    },
+    {
+        "name": "ABP News",
+        "id": 252,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_215_1721420849.png",
+        "language": "hi",
+        "category": "Hindi News",
+        "url": "https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8"
+    },
+    {
+        "name": "News X",
+        "id": 254,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C254-1769334541.png",
+        "language": "hi",
+        "category": "Hindi News",
+        "url": "https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8"
+    },
+    {
+        "name": "Aastha",
+        "id": 255,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_216_1721470214.png",
+        "language": "hi",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8"
+    },
+    {
+        "name": "jinavani",
+        "id": 259,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_220_1715867780.png",
+        "language": "hi",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/Jinavani/index.m3u8"
+    },
+    {
+        "name": "DD Urdu",
+        "id": 264,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_222_1721474570.png",
+        "language": "hi",
+        "category": "Urdu Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8"
+    },
+    {
+        "name": "Siasat TV",
+        "id": 268,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_451_1717753818.png",
+        "language": "hi",
+        "category": "Urdu Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/siasat/index.m3u8"
+    },
+    {
+        "name": "Sri Sankara",
+        "id": 280,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_230_1737380306.png",
+        "language": "ta",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8"
+    },
+    {
+        "name": "MNTV",
+        "id": 285,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_235_1721475445.png",
+        "language": "ta",
+        "category": "Tamil Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/MNTV/index.m3u8"
+    },
+    {
+        "name": "Puthiyathalai Murai",
+        "id": 287,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_237_1721475622.png",
+        "language": "ta",
+        "category": "Tamil News",
+        "url": "https://mumbai-edge.smartplaytv.in/Puthiyathalaimurai/index.m3u8"
+    },
+    {
+        "name": "IBC Tamil",
+        "id": 288,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_238_1721475761.png",
+        "language": "ta",
+        "category": "Tamil News",
+        "url": "https://mumbai-edge.smartplaytv.in/IBCTamil/index.m3u8"
+    },
+    {
+        "name": "mediacorp",
+        "id": 289,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_498_1726317191.png",
+        "language": "ta",
+        "category": "Tamil Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/mediacorp/index.m3u8"
+    },
+    {
+        "name": "Tv9 Bangla",
+        "id": 294,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_240_1715930016.png",
+        "language": "bn",
+        "category": "Bengali",
+        "url": "https://mumbai-edge.smartplaytv.in/Tv9Bangla/index.m3u8"
+    },
+    {
+        "name": "Globe TV",
+        "id": 304,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_250_1715930865.png",
+        "language": "bn",
+        "category": "Bengali",
+        "url": "https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8"
+    },
+    {
+        "name": "Samay Kolkata",
+        "id": 305,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_251_1715930973.png",
+        "language": "bn",
+        "category": "Bengali",
+        "url": "https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8"
+    },
+    {
+        "name": "DD Sports HD",
+        "id": 313,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C313-1770642483.png",
+        "language": "",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
+    },
+    {
+        "name": "TraceLatina",
+        "id": 314,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_452_1718712997.png",
+        "language": "en",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8"
+    },
+    {
+        "name": "Sana Plus HD",
+        "id": 318,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C318-1765979431.png",
+        "language": "ta",
+        "category": "Tamil Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
+    },
+    {
+        "name": "Public Music Kannada",
+        "id": 323,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_266_1735022512.png",
+        "language": "kn",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8"
+    },
+    {
+        "name": "First Post",
+        "id": 334,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_499_1726317376.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/FirstPost/index.m3u8"
+    },
+    {
+        "name": "First Post",
+        "id": 337,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C337-1763194746.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8"
+    },
+    {
+        "name": "Racer Select",
+        "id": 339,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C339-1769754654.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/RacerSelect/index.m3u8"
+    },
+    {
+        "name": "Sports Grid",
+        "id": 340,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_280_1721038526.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/SportsGrid/index.m3u8"
+    },
+    {
+        "name": "People Are Awesome",
+        "id": 341,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_281_1721038584.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8"
+    },
+    {
+        "name": "DD Sports",
+        "id": 344,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_284_1721038770.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
+    },
+    {
+        "name": "TRACE SPORT",
+        "id": 346,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_286_1721038928.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8"
+    },
+    {
+        "name": "Tennis 2",
+        "id": 348,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C348-1770661451.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8"
+    },
+    {
+        "name": "Horizon Sports",
+        "id": 349,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_289_1715952095.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/HorizonSports/index.m3u8"
+    },
+    {
+        "name": "DD madhya pradesh",
+        "id": 351,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C433-1759776438.png",
+        "language": "hi",
+        "category": "Hindi Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8"
+    },
+    {
+        "name": "Janam Sakshi",
+        "id": 352,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C360-1770631624.png",
+        "language": "en",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/JanamSakshi/index.m3u8"
+    },
+    {
+        "name": "Wild Earth",
+        "id": 353,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_291_1721039186.png",
+        "language": "en",
+        "category": "Wild Animals",
+        "url": "https://mumbai-edge.smartplaytv.in/wildearth/index.m3u8"
+    },
+    {
+        "name": "INWILD",
+        "id": 354,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_292_1721039232.png",
+        "language": "en",
+        "category": "Wild Animals",
+        "url": "https://mumbai-edge.smartplaytv.in/inwild/index.m3u8"
+    },
+    {
+        "name": "Love Nature",
+        "id": 356,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C356-1762592948.png",
+        "language": "en",
+        "category": "Wild Animals",
+        "url": "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8"
+    },
+    {
+        "name": "Hyderabad Express",
+        "id": 359,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C359-1770190529.png",
+        "language": "en",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/HyderabadExpress/index.m3u8"
+    },
+    {
+        "name": "Team USA",
+        "id": 360,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0361-1770661670.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/TeamUSA/index.m3u8"
+    },
+    {
+        "name": "BBC Earth",
+        "id": 363,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C363-1770662200.png",
+        "language": "en",
+        "category": "Wild Animals",
+        "url": "https://mumbai-edge.smartplaytv.in/BBCEarth/index.m3u8"
+    },
+    {
+        "name": "Vasanth TV",
+        "id": 371,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_306_1737379013.png",
+        "language": "ta",
+        "category": "Tamil Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8"
+    },
+    {
+        "name": "RUN THRILLERS",
+        "id": 389,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png",
+        "language": "hi",
+        "category": "Hindi Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/runthrillers/index.m3u8"
+    },
+    {
+        "name": "TRT World",
+        "id": 401,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_331_1716017598.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8"
+    },
+    {
+        "name": "BBC News",
+        "id": 403,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_333_1721039897.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8"
+    },
+    {
+        "name": "Bloomberg",
+        "id": 404,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_334_1721040034.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8"
+    },
+    {
+        "name": "CNN USA",
+        "id": 405,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_335_1721040083.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/CNNUSA/index.m3u8"
+    },
+    {
+        "name": "France 24",
+        "id": 407,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_337_1716018015.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/france24/index.m3u8"
+    },
+    {
+        "name": "Angel TV",
+        "id": 411,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_341_1737379459.png",
+        "language": "ta",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8"
+    },
+    {
+        "name": "africanews",
+        "id": 414,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_344_1716018312.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8"
+    },
+    {
+        "name": "Power Vision",
+        "id": 418,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C418-1770466596.png",
+        "language": "ta",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8"
+    },
+    {
+        "name": "TV9 Marathi",
+        "id": 445,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_362_1716025759.png",
+        "language": "mr",
+        "category": "45",
+        "url": "https://mumbai-edge.smartplaytv.in/TV9Marathi/index.m3u8"
+    },
+    {
+        "name": "Hosanna TV",
+        "id": 460,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C460-1770466824.png",
+        "language": "ta",
+        "category": "Christian Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8"
+    },
+    {
+        "name": "DD Rajasthan",
+        "id": 469,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C469-1759776723.png",
+        "language": "hi",
+        "category": "Hindi Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8"
+    },
+    {
+        "name": "DD Bihar",
+        "id": 472,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C472-1759777055.png",
+        "language": "hi",
+        "category": "Hindi Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/ddbihar/index.m3u8"
+    },
+    {
+        "name": "prime TV",
+        "id": 474,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C474-1759868161.png",
+        "language": "ta",
+        "category": "Tamil Local",
+        "url": "https://mumbai-edge.smartplaytv.in/primetv/index.m3u8"
+    },
+    {
+        "name": "BloombergHT",
+        "id": 486,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_403_1716027931.png",
+        "language": "en",
+        "category": "International News",
+        "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+    },
+    {
+        "name": "Vedha Tv",
+        "id": 488,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C488-1759867570.png",
+        "language": "ta",
+        "category": "Tamil Local",
+        "url": "https://mumbai-edge.smartplaytv.in/vedhatv/index.m3u8"
+    },
+    {
+        "name": "Jaya PLus",
+        "id": 490,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_407_1716028072.png",
+        "language": "ta",
+        "category": "Tamil News",
+        "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
+    },
+    {
+        "name": "ACN TV",
+        "id": 564,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C564-1761662323.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/acn/index.m3u8"
+    },
+    {
+        "name": "CVR OM",
+        "id": 581,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_448_1717154009.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8"
+    },
+    {
+        "name": "Sindhura TV",
+        "id": 584,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_495_1725535223.png",
+        "language": "kn",
+        "category": "Kannada Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/SindhuraTV/index.m3u8"
+    },
+    {
+        "name": "Pulari TV",
+        "id": 608,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C608-1770986144.png",
+        "language": "ta",
+        "category": "Tamil Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8"
+    },
+    {
+        "name": "Ekamra One Paschima",
+        "id": 609,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C609-1771588881.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/ekamraonepaschima/index.m3u8"
+    },
+    {
+        "name": "Channel Divya",
+        "id": 613,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_523_1730209582.png",
+        "language": "hi",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8"
+    },
+    {
+        "name": "Velicham TV",
+        "id": 615,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C615-1752503810.png",
+        "language": "ta",
+        "category": "Tamil News",
+        "url": "https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8"
+    },
+    {
+        "name": "DAINIK ASHA",
+        "id": 624,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C615-1752503810.png",
+        "language": "en",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/DainikAsha/index.m3u8"
+    },
+    {
+        "name": "Motor Racing",
+        "id": 628,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_530_1727083991.png",
+        "language": "en",
+        "category": "Sports",
+        "url": "https://mumbai-edge.smartplaytv.in/motorracing/index.m3u8"
+    },
+    {
+        "name": "Darshanam Bhakthi",
+        "id": 631,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_533_1729688528.png",
+        "language": "te",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/darshanambhakthi/index.m3u8"
+    },
+    {
+        "name": "Food Food",
+        "id": 636,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_537_1727517751.png",
+        "language": "en",
+        "category": "Food",
+        "url": "https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8"
+    },
+    {
+        "name": "TV9 kannada",
+        "id": 638,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_539_1727524609.png",
+        "language": "kn",
+        "category": "Kannada News",
+        "url": "https://mumbai-edge.smartplaytv.in/tv9kannada/index.m3u8"
+    },
+    {
+        "name": "News 18 Kannada",
+        "id": 640,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_541_1727524760.png",
+        "language": "kn",
+        "category": "Kannada News",
+        "url": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8"
+    },
+    {
+        "name": "TV5 kannada",
+        "id": 642,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_543_1727524863.png",
+        "language": "kn",
+        "category": "Kannada News",
+        "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8"
+    },
+    {
+        "name": "REPUBLIC KANNADA",
+        "id": 651,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_611_1734954306.png",
+        "language": "kn",
+        "category": "Kannada Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8"
+    },
+    {
+        "name": "NK TV",
+        "id": 652,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C652-1760172686.png",
+        "language": "kn",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/nktvkannada/index.m3u8"
+    },
+    {
+        "name": "Thanthi One",
+        "id": 700,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_577_1733037684.png",
+        "language": "ta",
+        "category": "Tamil Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8"
+    },
+    {
+        "name": "M Nadu",
+        "id": 706,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C706-1770462513.png",
+        "language": "ta",
+        "category": "Tamil News",
+        "url": "https://mumbai-edge.smartplaytv.in/mnadu/index.m3u8"
+    },
+    {
+        "name": "Smart Sria",
+        "id": 707,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_583_1733038295.png",
+        "language": "ta",
+        "category": "Tamil Local",
+        "url": "https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8"
+    },
+    {
+        "name": "JAY JAGANNATH",
+        "id": 708,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C708-1771589696.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/jayjagannath/index.m3u8"
+    },
+    {
+        "name": "EKAMRA CINEMA",
+        "id": 709,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C709-1771588231.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/ekamracinema/index.m3u8"
+    },
+    {
+        "name": "Captain TV",
+        "id": 710,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C710-1761814225.png",
+        "language": "ta",
+        "category": "Hindi Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8"
+    },
+    {
+        "name": "Raja TV",
+        "id": 716,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_592_1733039228.png",
+        "language": "ta",
+        "category": "Tamil Local",
+        "url": "https://mumbai-edge.smartplaytv.in/RajaTV/index.m3u8"
+    },
+    {
+        "name": "EKAMRA MUSIC",
+        "id": 718,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C719-1771588057.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/ekamramusic/index.m3u8"
+    },
+    {
+        "name": "PCV Channel",
+        "id": 719,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_595_1733039463.png",
+        "language": "ta",
+        "category": "Tamil Local",
+        "url": "https://mumbai-edge.smartplaytv.in/PCVchannel/index.m3u8"
+    },
+    {
+        "name": "7S Music",
+        "id": 720,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C720-1760172614.png",
+        "language": "ta",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8"
+    },
+    {
+        "name": "U TV",
+        "id": 723,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C723-1759872655.png",
+        "language": "ta",
+        "category": "Tamil Local",
+        "url": "https://mumbai-edge.smartplaytv.in/utv/index.m3u8"
+    },
+    {
+        "name": "Makkal TV",
+        "id": 724,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_600_1739451757.png",
+        "language": "ta",
+        "category": "Tamil Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8"
+    },
+    {
+        "name": "BADAKHABAR",
+        "id": 727,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C728-1771589348.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8"
+    },
+    {
+        "name": "Ekamra Manoranjan",
+        "id": 729,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C728-1771589348.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/EkamraManoranjan/index.m3u8"
+    },
+    {
+        "name": "Argus TV",
+        "id": 730,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C730-1771579833.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/argustv/index.m3u8"
+    },
+    {
+        "name": "Shrihigulambika",
+        "id": 733,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C733-1770975533.png",
+        "language": "te",
+        "category": "Live Darshan",
+        "url": "https://mumbai-edge.smartplaytv.in/Shrihigulambika/index.m3u8"
+    },
+    {
+        "name": "Sidharth TV",
+        "id": 734,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C734-1771581136.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/sidharthtv/index.m3u8"
+    },
+    {
+        "name": "MBC T V",
+        "id": 901,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C901-1771577731.png",
+        "language": "en",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8"
+    },
+    {
+        "name": "News 18 Odiya",
+        "id": 903,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C903-1771579282.png",
+        "language": "en",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8"
+    },
+    {
+        "name": "DD ODIYA",
+        "id": 904,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C904-1771579427.png",
+        "language": "en",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8"
+    },
+    {
+        "name": "MTV",
+        "id": 907,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C907-1760172306.png",
+        "language": "te",
+        "category": "Telugu Local",
+        "url": "https://mumbai-edge.smartplaytv.in/MTV/index.m3u8"
+    },
+    {
+        "name": "ABP Majha",
+        "id": 910,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_482_1722056498.png",
+        "language": "mr",
+        "category": "45",
+        "url": "https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8"
+    },
+    {
+        "name": "EKAMRA NILACH AKRA",
+        "id": 911,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C727-1771580055.png",
+        "language": "mr",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/EKAMRANILACHAKRA/index.m3u8"
+    },
+    {
+        "name": "Kanak News",
+        "id": 1104,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C1104-1771579576.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8"
+    },
+    {
+        "name": "Kalinga TV",
+        "id": 1117,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C1117-1771580816.png",
+        "language": "ta",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8"
+    },
+    {
+        "name": "DD National HD",
+        "id": 1119,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_175_1721312832.png",
+        "language": "hi",
+        "category": "DD Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8"
+    },
+    {
+        "name": "DD India",
+        "id": 1120,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_176_1721312915.png",
+        "language": "hi",
+        "category": "DD Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8"
+    },
+    {
+        "name": "DD News",
+        "id": 1121,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_177_1715863534.png",
+        "language": "hi",
+        "category": "DD Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8"
+    },
+    {
+        "name": "DD Bharthi",
+        "id": 1122,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C208-1770733348.png",
+        "language": "hi",
+        "category": "DD Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8"
+    },
+    {
+        "name": "DD Kisan",
+        "id": 1123,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C209-1770733407.png",
+        "language": "hi",
+        "category": "DD Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
+    },
+    {
+        "name": "Sansad 1 HD",
+        "id": 1124,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C210-1771582119.png",
+        "language": "hi",
+        "category": "DD Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8"
+    },
+    {
+        "name": "DD Sapthagiri",
+        "id": 1125,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel_181_1715863828.png",
+        "language": "te",
+        "category": "DD Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DDSapthagiri/index.m3u8"
+    },
+    {
+        "name": "TARANG TV",
+        "id": 2000,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2000-1771577428.png",
+        "language": "en",
+        "category": "ODIYA CHANNELS",
+        "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8"
+    },
+    {
+        "name": "ENCORE",
+        "id": 2001,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2001-1770294575.png",
+        "language": "en",
+        "category": "English Entertainment",
+        "url": "https://mumbai-edge.smartplaytv.in/ENCORE/index.m3u8"
+    },
+    {
+        "name": "Bhakthisiri",
+        "id": 2003,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2003-1773475755.png",
+        "language": "hi",
+        "category": "Hindu Devotional",
+        "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8"
+    },
+    {
+        "name": "DS9 Music",
+        "id": 2005,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2005-1770460644.png",
+        "language": "te",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8"
+    },
+    {
+        "name": "DS9 Kathalu",
+        "id": 2006,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2006-1770460706.png",
+        "language": "te",
+        "category": "Music Channels",
+        "url": "https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8"
+    },
+    {
+        "name": "Global Punjab",
+        "id": 2009,
+        "logo": "http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-c2009-1773479940.png",
+        "language": "pa",
+        "category": "PUNJAB NEWS",
+        "url": "https://mumbai-edge.smartplaytv.in/Globalpunjab/index.m3u8"
+    }
+]
