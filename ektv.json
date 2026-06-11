@@ -1,0 +1,1652 @@
+[
+    {
+        "id": "13",
+        "name": "Big Magic",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/13/13_0.m3u8"
+    },
+    {
+        "id": "15",
+        "name": "DD National HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/15/15_0.m3u8"
+    },
+    {
+        "id": "17",
+        "name": "Dangal",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/17/17_0.m3u8"
+    },
+    {
+        "id": "18",
+        "name": "Dangal 2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/18/18_0.m3u8"
+    },
+    {
+        "id": "19",
+        "name": "Manoranjan Grand",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/19/19_0.m3u8"
+    },
+    {
+        "id": "20",
+        "name": "Anjan TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/20/20_0.m3u8"
+    },
+    {
+        "id": "21",
+        "name": "Shemaroo Josh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/21/21_0.m3u8"
+    },
+    {
+        "id": "22",
+        "name": "Gangaur Television",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/22/22_.m3u8"
+    },
+    {
+        "id": "23",
+        "name": "Manoranjan TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/23/23_0.m3u8"
+    },
+    {
+        "id": "25",
+        "name": "The Q",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/25/25_0.m3u8"
+    },
+    {
+        "id": "29",
+        "name": "Colors Infinity",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/29/29_0.m3u8"
+    },
+    {
+        "id": "43",
+        "name": "B4U Movies",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/43/43_0.m3u8"
+    },
+    {
+        "id": "44",
+        "name": "B4U Kadak",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/44/44_0.m3u8"
+    },
+    {
+        "id": "46",
+        "name": "Goldmines 2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/46/46_0.m3u8"
+    },
+    {
+        "id": "47",
+        "name": "Manoranjan Movies",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/47/47_0.m3u8"
+    },
+    {
+        "id": "48",
+        "name": "Maha Movie",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/48/48_0.m3u8"
+    },
+    {
+        "id": "49",
+        "name": "Shubh Cinema",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/49/49_0.m3u8"
+    },
+    {
+        "id": "51",
+        "name": "Goldmines Movies",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/51/51_0.m3u8"
+    },
+    {
+        "id": "52",
+        "name": "Goldmines Bollywood",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/52/52_0.m3u8"
+    },
+    {
+        "id": "53",
+        "name": "Goldmines",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/53/53_0.m3u8"
+    },
+    {
+        "id": "54",
+        "name": "All Time Movies",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/54/54_0.m3u8"
+    },
+    {
+        "id": "55",
+        "name": "Manorama News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/55/55_0.m3u8"
+    },
+    {
+        "id": "64",
+        "name": "DD Sports",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/64/64_0.m3u8"
+    },
+    {
+        "id": "87",
+        "name": "Aaj Tak",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/87/87_0.m3u8"
+    },
+    {
+        "id": "89",
+        "name": "Good News Today",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/89/89_0.m3u8"
+    },
+    {
+        "id": "92",
+        "name": "TV9 Bharatvarsh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/92/92_0.m3u8"
+    },
+    {
+        "id": "93",
+        "name": "News Nation",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/93/93_0.m3u8"
+    },
+    {
+        "id": "94",
+        "name": "India Voice",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/94/94_0.m3u8"
+    },
+    {
+        "id": "95",
+        "name": "News 24",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/95/95_0.m3u8"
+    },
+    {
+        "id": "96",
+        "name": "Hindi Khabar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/96/96_0.m3u8"
+    },
+    {
+        "id": "97",
+        "name": "Bharat Samachar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/97/97_0.m3u8"
+    },
+    {
+        "id": "98",
+        "name": "IND 24",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/98/98_0.m3u8"
+    },
+    {
+        "id": "99",
+        "name": "INH 24x7",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/99/99_0.m3u8"
+    },
+    {
+        "id": "100",
+        "name": "K News India",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/100/100_0.m3u8"
+    },
+    {
+        "id": "101",
+        "name": "ANB News National",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/101/101_0.m3u8"
+    },
+    {
+        "id": "102",
+        "name": "News 1 India",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/102/102_0.m3u8"
+    },
+    {
+        "id": "103",
+        "name": "JKL 24x7 News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/103/103_0.m3u8"
+    },
+    {
+        "id": "104",
+        "name": "Bharat 24",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/104/104_0.m3u8"
+    },
+    {
+        "id": "106",
+        "name": "Janta TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/106/106_0.m3u8"
+    },
+    {
+        "id": "107",
+        "name": "NDTV 24x7",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/107/107_0.m3u8"
+    },
+    {
+        "id": "115",
+        "name": "Republic TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/115/115_0.m3u8"
+    },
+    {
+        "id": "116",
+        "name": "DW English",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/116/116_0.m3u8"
+    },
+    {
+        "id": "117",
+        "name": "DD News HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/117/117_0.m3u8"
+    },
+    {
+        "id": "119",
+        "name": "DD India HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/119/119_0.m3u8"
+    },
+    {
+        "id": "143",
+        "name": "Food Food",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/143/143_0.m3u8"
+    },
+    {
+        "id": "144",
+        "name": "FTV HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/144/144_0.m3u8"
+    },
+    {
+        "id": "148",
+        "name": "DD Kisan",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/148/148_0.m3u8"
+    },
+    {
+        "id": "151",
+        "name": "Star Sports Khel",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/151/151_0.m3u8"
+    },
+    {
+        "id": "155",
+        "name": "9XM",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/155/master.m3u8"
+    },
+    {
+        "id": "157",
+        "name": "B4U Music",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/157/master.m3u8"
+    },
+    {
+        "id": "158",
+        "name": "Music India",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/158/master.m3u8"
+    },
+    {
+        "id": "159",
+        "name": "E 24",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/159/master.m3u8"
+    },
+    {
+        "id": "160",
+        "name": "Insync",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/160/master.m3u8"
+    },
+    {
+        "id": "161",
+        "name": "9X Jalwa",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/161/master.m3u8"
+    },
+    {
+        "id": "165",
+        "name": "Sanskar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/165/master.m3u8"
+    },
+    {
+        "id": "166",
+        "name": "Divya",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/166/master.m3u8"
+    },
+    {
+        "id": "167",
+        "name": "Paras Gold",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/167/master.m3u8"
+    },
+    {
+        "id": "169",
+        "name": "Jinvani Channel",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/169/master.m3u8"
+    },
+    {
+        "id": "170",
+        "name": "Peace Of Mind",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/170/master.m3u8"
+    },
+    {
+        "id": "172",
+        "name": "DD Bihar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/172/master.m3u8"
+    },
+    {
+        "id": "173",
+        "name": "Captain",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/173/master.m3u8"
+    },
+    {
+        "id": "174",
+        "name": "B4U Bhojpuri",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/174/master.m3u8"
+    },
+    {
+        "id": "175",
+        "name": "PTC Punjabi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/175/master.m3u8"
+    },
+    {
+        "id": "176",
+        "name": "PTC Punjabi Gold",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/176/master.m3u8"
+    },
+    {
+        "id": "177",
+        "name": "DD Punjabi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/177/master.m3u8"
+    },
+    {
+        "id": "178",
+        "name": "9X Tashan",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/178/master.m3u8"
+    },
+    {
+        "id": "179",
+        "name": "Tabbar Hits",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/179/master.m3u8"
+    },
+    {
+        "id": "180",
+        "name": "PTC ChakDe",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/180/master.m3u8"
+    },
+    {
+        "id": "181",
+        "name": "PTC Music",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/181/master.m3u8"
+    },
+    {
+        "id": "182",
+        "name": "PTC News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/182/master.m3u8"
+    },
+    {
+        "id": "183",
+        "name": "PTC Simran",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/183/master.m3u8"
+    },
+    {
+        "id": "187",
+        "name": "DD Sahyadri",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/187/master.m3u8"
+    },
+    {
+        "id": "188",
+        "name": "Fakt Marathi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/188/master.m3u8"
+    },
+    {
+        "id": "189",
+        "name": "Shemaroo Marathibana",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/189/master.m3u8"
+    },
+    {
+        "id": "190",
+        "name": "TV9 Marathi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/190/master.m3u8"
+    },
+    {
+        "id": "192",
+        "name": "ABP Asmita",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/192/master.m3u8"
+    },
+    {
+        "id": "197",
+        "name": "DD Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/197/master.m3u8"
+    },
+    {
+        "id": "198",
+        "name": "R Plus Gold",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/198/master.m3u8"
+    },
+    {
+        "id": "200",
+        "name": "ABP Ananda",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/200/master.m3u8"
+    },
+    {
+        "id": "201",
+        "name": "TV9 Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/201/master.m3u8"
+    },
+    {
+        "id": "202",
+        "name": "Rongeen TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/202/master.m3u8"
+    },
+    {
+        "id": "203",
+        "name": "DD Arunprabha",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/203/master.m3u8"
+    },
+    {
+        "id": "213",
+        "name": "Studio One Plus",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/213/master.m3u8"
+    },
+    {
+        "id": "223",
+        "name": "Vendhar TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/223/master.m3u8"
+    },
+    {
+        "id": "228",
+        "name": "Vasanth TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/228/master.m3u8"
+    },
+    {
+        "id": "237",
+        "name": "Public First",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/237/master.m3u8"
+    },
+    {
+        "id": "239",
+        "name": "Public Movies",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/239/master.m3u8"
+    },
+    {
+        "id": "240",
+        "name": "Public Music",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/240/master.m3u8"
+    },
+    {
+        "id": "241",
+        "name": "Public TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/241/master.m3u8"
+    },
+    {
+        "id": "244",
+        "name": "Zee Bharat",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/244/master.m3u8"
+    },
+    {
+        "id": "245",
+        "name": "Mazhavil Manorama HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/245/master.m3u8"
+    },
+    {
+        "id": "247",
+        "name": "Kappa TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/247/master.m3u8"
+    },
+    {
+        "id": "248",
+        "name": "DD Kashir",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/248/master.m3u8"
+    },
+    {
+        "id": "256",
+        "name": "Anmol TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/256/master.m3u8"
+    },
+    {
+        "id": "257",
+        "name": "Anmol Cinema 2",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/257/master.m3u8"
+    },
+    {
+        "id": "258",
+        "name": "Shemaroo Umang",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/258/master.m3u8"
+    },
+    {
+        "id": "259",
+        "name": "Hare Krsna",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/259/master.m3u8"
+    },
+    {
+        "id": "263",
+        "name": "DD Uttar Pradesh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/263/master.m3u8"
+    },
+    {
+        "id": "270",
+        "name": "Zee Action",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/270/master.m3u8"
+    },
+    {
+        "id": "271",
+        "name": "Anmol Cinema",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/271/master.m3u8"
+    },
+    {
+        "id": "274",
+        "name": "Shemaroo TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/274/master.m3u8"
+    },
+    {
+        "id": "280",
+        "name": "DD Sports HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/280/master.m3u8"
+    },
+    {
+        "id": "294",
+        "name": "Zee News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/294/master.m3u8"
+    },
+    {
+        "id": "295",
+        "name": "Times Now Navbharat",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/295/master.m3u8"
+    },
+    {
+        "id": "296",
+        "name": "Republic Bharat",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/296/master.m3u8"
+    },
+    {
+        "id": "297",
+        "name": "Republic Bharat",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/297/master.m3u8"
+    },
+    {
+        "id": "298",
+        "name": "India News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/298/master.m3u8"
+    },
+    {
+        "id": "301",
+        "name": "Subhavaartha",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/301/master.m3u8"
+    },
+    {
+        "id": "302",
+        "name": "News State Uttar Pradesh/Uttarakhand",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/302/master.m3u8"
+    },
+    {
+        "id": "303",
+        "name": "News 24 Madhya Pradesh/Chhattisgarh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/303/master.m3u8"
+    },
+    {
+        "id": "304",
+        "name": "India News Uttar Pradesh/Uttarakhand",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/304/master.m3u8"
+    },
+    {
+        "id": "305",
+        "name": "News State Madhya Pradesh/Chhattisgarh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/305/master.m3u8"
+    },
+    {
+        "id": "306",
+        "name": "Raftaar Media",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/306/master.m3u8"
+    },
+    {
+        "id": "307",
+        "name": "News 11 Bharat",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/307/master.m3u8"
+    },
+    {
+        "id": "308",
+        "name": "Khabrain Abhi Tak",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/308/master.m3u8"
+    },
+    {
+        "id": "309",
+        "name": "IBC 24",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/309/master.m3u8"
+    },
+    {
+        "id": "310",
+        "name": "TV 100",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/310/master.m3u8"
+    },
+    {
+        "id": "316",
+        "name": "News Daily 24",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/316/master.m3u8"
+    },
+    {
+        "id": "318",
+        "name": "Al Jazeera English",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/318/master.m3u8"
+    },
+    {
+        "id": "331",
+        "name": "Lotus Macau",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/331/master.m3u8"
+    },
+    {
+        "id": "332",
+        "name": "FTV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/332/master.m3u8"
+    },
+    {
+        "id": "335",
+        "name": "DD Bharati",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/335/master.m3u8"
+    },
+    {
+        "id": "336",
+        "name": "Prag News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/336/master.m3u8"
+    },
+    {
+        "id": "338",
+        "name": "Aastha",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/338/master.m3u8"
+    },
+    {
+        "id": "339",
+        "name": "Aastha Bhajan",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/339/master.m3u8"
+    },
+    {
+        "id": "340",
+        "name": "Sadhna Gold",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/340/master.m3u8"
+    },
+    {
+        "id": "341",
+        "name": "Satsang",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/341/master.m3u8"
+    },
+    {
+        "id": "342",
+        "name": "Santvani",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/342/master.m3u8"
+    },
+    {
+        "id": "343",
+        "name": "Aadinath TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/343/master.m3u8"
+    },
+    {
+        "id": "344",
+        "name": "Shraddha MH One",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/344/master.m3u8"
+    },
+    {
+        "id": "345",
+        "name": "Manoranjan Prime",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/345/master.m3u8"
+    },
+    {
+        "id": "345",
+        "name": "Manoranjan Prime",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/345/master.m3u8"
+    },
+    {
+        "id": "347",
+        "name": "Zee Biskope",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/347/master.m3u8"
+    },
+    {
+        "id": "348",
+        "name": "Oscar Movies Bhojpuri",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/348/master.m3u8"
+    },
+    {
+        "id": "349",
+        "name": "Sangeet Bhojpuri",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/349/master.m3u8"
+    },
+    {
+        "id": "351",
+        "name": "MH One Dil Se",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/351/master.m3u8"
+    },
+    {
+        "id": "352",
+        "name": "Pitaara",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/352/master.m3u8"
+    },
+    {
+        "id": "353",
+        "name": "MH One",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/353/master.m3u8"
+    },
+    {
+        "id": "354",
+        "name": "Balle Balle",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/354/master.m3u8"
+    },
+    {
+        "id": "365",
+        "name": "9X Jhakaas",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/365/master.m3u8"
+    },
+    {
+        "id": "367",
+        "name": "DD Goa",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/367/master.m3u8"
+    },
+    {
+        "id": "368",
+        "name": "DD Girnar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/368/master.m3u8"
+    },
+    {
+        "id": "372",
+        "name": "Aastha Gujarati",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/372/master.m3u8"
+    },
+    {
+        "id": "375",
+        "name": "Khushboo Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/375/master.m3u8"
+    },
+    {
+        "id": "378",
+        "name": "Dhoom Music Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/378/master.m3u8"
+    },
+    {
+        "id": "379",
+        "name": "Sangeet Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/379/master.m3u8"
+    },
+    {
+        "id": "380",
+        "name": "Nepal 1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/380/master.m3u8"
+    },
+    {
+        "id": "381",
+        "name": "DD Mizoram",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/381/master.m3u8"
+    },
+    {
+        "id": "382",
+        "name": "Divyavani TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/382/master.m3u8"
+    },
+    {
+        "id": "384",
+        "name": "DD Odia",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/384/master.m3u8"
+    },
+    {
+        "id": "386",
+        "name": "Kalinga TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/386/master.m3u8"
+    },
+    {
+        "id": "410",
+        "name": "Safari",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/410/master.m3u8"
+    },
+    {
+        "id": "416",
+        "name": "TRT World",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/416/master.m3u8"
+    },
+    {
+        "id": "417",
+        "name": "NHK World Japan",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/417/master.m3u8"
+    },
+    {
+        "id": "418",
+        "name": "ABP Majha",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/418/master.m3u8"
+    },
+    {
+        "id": "427",
+        "name": "Gulistan News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/427/master.m3u8"
+    },
+    {
+        "id": "449",
+        "name": "Asian News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/449/master.m3u8"
+    },
+    {
+        "id": "453",
+        "name": "News India 24x7",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/453/master.m3u8"
+    },
+    {
+        "id": "467",
+        "name": "Epic Bhojpuri",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/467/master.m3u8"
+    },
+    {
+        "id": "469",
+        "name": "Epic Music",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/469/master.m3u8"
+    },
+    {
+        "id": "471",
+        "name": "Epic Bharat",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/471/master.m3u8"
+    },
+    {
+        "id": "573",
+        "name": "DD Jharkhand",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/573/master.m3u8"
+    },
+    {
+        "id": "575",
+        "name": "DD Himachal",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/575/master.m3u8"
+    },
+    {
+        "id": "576",
+        "name": "DD Uttarakhand",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/576/master.m3u8"
+    },
+    {
+        "id": "577",
+        "name": "DD Chhattisgarh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/577/master.m3u8"
+    },
+    {
+        "id": "578",
+        "name": "DD Madhya Pradesh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/578/master.m3u8"
+    },
+    {
+        "id": "580",
+        "name": "DD Haryana",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/580/master.m3u8"
+    },
+    {
+        "id": "583",
+        "name": "MoviePlex",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/583/master.m3u8"
+    },
+    {
+        "id": "584",
+        "name": "Goldmines Action",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/584/master.m3u8"
+    },
+    {
+        "id": "586",
+        "name": "India TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/586/master.m3u8"
+    },
+    {
+        "id": "588",
+        "name": "Swadesh News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/588/master.m3u8"
+    },
+    {
+        "id": "589",
+        "name": "Vertent Samachar Plus 24x7",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/589/master.m3u8"
+    },
+    {
+        "id": "590",
+        "name": "India News Haryana",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/590/master.m3u8"
+    },
+    {
+        "id": "591",
+        "name": "Taaza TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/591/master.m3u8"
+    },
+    {
+        "id": "592",
+        "name": "DNN",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/592/master.m3u8"
+    },
+    {
+        "id": "593",
+        "name": "APN",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/593/master.m3u8"
+    },
+    {
+        "id": "594",
+        "name": "ABP Ganga",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/594/master.m3u8"
+    },
+    {
+        "id": "595",
+        "name": "ABP News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/595/master.m3u8"
+    },
+    {
+        "id": "596",
+        "name": "1st India News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/596/master.m3u8"
+    },
+    {
+        "id": "597",
+        "name": "Kashish News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/597/master.m3u8"
+    },
+    {
+        "id": "598",
+        "name": "Munsif TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/598/master.m3u8"
+    },
+    {
+        "id": "600",
+        "name": "India News MP/CG",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/600/master.m3u8"
+    },
+    {
+        "id": "601",
+        "name": "India News Rajasthan",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/601/master.m3u8"
+    },
+    {
+        "id": "603",
+        "name": "News X",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/603/master.m3u8"
+    },
+    {
+        "id": "607",
+        "name": "STV Haryana News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/607/master.m3u8"
+    },
+    {
+        "id": "610",
+        "name": "News X World",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/610/master.m3u8"
+    },
+    {
+        "id": "611",
+        "name": "Network 10",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/611/master.m3u8"
+    },
+    {
+        "id": "617",
+        "name": "Hare Krsna",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/617/master.m3u8"
+    },
+    {
+        "id": "620",
+        "name": "Sadhna Gold",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/620/master.m3u8"
+    },
+    {
+        "id": "621",
+        "name": "SVBC 4",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/621/master.m3u8"
+    },
+    {
+        "id": "623",
+        "name": "Prarthana Bhawan TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/623/master.m3u8"
+    },
+    {
+        "id": "625",
+        "name": "Dharm Sandesh",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/625/master.m3u8"
+    },
+    {
+        "id": "626",
+        "name": "Shubh TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/626/master.m3u8"
+    },
+    {
+        "id": "627",
+        "name": "Shubhsandesh TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/627/master.m3u8"
+    },
+    {
+        "id": "628",
+        "name": "Vedic",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/628/master.m3u8"
+    },
+    {
+        "id": "630",
+        "name": "Sarv Dharam Sangam",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/630/master.m3u8"
+    },
+    {
+        "id": "631",
+        "name": "Subharti TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/631/master.m3u8"
+    },
+    {
+        "id": "633",
+        "name": "Awakening TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/633/master.m3u8"
+    },
+    {
+        "id": "634",
+        "name": "634",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/634/master.m3u8"
+    },
+    {
+        "id": "635",
+        "name": "Fateh TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/635/master.m3u8"
+    },
+    {
+        "id": "636",
+        "name": "Tehzeeb TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/636/master.m3u8"
+    },
+    {
+        "id": "637",
+        "name": "Mercy TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/637/master.m3u8"
+    },
+    {
+        "id": "638",
+        "name": "Mandir TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/638/master.m3u8"
+    },
+    {
+        "id": "639",
+        "name": "MH One Movies",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/639/master.m3u8"
+    },
+    {
+        "id": "640",
+        "name": "Maha Punjabi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/640/master.m3u8"
+    },
+    {
+        "id": "641",
+        "name": "ABP Sanjha",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/641/master.m3u8"
+    },
+    {
+        "id": "642",
+        "name": "India News Punjab",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/642/master.m3u8"
+    },
+    {
+        "id": "643",
+        "name": "MH One News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/643/master.m3u8"
+    },
+    {
+        "id": "645",
+        "name": "Chardikla Time TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/645/master.m3u8"
+    },
+    {
+        "id": "646",
+        "name": "Bhojpuri Cinema",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/646/master.m3u8"
+    },
+    {
+        "id": "647",
+        "name": "4tv News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/647/master.m3u8"
+    },
+    {
+        "id": "648",
+        "name": "Channel WIN",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/648/master.m3u8"
+    },
+    {
+        "id": "650",
+        "name": "Saam TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/650/master.m3u8"
+    },
+    {
+        "id": "652",
+        "name": "TV9 Gujarati",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/652/master.m3u8"
+    },
+    {
+        "id": "653",
+        "name": "India News Gujarat",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/653/master.m3u8"
+    },
+    {
+        "id": "655",
+        "name": "Gujarat First News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/655/master.m3u8"
+    },
+    {
+        "id": "656",
+        "name": "Mantavya News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/656/master.m3u8"
+    },
+    {
+        "id": "657",
+        "name": "Sandesh News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/657/master.m3u8"
+    },
+    {
+        "id": "658",
+        "name": "Enterr10 Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/658/master.m3u8"
+    },
+    {
+        "id": "661",
+        "name": "DD Tripura",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/661/master.m3u8"
+    },
+    {
+        "id": "662",
+        "name": "R Plus",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/662/master.m3u8"
+    },
+    {
+        "id": "663",
+        "name": "Republic Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/663/master.m3u8"
+    },
+    {
+        "id": "664",
+        "name": "Ruposhi Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/664/master.m3u8"
+    },
+    {
+        "id": "665",
+        "name": "News Time Bangla",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/665/master.m3u8"
+    },
+    {
+        "id": "667",
+        "name": "MBC TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/667/master.m3u8"
+    },
+    {
+        "id": "668",
+        "name": "Naxatra News Bihar/Jharkhand",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/668/master.m3u8"
+    },
+    {
+        "id": "669",
+        "name": "Kanak News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/669/master.m3u8"
+    },
+    {
+        "id": "670",
+        "name": "DD Nagaland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/670/master.m3u8"
+    },
+    {
+        "id": "671",
+        "name": "DD Manipur",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/671/master.m3u8"
+    },
+    {
+        "id": "672",
+        "name": "DD Assam",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/672/master.m3u8"
+    },
+    {
+        "id": "673",
+        "name": "Rang",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/673/master.m3u8"
+    },
+    {
+        "id": "674",
+        "name": "Northeast Live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/674/master.m3u8"
+    },
+    {
+        "id": "675",
+        "name": "Assam Talks",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/675/master.m3u8"
+    },
+    {
+        "id": "676",
+        "name": "Jonack",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/676/master.m3u8"
+    },
+    {
+        "id": "678",
+        "name": "DD Yadagiri",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/678/master.m3u8"
+    },
+    {
+        "id": "679",
+        "name": "DD Tamil",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/679/master.m3u8"
+    },
+    {
+        "id": "680",
+        "name": "DD Malayalam",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/680/master.m3u8"
+    },
+    {
+        "id": "681",
+        "name": "NE News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/681/master.m3u8"
+    },
+    {
+        "id": "682",
+        "name": "Pratidin Time",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/682/master.m3u8"
+    },
+    {
+        "id": "683",
+        "name": "Makkal TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/683/master.m3u8"
+    },
+    {
+        "id": "684",
+        "name": "Mahaa Max",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/684/master.m3u8"
+    },
+    {
+        "id": "686",
+        "name": "10 TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/686/master.m3u8"
+    },
+    {
+        "id": "687",
+        "name": "ABN Andhra Jyothi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/687/master.m3u8"
+    },
+    {
+        "id": "688",
+        "name": "Unique TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/688/master.m3u8"
+    },
+    {
+        "id": "689",
+        "name": "Mahaa News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/689/master.m3u8"
+    },
+    {
+        "id": "690",
+        "name": "Malai Murasu TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/690/master.m3u8"
+    },
+    {
+        "id": "691",
+        "name": "News 1st Kannada",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/691/master.m3u8"
+    },
+    {
+        "id": "692",
+        "name": "Asianet Suvarna News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/692/master.m3u8"
+    },
+    {
+        "id": "693",
+        "name": "T News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/693/master.m3u8"
+    },
+    {
+        "id": "694",
+        "name": "V6 News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/694/master.m3u8"
+    },
+    {
+        "id": "695",
+        "name": "Pear TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/695/master.m3u8"
+    },
+    {
+        "id": "697",
+        "name": "Asianet Middle East",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/697/master.m3u8"
+    },
+    {
+        "id": "698",
+        "name": "Amrita TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/698/master.m3u8"
+    },
+    {
+        "id": "699",
+        "name": "Asianet News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/699/master.m3u8"
+    },
+    {
+        "id": "700",
+        "name": "Jaihind",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/700/master.m3u8"
+    },
+    {
+        "id": "701",
+        "name": "CVR English",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/701/master.m3u8"
+    },
+    {
+        "id": "702",
+        "name": "Aastha Telugu",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/702/master.m3u8"
+    },
+    {
+        "id": "704",
+        "name": "Goodness TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/704/master.m3u8"
+    },
+    {
+        "id": "705",
+        "name": "CVR OM Spiritual",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/705/master.m3u8"
+    },
+    {
+        "id": "706",
+        "name": "Nireekshana TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/706/master.m3u8"
+    },
+    {
+        "id": "707",
+        "name": "Mahaa Bhakthi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/707/master.m3u8"
+    },
+    {
+        "id": "708",
+        "name": "Pasand TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/708/master.m3u8"
+    },
+    {
+        "id": "709",
+        "name": "Rengoni",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/709/master.m3u8"
+    },
+    {
+        "id": "710",
+        "name": "Hornbill TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/710/master.m3u8"
+    },
+    {
+        "id": "711",
+        "name": "Madhimugam TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/711/master.m3u8"
+    },
+    {
+        "id": "712",
+        "name": "Sangeet Marathi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/712/master.m3u8"
+    },
+    {
+        "id": "713",
+        "name": "Hi Dost",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/713/master.m3u8"
+    },
+    {
+        "id": "718",
+        "name": "Sansad TV 1 HD",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/718/master.m3u8"
+    },
+    {
+        "id": "732",
+        "name": "News State Bihar Jharkhand",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/732/master.m3u8"
+    },
+    {
+        "id": "734",
+        "name": "Vistaar News",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/734/master.m3u8"
+    },
+    {
+        "id": "736",
+        "name": "Bharat Express",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/736/master.m3u8"
+    },
+    {
+        "id": "740",
+        "name": "Khabar Fast",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/740/master.m3u8"
+    },
+    {
+        "id": "770",
+        "name": "Anand TV",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/770/master.m3u8"
+    },
+    {
+        "id": "771",
+        "name": "7S Music",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/771/master.m3u8"
+    },
+    {
+        "id": "772",
+        "name": "GTC Punjabi",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "link": "http://103.175.73.12:8080/live/772/master.m3u8"
+    }
+]
