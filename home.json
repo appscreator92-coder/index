@@ -35,6 +35,12 @@
 
 {"name":"AKASH GO","url":"go:akash","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4aD0ftdWFb2UAyyr-YNRs6RGK_rDBKsS1xXrcyxe3A&s=10"},
 
+{"name":"MAX OTT","url":"go:maxott","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/max.jpg"},
+
+{"name":"NEO TV","url":"go:neotv","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/neo.jpg"},
+
+{"name":"SMART TV","url":"go:smarttv","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/smarttv.jpg"},
+
 {"name":"WAVES OTT","url":"go:waves","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/wavesott.jpg"},
 
 {"name":"DD FREE DTH","url":"go:dd","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/DD%20Free%20Dish%20DTH.png"},
