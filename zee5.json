@@ -4,7 +4,7 @@
         "key": "7a214a974e4f4d1d9bb66364d5f0cb92",
         "name": "& Picture",
         "id": "AndPicture",
-        "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=AndPicture",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=AndPicture",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd"
     },
@@ -13,6 +13,7 @@
         "key": "6807bd09bda34ada83152908192af6d6",
         "name": "&pictures HD",
         "id": "AndPicturehd",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=AndPicturehd",
         "category": "Movies",
         "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd"
@@ -23,6 +24,7 @@
         "key": "99a66471c09e4b8a8dc39a0de6803f75",
         "name": "&TV HD",
         "id": "AndTvhd",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=AndTvhd",
         "category": "Entertainment",
         "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd"
@@ -33,6 +35,7 @@
         "key": "5f3a23f1a73c4c96ababce5fffe7b06b",
         "name": "& TV",
         "id": "AndTv",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=& TV",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd"
     },
@@ -48,6 +51,7 @@
         "key": "0908be844260409cbac180bf0181da40",
         "name": "DISCOVERY CHANNEL",
         "id": "DiscoveryChannel",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=DiscoveryChannel",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd"
     },
@@ -56,6 +60,7 @@
         "key": "609e0cc03198455fa36fd2cc3e7f940d",
         "name": "DISCOVERY KIDS",
         "id": "DiscoveryKids",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=DiscoveryKids",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd"
     },
