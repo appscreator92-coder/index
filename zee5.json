@@ -69,6 +69,7 @@
         "key": "dbf8a0a306a64525ba3012fd225370c0",
         "name": "DISCOVERY SCIENCE",
         "id": "DiscoveryScience",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=DiscoveryScience",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd"
     },
@@ -77,6 +78,7 @@
         "key": "6700a5d93203417b8585f7de7dd1a09b",
         "name": "DISCOVERY TURBO",
         "id": "DiscoveryTurbo",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=DiscoveryTurbo",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd"
     },
@@ -85,6 +87,7 @@
         "key": "0cdfcfe0d0f1fbe100554ce3ef4c4665",
         "name": "&Flix SD",
         "id": "18",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=18",
         "category": "Movies",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU",
         "url": "https://edge4-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd"
@@ -94,6 +97,7 @@
         "key": "5d3b7195086544c2807aa8c1544e7379",
         "name": "INVESTIGATION DISCOVERY HD",
         "id": "InvestigationDiscoveryHD",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=InvestigationDiscoveryHD",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd"
     },
@@ -102,6 +106,7 @@
         "key": "99ebb8683ea74b70a9fda1cbdc2cc1b4",
         "name": "KOREAN DRAMAS",
         "id": "KoreanDramas",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=KoreanDramas",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd"
     },
@@ -110,6 +115,7 @@
         "key": "cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
         "name": "KOREAN DRAMAS",
         "id": "KoreanDramas2",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=KoreanDramas2",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png",
         "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
     },
@@ -118,6 +124,7 @@
         "key": "ef3dd80894774430a33ecbc9108e91d7",
         "name": "MTVBEATS",
         "id": "MTVBeats",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=MTVBeats",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd"
     },
@@ -126,6 +133,7 @@
         "key": "b91bb882f9624872ada6125006fe5c73",
         "name": "NDTV INDIA",
         "id": "NDTVIndia",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=NDTVIndia",
         "logo": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd"
     },
@@ -134,6 +142,7 @@
         "key": "78a6a0fc1758483595da7113e58e4467",
         "name": "SHORTSTV",
         "id": "Shortstv",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=Shortstv",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd"
     },
@@ -142,14 +151,16 @@
         "key": "513ce07a2ee24ffdbe667eff5a9d46a8",
         "name": "TLC",
         "id": "TLC",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=TLC",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd"
     },
     {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"k\":\"PD6NAln3SPGDD3E6dpdg5w\",\"kid\":\"nXoZF+4yRNGYGTzdH/H+rg\"}],\"type\":\"temporary\"}",
+        "keyId": "nXoZF+4yRNGYGTzdH/H+rg",
+        "key": "PD6NAln3SPGDD3E6dpdg5w",
         "name": "Zee Action",
         "id": "13",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=13",
         "category": "Movies",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd"
@@ -159,6 +170,7 @@
         "key": "1c3e9fce5f014542be9cd1f749181204",
         "name": "Zee Anmol",
         "id": "3",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=3",
         "category": "Entertainment",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd"
@@ -168,6 +180,7 @@
         "key": "468a0b8d3d5d42d8a5c41bb875390a74",
         "name": "Zee Anmol Cinema",
         "id": "11",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=11",
         "category": "Movies",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd"
@@ -180,6 +193,7 @@
         "key": "1e96d0f88ef740e982d6f6105721c8bc",
         "name": "Zee Bangla Cinema",
         "id": "ZeeBanglaCinema",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=ZeeBanglaCinema",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd"
     },
@@ -189,6 +203,7 @@
         "key": "fc32f26239054b56aab48225305598fe",
         "name": "Zee Bangla HD",
         "id": "ZeeBanglaHD",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=ZeeBanglaHD",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd"
     },
@@ -198,6 +213,7 @@
         "key": "c04950f25d8e4107a96e828e7911e53b",
         "name": "ZEE BIHJH",
         "id": "ZeeBiharJharkhand",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=ZeeBiharJharkhand",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd"
     },
@@ -207,6 +223,7 @@
         "key": "72ddbf37f76f49acbb8e140e7279e7a1",
         "name": "ZEE BOLLYWOOD",
         "id": "ZeeBollywood",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=ZeeBollywood",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd"
     },
@@ -216,6 +233,7 @@
         "key": "51959fcbc8fe4091b570ba254bf749ae",
         "name": "ZEE BUSINESS",
         "id": "ZeeBusiness",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=ZeeBusiness",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd"
     },
@@ -224,14 +242,16 @@
         "key": "b0b2678bcd274c37b888a6c987d502ed",
         "name": "ZEE CINEMA",
         "id": "ZeeCinema",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=ZeeCinema",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd"
     },
     {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"k\":\"XUCpAyOPStmKu-0Yd9Tj0Q\",\"kid\":\"9WvqrJ8SRhaHLHQcnOT6Tg\"}],\"type\":\"temporary\"}",
+        "keyId": "9WvqrJ8SRhaHLHQcnOT6Tg",
+        "key": "XUCpAyOPStmKu-0Yd9Tj0Q",
         "name": "Zee Cinema HD",
         "id": "9",
+        "idx1": "https://hdlive1.unaux.com/livetv/tv/zee5/zee5.php?id=9",
         "category": "Movies",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd"
