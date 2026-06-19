@@ -12,6 +12,18 @@
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
   {
+    "name": "CANAL SPORTS",
+    "id": "12",
+    "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=12",
+    "category": "French",
+    "url": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+    "keyId": "2a8c2d5088377f51f825d871e568be19",
+    "key": "eb5a8db64ca1992389672edb9447c711",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "idx": "https://hdlive1.unaux.com/livetv/jplayer.php?url=https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd?name=ColorsHD&keyId=2a8c2d5088377f51f825d871e568be19&key=eb5a8db64ca1992389672edb9447c711",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+  {
     "name": "Caze TV",
     "id": "2",
     "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=2",
