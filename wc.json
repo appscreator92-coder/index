@@ -73,18 +73,7 @@
     "idx": "https://hdlive1.unaux.com/livetv/jplayer.php?url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?name=ColorsHD&keyId=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
-   {
-    "name": "DSPORTS HD",
-    "id": "15",
-    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
-    "category": "Spanish",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
-    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
-    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
-    "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
+
  {
     "name": "DSPORTS HD",
     "id": "4",
