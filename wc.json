@@ -24,6 +24,18 @@
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
   {
+    "name": "M6 Direct 50",
+    "id": "13",
+    "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=13",
+    "category": "French",
+    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+    "keyId": "433ffba670963e70857859a9dff4be04",
+    "key": "51ede3a821229fe81e71282c8eff80e3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUyzhzEPx7_-8UWNnOG0H36r7T49Lnm0eCXxPSpPJZA&s",
+    "idx": "https://hdlive1.unaux.com/livetv/jplayer.php?url=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?name=ColorsHD&keyId=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+  {
     "name": "Caze TV",
     "id": "2",
     "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=2",
