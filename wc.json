@@ -1,16 +1,5 @@
 [
-   {
-    "name": "TYC Sports",
-    "id": "15",
-    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
-    "category": "Spanish",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
-    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
-    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
-    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
+  
   {
     "name": "TELEMUNDO HD",
     "id": "11",
@@ -47,42 +36,7 @@
     "idx": "https://hdlive1.unaux.com/livetv/jplayer.php?url=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?name=ColorsHD&keyId=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
-   {
-    "name": "Dazn",
-    "id": "16",
-    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
-    "category": "Spanish",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
-    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
-    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
-    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
-   {
-    "name": "Tudn Sports",
-    "id": "17",
-    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
-    "category": "Spanish",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
-    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
-    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
-    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
-   {
-    "name": "Tv Azteca",
-    "id": "18",
-    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
-    "category": "Spanish",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
-    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
-    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
-    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
+   
   {
     "name": "CAZE TV",
     "id": "14",
