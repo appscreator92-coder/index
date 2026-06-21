@@ -75,7 +75,7 @@
   },
 
  {
-    "name": "DSPORTS HD",
+    "name": "FOX",
     "id": "4",
     "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=4",
     "category": "English",
@@ -87,15 +87,15 @@
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
   {
-    "name": "CIGNAL TV",
+    "name": "FOOTBOLL RUSSIA",
     "id": "5",
     "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=5",
-    "category": "English",
-    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-    "keyId": "549ab7cd35a64bb6bb479ecead04d69d",
-    "key": "829799ed534d11fcadeb4b192467e050",
+    "category": "Russian",
+    "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+    "keyId": "9145a6e0f778e61866f573d4944dd533",
+    "key": "d02173d40515fea5c83944f21d0f3114",
     "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "idx": "https://hdlive1.unaux.com/livetv/jplayer.php?url=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?name=ColorsHD&keyId=549ab7cd35a64bb6bb479ecead04d69d&key=829799ed534d11fcadeb4b192467e050",
+    "idx": "https://hdlive1.unaux.com/livetv/jplayer.php?url=https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd?name=ColorsHD&keyId=9145a6e0f778e61866f573d4944dd533&key=d02173d40515fea5c83944f21d0f3114",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
   {
