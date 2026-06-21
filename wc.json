@@ -12,6 +12,66 @@
     "url": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
+    {
+    "name": "Bein Sports 1",
+    "id": "16",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
+    "category": "Arabic",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
+    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
+    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+  {
+    "name": "WIN Sports",
+    "id": "17",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
+    "category": "Spanish",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
+    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
+    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+  {
+    "name": "DAZN 1",
+    "id": "18",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
+    "category": "Spanish",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
+    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
+    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+  {
+    "name": "Telemundo",
+    "id": "19",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
+    "category": "Spanish",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
+    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
+    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+  {
+    "name": "D Sports",
+    "id": "20",
+    "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
+    "category": "Spanish",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
+    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
+    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
   {
     "name": "SporTV BR - AQ",
     "id": "15",
@@ -135,15 +195,15 @@
     "idx0": "https://joplay.lrl45.workers.dev/1322"
   },
   {
-    "name": "T-Sports 1",
+    "name": "Somoy",
     "id": "1",
     "idx": "https://hdlive1.unaux.com/livetv/jionew/jnewplayer1.php?id=1319",
-    "category": "English",
+    "category": "Bengali",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
     "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
     "key": "90fda7a92a6da6706a5c17e5f9ae903e",
-    "logo": "https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png",
-    "url": "http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   }
   
