@@ -1,5 +1,17 @@
 [
-  
+   {
+    "name": "CT SPORTS - AQ",
+    "id": "31",
+    "idx1": "https://hdlive1.unaux.com/livetv/tv/ipl/playerwc.php?id=31",
+    "category": "Polski",
+    "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+    "keyId": "11223344556677889900112233445566",
+    "key": "4b80724d0ef86bcb2c21f7999d67739d",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "idx": "https://hdlive1.unaux.com/livetv/jplayer.php?url=https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd?name=ColorsHD&keyId=ce7ab3022e753307997f58afe001bac4&key=72d631a66e635c60829a0fe7705516c1",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+
   {
     "name": "MATCH TV",
     "id": "11",
