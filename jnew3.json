@@ -526,9 +526,9 @@
         "name": "Zee Anmol Cinema",
         "id": "415",
         "category": "Movies",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_MOB/WDVLive/index.mpd",
-        "keyId": "d5f46c3bb170561ab93db79c032825b5",
-        "key": "a834101c520ab2af65add91e5e9a2b61",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd",
+        "keyId": "8ab0674eba3f5adf96a9b65a6e82d208",
+        "key": "476f813d8651987fc1b4074693676fd8",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png"
     },
     {
