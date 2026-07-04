@@ -4375,6 +4375,15 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png"
     },
     {
+        "name": "Sony Ten 2",
+        "id": "523",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd",
+        "keyId": "671ce7c8ccc95e0a95cba0d12831d12e",
+        "key": "175d284c9647b6feb379e7c1650a4f82",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png"
+    },
+    {
         "name": "PTC Punjabi",
         "id": "1171",
         "category": "Punjabi",
