@@ -1,28 +1,6 @@
 [
-   {
-    "name": "Unite8 Sports 1 HD",
-    "id": "121",
-    "idx": "https://hdlive2.liveblog365.com//livetv/jionew/jnewplayer1.php?id=121",
-    "category": "ENGLISH",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
-    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
-    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
-    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "url": "https://m3u8cors.vercel.app/cors?url=https://yowaimo.in/SF-SS/741567.m3u8",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
-  {
-    "name": "Caze TV",
-    "id": "2",
-    "idx1": "https://hdlive2.liveblog365.com//livetv/tv/ipl/playerwc.php?id=2",
-    "category": "Brazilian Portuguese",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-    "keyId": "34475edab991ad5e92548aebd710410a",
-    "key": "501b209cccd323ac00bf5ac15b406cb4",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
-    "idx": "https://hdlive2.liveblog365.com//livetv/jplayer.php?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?name=ColorsHD&keyId=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
+
+
    
     {
     "name": "FOX",
@@ -110,7 +88,18 @@
     "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
-
+    {
+    "name": "Caze TV",
+    "id": "2",
+    "idx1": "https://hdlive2.liveblog365.com//livetv/tv/ipl/playerwc.php?id=2",
+    "category": "Brazilian Portuguese",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+    "keyId": "34475edab991ad5e92548aebd710410a",
+    "key": "501b209cccd323ac00bf5ac15b406cb4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7z6T8htunrCuW1A2l6SnYALiS-nVsSMiVlx8Z1pr4L-wNGRe-VlgYblk&s=10",
+    "idx": "https://hdlive2.liveblog365.com//livetv/jplayer.php?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?name=ColorsHD&keyId=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
   {
     "name": "ITV SPORTS",
     "id": "13",
@@ -121,6 +110,18 @@
     "key": "51ede3a821229fe81e71282c8eff80e3",
     "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
     "idx": "https://hdlive2.liveblog365.com//livetv/jplayer.php?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd?name=ColorsHD&keyId=30089c52924f037b225b82c616fee2a5&key=f55dc8b66ed4fc6753d6035ae7e17144",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
+      {
+    "name": "Unite8 Sports 1 HD",
+    "id": "121",
+    "idx": "https://hdlive2.liveblog365.com//livetv/jionew/jnewplayer1.php?id=121",
+    "category": "ENGLISH",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
+    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
+    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "https://m3u8cors.vercel.app/cors?url=https://yowaimo.in/SF-SS/741567.m3u8",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
  {
