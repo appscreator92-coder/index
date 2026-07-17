@@ -1,4 +1,11 @@
 [
+     {
+        "name": "BigTV",
+        "id": 99,
+        "logo": "https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png",
+        "category": "News",
+        "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8"
+    },
     {
         "name": "News Nation",
         "id": 108,
