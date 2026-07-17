@@ -247,10 +247,10 @@
         "language": "Malayalam",
         "status": "active",
         "group": "SunNxt",
-        "link": "https://tv1.wapgotube.workers.dev/proxy/https://tv1.wapgotube.workers.dev/proxy/https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd",
+        "link": "https://tv1.wapgotube.workers.dev/proxy/https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd",
         "kid": "eae838ccd75d4a1fbff6fd7dd1c97780",
         "key": "8259ce0c112725a4d2c94d154207425f",
-        "idx": "https://hdlive2.liveblog365.com/livetv/sun/sunplayer.php?mpd=https://tv1.wapgotube.workers.dev/proxy/https://tv1.wapgotube.workers.dev/proxy/https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd&keyId=eae838ccd75d4a1fbff6fd7dd1c97780&key=8259ce0c112725a4d2c94d154207425f"
+        "idx": "https://hdlive2.liveblog365.com/livetv/sun/sunplayer.php?mpd=https://tv1.wapgotube.workers.dev/proxy/https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd&keyId=eae838ccd75d4a1fbff6fd7dd1c97780&key=8259ce0c112725a4d2c94d154207425f"
     },
     {
         "name": " Surya Movies",
