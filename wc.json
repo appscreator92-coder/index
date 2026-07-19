@@ -11,6 +11,18 @@
     "url": "http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
+     {
+    "name": "Somoy TV",
+    "id": "211",
+    "idx": "https://hdlive2.liveblog365.com//livetv/jionew/jnewplayer1.php?id=71",
+    "category": "Bengali",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
+    "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
+    "key": "90fda7a92a6da6706a5c17e5f9ae903e",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
+    "idx0": "https://joplay.lrl45.workers.dev/1319"
+  },
    
   {
     "name": "Mundial",
