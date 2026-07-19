@@ -2,13 +2,13 @@
       {
     "name": "FiFa World Cup Final 2026",
     "id": "250",
-    "idx": "https://hdlive2.liveblog365.com//livetv/jionew/jnewplayer1.php?id=1319",
+    "idx1": "https://hdlive2.liveblog365.com//livetv/jionew/jnewplayer1.php?id=1319",
     "category": "Brazilian Portuguese",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
     "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
     "key": "90fda7a92a6da6706a5c17e5f9ae903e",
     "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "url": "https://live05.miekgo.app/live/78905744.m3u8",
+    "idx": "https://hdlive2.liveblog365.com/livetv/tv/samsung/player.php?url=https://live05.miekgo.app/live/78905744.m3u8",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
       {
@@ -26,13 +26,13 @@
       {
     "name": "FiFa World Cup Final 2026",
     "id": "251",
-    "idx": "https://hdlive2.liveblog365.com//livetv/jionew/jnewplayer1.php?id=1319",
+    "idx1": "https://hdlive2.liveblog365.com//livetv/jionew/jnewplayer1.php?id=1319",
     "category": "Brazilian Portuguese",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd",
     "keyId": "0929b624a3625eeb9ca39bf58b19bd2b",
     "key": "90fda7a92a6da6706a5c17e5f9ae903e",
     "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "url": "https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=3843feb764c2a2b81a5169383f8e26d4&wsABSTime=1784182501&wsSession=da91794d1c82a6518aab13e0-178413930348783&wsIPSercert=b7031d922ec6c56c5993cc6d76628bf5&wsBindIP=2&wsserid=1168262300818150876",
+    "idx": "https://hdlive2.liveblog365.com/livetv/tv/samsung/player.php?url=https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=3843feb764c2a2b81a5169383f8e26d4&wsABSTime=1784182501&wsSession=da91794d1c82a6518aab13e0-178413930348783&wsIPSercert=b7031d922ec6c56c5993cc6d76628bf5&wsBindIP=2&wsserid=1168262300818150876",
     "idx0": "https://joplay.lrl45.workers.dev/1319"
   },
        {
