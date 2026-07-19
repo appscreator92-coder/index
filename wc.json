@@ -1,16 +1,5 @@
 [
-       {
-    "name": "FiFa World Cup Final 2026",
-    "id": "250",
-    "idx1": "https://hdlive2.liveblog365.com//livetv/tv/ipl/playerwc.php?id=4",
-    "category": "English",
-    "url1": "https://live05.miekgo.app/live/78905744.m3u8",
-    "keyId": "f6564ec2aee819046328a0e153be574d",
-    "key": "ff46a8a1031eb27ef22576a077c98ab7",
-    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
-    "idx": "https://hdlive2.liveblog365.com/livetv/tv/samsung/player.php?url=https://live05.miekgo.app/live/78905744.m3u8",
-    "idx0": "https://joplay.lrl45.workers.dev/1319"
-  },
+  
       {
     "name": "FiFa World Cup Final 2026",
     "id": "250",
