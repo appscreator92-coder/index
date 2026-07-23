@@ -4342,10 +4342,19 @@
         "name": "Asianet Movies",
         "id": "1153",
         "category": "Malayalam",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_MOB/WDVLive/index.mpd",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/WDVLive/index.mpd",
         "keyId": "ca83419dfa1b56f794032b271b8f2c84",
         "key": "d592520eea361507a63c94bff799dfb6",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies.png"
+    },
+     {
+        "name": "Asianet",
+        "id": "1118",
+        "category": "Malayalam",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd"",
+        "keyId": "6b68a5a175d45f0ba8ed12b3016ea4d8",
+        "key": "c7b8ce1a3a24e2f9b4d1249d04155c49",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png"
     },
     {
         "name": "Colors Infinity HD",
