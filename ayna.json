@@ -7,6 +7,20 @@
         "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8"
     },
     {
+        "name": "STAR SPORTS 2",
+        "id": "1111",
+        "category": "Sports",
+        "logo": "https://www.medianews4u.com/wp-content/uploads/2023/11/STAR-SPORTS-FLAGSHIP-SHOW-%E2%80%98CRICKET-LIVE-GARNERS-IMMENSE-POPULARTIY-AMONGST-VIEWERS-OF-ICC-MENS-CRICKET-WORLD-CUP-2023.jpg",
+        "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+    },
+    {
+        "name": "STAR SPORTS SELECT 2",
+        "id": "1112",
+        "category": "Sports",
+        "logo": "https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg",
+        "url": "https://tvsen5.aynaott.com/ssps2hd/index.m3u8"
+    },
+    {
         "name": "A sports",
         "id": "230",
         "category": "Sports",
