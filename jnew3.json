@@ -1,5 +1,14 @@
 
 [
+     {
+        "name": "Asianet",
+        "id": "1118",
+        "category": "Malayalam",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd",
+        "keyId": "a2iloXXUXwuo7RKzAW6k2A",
+        "key": "x7jOGjok4vm00SSdBBVcSQ",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png"
+    },
     {
         "name": "CNBC TV18 Prime",
         "id": "143",
