@@ -7,11 +7,11 @@
 
 [
 
-{"name":"SPORTS(WORLD CUP)","url":"go:worldcup","logo":"https://i.pinimg.com/originals/27/7d/dd/277ddd2f2e84fee837b7d5177796ff49.jpg"},
+{"name":"LIVE EVENTS","url":"go:worldcup","logo":"https://tse2.mm.bing.net/th/id/OIP.V2Fn2cg8ZUP68uA40II7DgHaHa?r=0&pid=Api&h=220&P=0"},
 
-{"name":"CRIC HD","url":"go:crichd","logo":"https://tse2.mm.bing.net/th/id/OIP.yT4DEzdjpphCd3VohSvEMgAAAA?pid=Api&h=220&P=0"},
+{"name":"HOTSTAR","url":"go:hotstar","logo":"https://tse1.mm.bing.net/th/id/OIP.CWr_DR17Qd0i5z7SjtQoowHaHa?r=0&pid=Api&h=220&P=0"},
 
-{"name":"BIG BOSS","url":"go:bb","logo":"https://www.keralatv.in/media/2025/10/Bigg-Boss-Logo.jpg"}, 
+{"name":"BIG BOSS","url":"go:bb","logo":"https://tse3.mm.bing.net/th/id/OIP.SHjTSBhxyYfFr0zUcwUoOwHaEK?r=0&pid=Api&h=220&P=0"}, 
 
 {"name":"ZEE5","url":"go:zee","logo":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg"}, 
 
