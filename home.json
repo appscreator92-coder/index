@@ -9,7 +9,7 @@
 
 {"name":"LIVE EVENTS","url":"go:worldcup","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/liveevents.jpg"},
 
-{"name":"MALAYALAM CHANNELS","url":"go:mal","logo":"https://tse1.mm.bing.net/th/id/OIP.CWr_DR17Qd0i5z7SjtQoowHaHa?r=0&pid=Api&h=220&P=0"},
+{"name":"MALAYALAM CHANNELS","url":"go:mal","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/mal.jpg"},
 
 {"name":"HOTSTAR","url":"go:hotstar","logo":"https://tse1.mm.bing.net/th/id/OIP.CWr_DR17Qd0i5z7SjtQoowHaHa?r=0&pid=Api&h=220&P=0"},
 
@@ -48,8 +48,6 @@
 {"name":"EK TV","url":"go:ektv","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/ektv.jpg"},
 
 {"name":"XUMO TV","url":"go:xumo","logo":"https://raw.githubusercontent.com/appscreator92-coder/logos/refs/heads/main/xumo.png"}, 
-
-{"name":"PLEX TV","url":"go:plex","logo":"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/0f/47/050f478e-e4e0-a302-b671-75eb5ea5f401/Placeholder.mill/1200x630wa.jpg"}, 
 
 {"name":"PLUTO TV","url":"go:pluto","logo":"https://tse4.mm.bing.net/th/id/OIP.ovb_6962T0VmPNdkjJG_EQHaHa?pid=Api&P=0&h=220"}, 
 
