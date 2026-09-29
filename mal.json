@@ -84,13 +84,6 @@
         "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8"
     },
     {
-        "id": 13,
-        "logo": "https://i.imgur.com/7qehib0.png",
-        "group": "Education",
-        "name": "DidikTV KPM (1080p) [Geo-blocked]",
-        "link": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324"
-    },
-    {
         "id": 14,
         "logo": "https://i.imgur.com/zsTxPV9.png",
         "group": "Kids",
@@ -273,13 +266,6 @@
         "link": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8"
     },
     {
-        "id": 40,
-        "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
-        "group": "Documentary",
-        "name": "National Geographic (India) (576p) [Geo-blocked]",
-        "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
-    },
-    {
         "id": 41,
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png",
         "group": "News",
@@ -418,34 +404,6 @@
         "group": "Kids",
         "name": "Sonic (576p)",
         "link": "http://103.185.24.134:3001/SONIC/index.m3u8"
-    },
-    {
-        "id": 61,
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 1 HD (1080p)",
-        "link": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
-    },
-    {
-        "id": 62,
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 5 (1080p)",
-        "link": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
-    },
-    {
-        "id": 63,
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "name": "Sony Sports Ten 5 HD (1080p)",
-        "link": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8"
-    },
-    {
-        "id": 64,
-        "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
-        "group": "Animation;Kids",
-        "name": "Sony Yay! (1080p)",
-        "link": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
         "id": 65,
