@@ -1,0 +1,478 @@
+[
+    {
+        "id": 1,
+        "logo": "https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",
+        "group": "News",
+        "name": "24 News (576p)",
+        "link": "https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8"
+    },
+    {
+        "id": 2,
+        "logo": "https://i.imgur.com/WdSjlPl.png",
+        "group": "Entertainment",
+        "name": "Amrita TV (720p)",
+        "link": "https://ddash74r36xqp.cloudfront.net/master.m3u8"
+    },
+    {
+        "id": 3,
+        "logo": "https://i.imgur.com/5VOPFzs.png",
+        "group": "General",
+        "name": "Anand TV (United Kingdom) (720p) [Not 24/7]",
+        "link": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8"
+    },
+    {
+        "id": 4,
+        "logo": "https://i.imgur.com/Wv7MOzg.png",
+        "group": "Entertainment",
+        "name": "Asianet HD (720p)",
+        "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunks.m3u8"
+    },
+    {
+        "id": 5,
+        "logo": "https://i.imgur.com/du9iZ0s.png",
+        "group": "Entertainment",
+        "name": "Asianet Middle East (576p)",
+        "link": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8"
+    },
+    {
+        "id": 6,
+        "logo": "https://i.imgur.com/cps67hs.png",
+        "group": "Movies",
+        "name": "Asianet Movies HD (720p)",
+        "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8"
+    },
+    {
+        "id": 7,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png",
+        "group": "News",
+        "name": "Asianet News (1080p)",
+        "link": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8"
+    },
+    {
+        "id": 8,
+        "logo": "https://i.postimg.cc/rpHrRxR5/big_tv_malayalam.png",
+        "group": "News",
+        "name": "Big TV 24x7 (1080p)",
+        "link": "https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8"
+    },
+    {
+        "id": 9,
+        "logo": "https://i.imgur.com/rpg0bQA.png",
+        "group": "Culture",
+        "name": "C Malayalam TV (1080p)",
+        "link": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    },
+    {
+        "id": 10,
+        "logo": "https://i.imgur.com/4ss0KfA.png",
+        "group": "General",
+        "name": "CCV (480p)",
+        "link": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8"
+    },
+    {
+        "id": 11,
+        "logo": "https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png?lock=720x540",
+        "group": "Entertainment",
+        "name": "Darshana TV (576p)",
+        "link": "https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8"
+    },
+    {
+        "id": 12,
+        "logo": "https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png",
+        "group": "Entertainment",
+        "name": "DD Malayalam (504p)",
+        "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8"
+    },
+    {
+        "id": 13,
+        "logo": "https://i.imgur.com/7qehib0.png",
+        "group": "Education",
+        "name": "DidikTV KPM (1080p) [Geo-blocked]",
+        "link": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324"
+    },
+    {
+        "id": 14,
+        "logo": "https://i.imgur.com/zsTxPV9.png",
+        "group": "Kids",
+        "name": "ETV Bal Bharat (576p)",
+        "link": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
+    },
+    {
+        "id": 15,
+        "logo": "https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png",
+        "group": "Culture",
+        "name": "Flowers TV USA",
+        "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8"
+    },
+    {
+        "id": 16,
+        "logo": "https://i.imgur.com/KnbwUyb.png",
+        "group": "Culture",
+        "name": "Garshom TV (360p) [Not 24/7]",
+        "link": "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    },
+    {
+        "id": 17,
+        "logo": "https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540",
+        "group": "Religious",
+        "name": "Goodness TV (576p)",
+        "link": "https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8"
+    },
+    {
+        "id": 18,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png",
+        "group": "Religious",
+        "name": "Harvest TV (1080p)",
+        "link": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8"
+    },
+    {
+        "id": 19,
+        "logo": "https://i.imgur.com/1DyPuIt.png",
+        "group": "Religious",
+        "name": "Harvest TV Keralam (720p)",
+        "link": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8"
+    },
+    {
+        "id": 20,
+        "logo": "https://i.imgur.com/NaiA73p.png",
+        "group": "Entertainment",
+        "name": "Jaihind TV (576p)",
+        "link": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8"
+    },
+    {
+        "id": 21,
+        "logo": "https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540",
+        "group": "News",
+        "name": "Janam TV (576p)",
+        "link": "https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8"
+    },
+    {
+        "id": 22,
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png",
+        "group": "General",
+        "name": "Jeevan TV (576p)",
+        "link": "https://cdn.pishow.tv/ott/live/1467/master.m3u8"
+    },
+    {
+        "id": 23,
+        "logo": "https://i.imgur.com/BBEfplL.png",
+        "group": "General",
+        "name": "Kairali Arabia (576p)",
+        "link": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8"
+    },
+    {
+        "id": 24,
+        "logo": "https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540",
+        "group": "News",
+        "name": "Kairali News (720p)",
+        "link": "https://cdn.pishow.tv/ott/live/1469/master.m3u8"
+    },
+    {
+        "id": 25,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png",
+        "group": "General",
+        "name": "Kairali TV (576p)",
+        "link": "https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8"
+    },
+    {
+        "id": 26,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png",
+        "group": "Movies",
+        "name": "Kairali We (576p)",
+        "link": "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8"
+    },
+    {
+        "id": 27,
+        "logo": "https://i.imgur.com/XWXFoJA.png",
+        "group": "Music",
+        "name": "Kalika TV (576p)",
+        "link": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+    },
+    {
+        "id": 28,
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png",
+        "group": "Lifestyle",
+        "name": "Kappa TV (576p)",
+        "link": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
+    },
+    {
+        "id": 29,
+        "logo": "https://i.imgur.com/bkp9dIm.png",
+        "group": "Entertainment",
+        "name": "KCL TV (720p)",
+        "link": "https://kcltv.livebox.co.in/kclhls/live.m3u8"
+    },
+    {
+        "id": 30,
+        "logo": "https://i.imgur.com/SWNjyyp.png",
+        "group": "Entertainment",
+        "name": "Kerala Vision (576p)",
+        "link": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8"
+    },
+    {
+        "id": 31,
+        "logo": "https://i.imgur.com/kj4OEsb.png",
+        "group": "Education",
+        "name": "Kite Victers (720p) [Not 24/7]",
+        "link": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
+    },
+    {
+        "id": 32,
+        "logo": "https://i.imgur.com/mUHixbi.png",
+        "group": "Entertainment",
+        "name": "Magnavision TV (720p)",
+        "link": "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8"
+    },
+    {
+        "id": 33,
+        "logo": "https://i.imgur.com/adjRrVx.png",
+        "group": "News",
+        "name": "Manorama News (1080p)",
+        "link": "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8"
+    },
+    {
+        "id": 34,
+        "logo": "https://i.imgur.com/diQftzP.png",
+        "group": "News",
+        "name": "Mathrubhumi News (576p)",
+        "link": "https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8"
+    },
+    {
+        "id": 35,
+        "logo": "https://i.imgur.com/fjgzW20.png",
+        "group": "Entertainment",
+        "name": "Mazhavil Manorama (576p)",
+        "link": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8"
+    },
+    {
+        "id": 36,
+        "logo": "https://i.imgur.com/fjgzW20.png",
+        "group": "Entertainment",
+        "name": "Mazhavil Manorama HD (1080p)",
+        "link": "https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8"
+    },
+    {
+        "id": 37,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png",
+        "group": "News",
+        "name": "Media One (720p)",
+        "link": "https://cdn.pishow.tv/ott/live/1481/master.m3u8"
+    },
+    {
+        "id": 38,
+        "logo": "https://i.imgur.com/ppxUDxB.png",
+        "group": "Entertainment",
+        "name": "meWATCH LIVE 1 (1080p)",
+        "link": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd"
+    },
+    {
+        "id": 39,
+        "logo": "https://i.imgur.com/3Nl8Tpu.png",
+        "group": "Religious",
+        "name": "MTA7 Asia (1080p)",
+        "link": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8"
+    },
+    {
+        "id": 40,
+        "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+        "group": "Documentary",
+        "name": "National Geographic (India) (576p) [Geo-blocked]",
+        "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+    },
+    {
+        "id": 41,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png",
+        "group": "News",
+        "name": "News18 Kerala (1080p)",
+        "link": "https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8"
+    },
+    {
+        "id": 42,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "name": "Nickelodeon (India) (576p)",
+        "link": "http://103.185.24.134:3001/NICK/index.m3u8"
+    },
+    {
+        "id": 43,
+        "logo": "https://i.imgur.com/jDWR3xI.png",
+        "group": "General",
+        "name": "NTV7",
+        "link": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
+    },
+    {
+        "id": 44,
+        "logo": "https://i.imgur.com/Yx0AnLW.png",
+        "group": "Religious",
+        "name": "Potta-Divine TV USA (480p)",
+        "link": "https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8"
+    },
+    {
+        "id": 45,
+        "logo": "https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540",
+        "group": "Religious",
+        "name": "Powervision TV (720p)",
+        "link": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8"
+    },
+    {
+        "id": 46,
+        "logo": "https://i.imgur.com/1dHarb7.png",
+        "group": "Undefined",
+        "name": "Pravasi Channel (1080p)",
+        "link": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    },
+    {
+        "id": 47,
+        "logo": "https://i.imgur.com/v5urG30.png",
+        "group": "Entertainment",
+        "name": "Pulari TV (576p)",
+        "link": "https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8"
+    },
+    {
+        "id": 48,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png",
+        "group": "Music",
+        "name": "Raj Musix Malayalam (576p)",
+        "link": "https://cdn.pishow.tv/ott/live/1073/master.m3u8"
+    },
+    {
+        "id": 49,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM/images/LOGO_HD/image.png",
+        "group": "News",
+        "name": "Raj News Malayalam (576p)",
+        "link": "https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8"
+    },
+    {
+        "id": 50,
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png",
+        "group": "News",
+        "name": "Real News Kerala (1080p) [Not 24/7]",
+        "link": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
+    },
+    {
+        "id": 51,
+        "logo": "https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540",
+        "group": "News",
+        "name": "Reporter TV (576p)",
+        "link": "https://segment.yuppcdn.net/050522/reporter/playlist.m3u8"
+    },
+    {
+        "id": 52,
+        "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+        "group": "Legislative",
+        "name": "RTM Parlimen Dewan Negara [Geo-blocked]",
+        "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8"
+    },
+    {
+        "id": 53,
+        "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+        "group": "Legislative",
+        "name": "RTM Parlimen Dewan Rakyat [Geo-blocked]",
+        "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
+    },
+    {
+        "id": 54,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
+        "group": "Documentary",
+        "name": "Safari TV (576p)",
+        "link": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8"
+    },
+    {
+        "id": 55,
+        "logo": "https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",
+        "group": "General",
+        "name": "SelangorTV (1080p)",
+        "link": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd"
+    },
+    {
+        "id": 56,
+        "logo": "https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540",
+        "group": "Religious",
+        "name": "Shalom (1080p)",
+        "link": "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8"
+    },
+    {
+        "id": 57,
+        "logo": "https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540",
+        "group": "Religious",
+        "name": "Shalom Global (1080p)",
+        "link": "https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8"
+    },
+    {
+        "id": 58,
+        "logo": "https://i.imgur.com/qUjsV79.png",
+        "group": "Religious",
+        "name": "Shalom America (720p) [Not 24/7]",
+        "link": "https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8"
+    },
+    {
+        "id": 59,
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png",
+        "group": "Undefined",
+        "name": "Shekinah TV (1080p)",
+        "link": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+    },
+    {
+        "id": 60,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
+        "group": "Kids",
+        "name": "Sonic (576p)",
+        "link": "http://103.185.24.134:3001/SONIC/index.m3u8"
+    },
+    {
+        "id": 61,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+        "group": "Sports",
+        "name": "Sony Sports Ten 1 HD (1080p)",
+        "link": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
+    },
+    {
+        "id": 62,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+        "group": "Sports",
+        "name": "Sony Sports Ten 5 (1080p)",
+        "link": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
+    },
+    {
+        "id": 63,
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+        "group": "Sports",
+        "name": "Sony Sports Ten 5 HD (1080p)",
+        "link": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8"
+    },
+    {
+        "id": 64,
+        "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
+        "group": "Animation;Kids",
+        "name": "Sony Yay! (1080p)",
+        "link": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
+    },
+    {
+        "id": 65,
+        "logo": "https://i.imgur.com/J3jB7Kr.png",
+        "group": "General",
+        "name": "Starnet (480p)",
+        "link": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8"
+    },
+    {
+        "id": 66,
+        "logo": "https://utvpkd.in/assets/img/logo.png",
+        "group": "General",
+        "name": "UTV Palakkad (1080p)",
+        "link": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8"
+    },
+    {
+        "id": 67,
+        "logo": "https://i.imgur.com/KbU36xI.png",
+        "group": "General",
+        "name": "VCV (720p) [Not 24/7]",
+        "link": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8"
+    },
+    {
+        "id": 68,
+        "logo": "https://i.imgur.com/YozqNL3.jpg",
+        "group": "General",
+        "name": "Vision (India) (576p)",
+        "link": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8"
+    }
+]
