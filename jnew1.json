@@ -26284,5 +26284,22 @@
         "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd",
         "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd",
         "idx1": "https://joplay.lrl45.workers.dev/3530"
+    },
+    {
+        "name": "Mr. Bean",
+        "id": 3535,
+        "idx": "https://hdlivetv.gt.tc/livetv/jionew/jnewplayer1.php?id=3535",
+        "logo": "https://img.media.jio.com/tvpimages/73/8/304150_1777299270523_l_medium.jpg",
+        "group": "Entertainment",
+        "language": "English",
+        "status": "active",
+        "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0",
+        "keyId": "413b886fccd92890f53f2996a600cd44",
+        "key": "98404ec4db5645e58babb88ac02380a3",
+        "url1": "https://jiotvpllive.cdn.jio.com/bpk-tv/MrBean/HLSPartner/index.m3u8",
+        "url2": "https://jiotvmblive.cdn.jio.com/bpk-tv/MrBean/HLSPartner/index.m3u8",
+        "url3": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/MrBean/HLSPartner/index.m3u8",
+        "url4": "https://jiotvioslive.cdn.jio.com/bpk-tv/MrBean/HLSPartner/index.m3u8",
+        "idx1": "https://joplay.lrl45.workers.dev/3535"
     }
 ]
