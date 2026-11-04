@@ -444,7 +444,14 @@
         "id": 71,
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_YjeTUhZ9cEZz0VPG9GXpFHruQ2ZMMuuoIe2ylzdo64t7uZcdHpfvKZK&s=10",
         "group": "Entertainment",
-        "name": "VibgyorTV",
+        "name": "Vibgyor TV",
         "link": "https://livestream.vibgyortv.com/hls/0/stream.m3u8"
+    },
+    {
+        "id": 72,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/09/ChatGPT-Image-Sep-15-2026-05_52_16-PM-1-200x300.png",
+        "group": "Entertainment",
+        "name": "Cranganore TV",
+        "link": "https://live.applelive.in/cranganorechannel/cranganorechannel/index.m3u8"
     }
 ]
