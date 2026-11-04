@@ -467,5 +467,19 @@
         "group": "Movies",
         "name": "Asianet Movies HD",
         "link": "https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8"
+    },
+    {
+        "id": 75,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/09/ChatGPT-Image-Sep-17-2026-10_08_23-PM-1-200x300.png",
+        "group": "Entertainment",
+        "name": "Wayanad Vision Plus",
+        "link": "https://online.wayanadvision.in/hls/streaming1.m3u8"
+    },
+    {
+        "id": 76,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/09/ChatGPT-Image-Sep-17-2026-10_07_14-PM-1-200x300.png",
+        "group": "Movies",
+        "name": "Wayanad Vision Movies",
+        "link": "https://online.wayanadvision.in/hls/wvmovies.m3u8"
     }
 ]
