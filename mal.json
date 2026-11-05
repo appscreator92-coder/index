@@ -481,5 +481,12 @@
         "group": "Movies",
         "name": "Wayanad Vision Movies",
         "link": "https://online.wayanadvision.in/hls/wvmovies.m3u8"
+    },
+    {
+        "id": 77,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/08/ChatGPT-Image-Aug-30-2026-12_08_36-AM-1.png",
+        "group": "Local",
+        "name": "Kerala GTPL",
+        "link": "http://keralagtpltv.stream.nellaiiptv.com/keralagtpltv/keralagtpltv/index.m3u8"
     }
 ]
