@@ -488,5 +488,12 @@
         "group": "Local",
         "name": "Kerala GTPL",
         "link": "http://keralagtpltv.stream.nellaiiptv.com/keralagtpltv/keralagtpltv/index.m3u8"
+    },
+    {
+        "id": 78,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/08/ChatGPT-Image-Jan-7-2026-07_51_31-AM-1-200x300.png",
+        "group": "Entertainment",
+        "name": "NTV UAE",
+        "link": "https://stream.logichost.in/NTV/live/playlist.m3u8"
     }
 ]
