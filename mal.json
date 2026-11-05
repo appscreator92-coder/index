@@ -495,5 +495,12 @@
         "group": "Entertainment",
         "name": "NTV UAE",
         "link": "https://stream.logichost.in/NTV/live/playlist.m3u8"
+    },
+    {
+        "id": 79,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2020/01/ChatGPT-Image-Apr-25-2026-06_06_13-PM-1-200x300.png",
+        "group": "News",
+        "name": "Kaumudy TV",
+        "link": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8"
     }
 ]
