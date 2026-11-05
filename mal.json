@@ -551,5 +551,82 @@
         "group": "Local",
         "name": "CCNET",
         "link": "https://live.skystream.in/live/ccnet7082/index.m3u8"
+    },
+    {
+        "id": 87,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-May-8-2026-03_54_49-PM-1-200x300.png",
+        "group": "Local",
+        "name": "VTV Entertainment",
+        "link": "https://live-stream.in/vtv/vtv/index.m3u8"
+    },
+    {
+        "id": 88,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_29_31-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Drisya News Pala",
+        "link": "https://live.skystream.in/live/DrisyaPala2924/index.m3u8"
+    },
+    {
+        "id": 89,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_39_45-PM-1-200x300.png",
+        "group": "Local",
+        "name": "New Vision Mundakayam",
+        "link": "https://live.skystream.in/live/newvision2924/index.m3u8"
+    },
+    {
+        "id": 90,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_35_28-PM-1-200x300.png",
+        "group": "Local",
+        "name": "City Channel Kasargod",
+        "link": "https://live.skystream.in/live/citytv2924/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "id": 91,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_30_31-PM-1-200x300.png",
+        "group": "Local",
+        "name": "City Vision kannur",
+        "link": "https://live.skystream.in/live/citykannurcity/index.m3u8"
+    },
+    {
+        "id": 92,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_28_33-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Network payyanur",
+        "link": "https://live.skystream.in/live/networkpayyanur/index.m3u8"
+    },
+    {
+        "id": 93,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/drishya-1-200x300.webp",
+        "group": "Local",
+        "name": "Drishya TV",
+        "link": "https://live.skystream.in/live/drishya5060/index.m3u8"
+    },
+    {
+        "id": 94,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-10_21_57-AM-1-200x300.png",
+        "group": "Local",
+        "name": "CTV Mukkam",
+        "link": "https://live.skystream.in/live/ctv1805/index.m3u8"
+    },
+    {
+        "id": 95,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_14_25-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Drisya TV Karunagappally",
+        "link": "https://live.skystream.in/live/drishyakarunagapally/index.m3u8"
+    },
+    {
+        "id": 96,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_13_13-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Kerala Today",
+        "link": "https://live.skystream.in/live/krlatoday/index.m3u8"
+    },
+    {
+        "id": 97,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_11_11-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Media Today News",
+        "link": "https://live.skystream.in/live/mediatday/index.m3u8"
     }
 ]
