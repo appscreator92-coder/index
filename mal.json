@@ -312,7 +312,7 @@
         "logo": "https://i.imgur.com/1dHarb7.png",
         "group": "Entertainment",
         "name": "Pravasi Channel (1080p)",
-        "link": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+        "link": "https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
     },
     {
         "id": 47,
@@ -628,5 +628,26 @@
         "group": "Local",
         "name": "Media Today News",
         "link": "https://live.skystream.in/live/mediatday/index.m3u8"
+    },
+    {
+        "id": 98,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-04_30_51-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Nattuvartha TV",
+        "link": "https://live.skystream.in/live/nattuvartha5945/index.m3u8"
+    },
+    {
+        "id": 99,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_39_18-AM-1-200x300.png",
+        "group": "Local",
+        "name": "CCTV Kunnamkulam",
+        "link": "https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8"
+    },
+    {
+        "id": 100,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_55_31-AM-1-200x300.png",
+        "group": "Local",
+        "name": "N Media Channel",
+        "link": "https://live.skystream.in/live/newmedia2924/index.m3u8"
     }
 ]
