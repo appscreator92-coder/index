@@ -502,5 +502,12 @@
         "group": "News",
         "name": "Kaumudy TV",
         "link": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8"
+    },
+    {
+        "id": 80,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_54_30-AM-1-185x278.png",
+        "group": "Entertainment",
+        "name": "South Vision",
+        "link": "https://live.skystream.in/live/southvsnklm/index.m3u8"
     }
 ]
