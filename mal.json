@@ -509,5 +509,47 @@
         "group": "Entertainment",
         "name": "South Vision",
         "link": "https://live.skystream.in/live/southvsnklm/index.m3u8"
+    },
+    {
+        "id": 81,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-10_06_33-AM-1-200x300.png",
+        "group": "Local",
+        "name": "Kasargod Vision",
+        "link": "https://live.skystream.in/live/kasaragodvsn/index.m3u8"
+    },
+    {
+        "id": 82,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/02/ChatGPT-Image-Feb-9-2026-04_20_20-PM-1-200x300.png",
+        "group": "Local",
+        "name": "V9 News Vadakkancherry",
+        "link": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8"
+    },
+    {
+        "id": 83,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2026/01/ChatGPT-Image-Feb-15-2026-10_47_44-AM-1-200x300.png",
+        "group": "Local",
+        "name": "Media Plus",
+        "link": "https://live.applelive.in/mediaplus/mediaplus/index.m3u8"
+    },
+    {
+        "id": 84,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-22-2025-07_54_37-AM-1-200x300.png",
+        "group": "Local",
+        "name": "TCN Trikaripur",
+        "link": "https://live.skystream.in/live/tcn8909/index.m3u8"
+    },
+    {
+        "id": 85,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Jan-7-2026-07_45_02-AM-1-200x300.png",
+        "group": "Local",
+        "name": "K7 Keralam",
+        "link": "https://live.skystream.in/live/keralam2742/index.m3u8"
+    },
+    {
+        "id": 86,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/11/ChatGPT-Image-Nov-22-2025-07_43_19-AM-1-200x300.png",
+        "group": "Local",
+        "name": "CCNET",
+        "link": "https://live.skystream.in/live/ccnet7082/index.m3u8"
     }
 ]
