@@ -469,6 +469,13 @@
         "link": "https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8"
     },
     {
+        "id": 102,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/08/ChatGPT-Image-Sep-19-2026-05_56_16-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Wayanad Vision",
+        "link": "https://online.wayanadvision.in/hls/wayanadvision.m3u8"
+    },
+    {
         "id": 75,
         "logo": "https://bhoomtv.me/wp-content/uploads/2026/09/ChatGPT-Image-Sep-17-2026-10_08_23-PM-1-200x300.png",
         "group": "Entertainment",
@@ -649,5 +656,12 @@
         "group": "Local",
         "name": "N Media Channel",
         "link": "https://live.skystream.in/live/newmedia2924/index.m3u8"
+    },
+    {
+        "id": 101,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/08/ChatGPT-Image-May-8-2026-03_05_33-PM-1-200x300.png",
+        "group": "Local",
+        "name": "Media Vision",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8"
     }
 ]
