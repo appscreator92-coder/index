@@ -691,5 +691,12 @@
         "group": "News",
         "name": "News Malayalam 24x7",
         "link": "https://cdn.pishow.tv/ott/live/1629/master.m3u8"
+    },
+    {
+        "id": 107,
+        "logo": "https://bhoomtv.me/wp-content/uploads/2025/08/ChatGPT-Image-Oct-28-2025-09_48_19-AM-1-200x300.png",
+        "group": "Kids",
+        "name": "Mr Bean",
+        "link": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
     }
 ]
