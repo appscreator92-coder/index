@@ -3,289 +3,289 @@
         "id": "13",
         "name": "Big Magic",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/13/13_0.m3u8"
+        "link": "https://fta.ektv.in/live/13/master.m3u8"
     },
     {
         "id": "15",
         "name": "DD National HD",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/15/15_0.m3u8"
+        "link": "https://fta.ektv.in/live/15/master.m3u8"
     },
     {
         "id": "17",
         "name": "Dangal",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/17/17_0.m3u8"
+        "link": "https://fta.ektv.in/live/17/master.m3u8"
     },
     {
         "id": "18",
         "name": "Dangal 2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/18/18_0.m3u8"
+        "link": "https://fta.ektv.in/live/18/master.m3u8"
     },
     {
         "id": "19",
         "name": "Manoranjan Grand",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/19/19_0.m3u8"
+        "link": "https://fta.ektv.in/live/19/master.m3u8"
     },
     {
         "id": "20",
         "name": "Anjan TV",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/20/20_0.m3u8"
+        "link": "https://fta.ektv.in/live/20/master.m3u8"
     },
     {
         "id": "21",
         "name": "Shemaroo Josh",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/21/21_0.m3u8"
+        "link": "https://fta.ektv.in/live/21/master.m3u8"
     },
     {
         "id": "22",
         "name": "Gangaur Television",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/22/22_.m3u8"
+        "link": "https://fta.ektv.in/live/22/master.m3u8"
     },
     {
         "id": "23",
         "name": "Manoranjan TV",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/23/23_0.m3u8"
+        "link": "https://fta.ektv.in/live/23/master.m3u8"
     },
     {
         "id": "25",
         "name": "The Q",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/25/25_0.m3u8"
+        "link": "https://fta.ektv.in/live/25/master.m3u8"
     },
     {
         "id": "29",
         "name": "Colors Infinity",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/29/29_0.m3u8"
+        "link": "https://fta.ektv.in/live/29/master.m3u8"
     },
     {
         "id": "43",
         "name": "B4U Movies",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/43/43_0.m3u8"
+        "link": "https://fta.ektv.in/live/43/master.m3u8"
     },
     {
         "id": "44",
         "name": "B4U Kadak",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/44/44_0.m3u8"
+        "link": "https://fta.ektv.in/live/44/master.m3u8"
     },
     {
         "id": "46",
         "name": "Goldmines 2",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/46/46_0.m3u8"
+        "link": "https://fta.ektv.in/live/46/master.m3u8"
     },
     {
         "id": "47",
         "name": "Manoranjan Movies",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/47/47_0.m3u8"
+        "link": "https://fta.ektv.in/live/47/master.m3u8"
     },
     {
         "id": "48",
         "name": "Maha Movie",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/48/48_0.m3u8"
+        "link": "https://fta.ektv.in/live/48/master.m3u8"
     },
     {
         "id": "49",
         "name": "Shubh Cinema",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/49/49_0.m3u8"
+        "link": "https://fta.ektv.in/live/49/master.m3u8"
     },
     {
         "id": "51",
         "name": "Goldmines Movies",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/51/51_0.m3u8"
+        "link": "https://fta.ektv.in/live/51/master.m3u8"
     },
     {
         "id": "52",
         "name": "Goldmines Bollywood",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/52/52_0.m3u8"
+        "link": "https://fta.ektv.in/live/52/master.m3u8"
     },
     {
         "id": "53",
         "name": "Goldmines",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/53/53_0.m3u8"
+        "link": "https://fta.ektv.in/live/53/master.m3u8"
     },
     {
         "id": "54",
         "name": "All Time Movies",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/54/54_0.m3u8"
+        "link": "https://fta.ektv.in/live/54/master.m3u8"
     },
     {
         "id": "55",
         "name": "Manorama News",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/55/55_0.m3u8"
+        "link": "https://fta.ektv.in/live/55/master.m3u8"
     },
     {
         "id": "64",
         "name": "DD Sports",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/64/64_0.m3u8"
+        "link": "https://fta.ektv.in/live/64/master.m3u8"
     },
     {
         "id": "87",
         "name": "Aaj Tak",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/87/87_0.m3u8"
+        "link": "https://fta.ektv.in/live/87/master.m3u8"
     },
     {
         "id": "89",
         "name": "Good News Today",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/89/89_0.m3u8"
+        "link": "https://fta.ektv.in/live/89/master.m3u8"
     },
     {
         "id": "92",
         "name": "TV9 Bharatvarsh",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/92/92_0.m3u8"
+        "link": "https://fta.ektv.in/live/92/master.m3u8"
     },
     {
         "id": "93",
         "name": "News Nation",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/93/93_0.m3u8"
+        "link": "https://fta.ektv.in/live/93/master.m3u8"
     },
     {
         "id": "94",
         "name": "India Voice",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/94/94_0.m3u8"
+        "link": "https://fta.ektv.in/live/94/master.m3u8"
     },
     {
         "id": "95",
         "name": "News 24",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/95/95_0.m3u8"
+        "link": "https://fta.ektv.in/live/95/master.m3u8"
     },
     {
         "id": "96",
         "name": "Hindi Khabar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/96/96_0.m3u8"
+        "link": "https://fta.ektv.in/live/96/master.m3u8"
     },
     {
         "id": "97",
         "name": "Bharat Samachar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/97/97_0.m3u8"
+        "link": "https://fta.ektv.in/live/97/master.m3u8"
     },
     {
         "id": "98",
         "name": "IND 24",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/98/98_0.m3u8"
+        "link": "https://fta.ektv.in/live/98/master.m3u8"
     },
     {
         "id": "99",
         "name": "INH 24x7",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/99/99_0.m3u8"
+        "link": "https://fta.ektv.in/live/99/master.m3u8"
     },
     {
         "id": "100",
         "name": "K News India",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/100/100_0.m3u8"
+        "link": "https://fta.ektv.in/live/100/master.m3u8"
     },
     {
         "id": "101",
         "name": "ANB News National",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/101/101_0.m3u8"
+        "link": "https://fta.ektv.in/live/101/master.m3u8"
     },
     {
         "id": "102",
         "name": "News 1 India",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/102/102_0.m3u8"
+        "link": "https://fta.ektv.in/live/102/master.m3u8"
     },
     {
         "id": "103",
         "name": "JKL 24x7 News",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/103/103_0.m3u8"
+        "link": "https://fta.ektv.in/live/103/master.m3u8"
     },
     {
         "id": "104",
         "name": "Bharat 24",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/104/104_0.m3u8"
+        "link": "https://fta.ektv.in/live/104/master.m3u8"
     },
     {
         "id": "106",
         "name": "Janta TV",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/106/106_0.m3u8"
+        "link": "https://fta.ektv.in/live/106/master.m3u8"
     },
     {
         "id": "107",
         "name": "NDTV 24x7",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/107/107_0.m3u8"
+        "link": "https://fta.ektv.in/live/107/master.m3u8"
     },
     {
         "id": "115",
         "name": "Republic TV",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/115/115_0.m3u8"
+        "link": "https://fta.ektv.in/live/115/master.m3u8"
     },
     {
         "id": "116",
         "name": "DW English",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/116/116_0.m3u8"
+        "link": "https://fta.ektv.in/live/116/master.m3u8"
     },
     {
         "id": "117",
         "name": "DD News HD",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/117/117_0.m3u8"
+        "link": "https://fta.ektv.in/live/117/master.m3u8"
     },
     {
         "id": "119",
         "name": "DD India HD",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/119/119_0.m3u8"
+        "link": "https://fta.ektv.in/live/119/master.m3u8"
     },
     {
         "id": "143",
         "name": "Food Food",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/143/143_0.m3u8"
+        "link": "https://fta.ektv.in/live/143/master.m3u8"
     },
     {
         "id": "144",
         "name": "FTV HD",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/144/144_0.m3u8"
+        "link": "https://fta.ektv.in/live/144/master.m3u8"
     },
     {
         "id": "148",
         "name": "DD Kisan",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/148/148_0.m3u8"
+        "link": "https://fta.ektv.in/live/148/master.m3u8"
     },
     {
         "id": "151",
         "name": "Star Sports Khel",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "link": "https://fta.ektv.in/live/151/151_0.m3u8"
+        "link": "https://fta.ektv.in/live/151/master.m3u8"
     },
     {
         "id": "155",
