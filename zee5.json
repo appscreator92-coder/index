@@ -1,788 +1,443 @@
 [
     {
-        "keyId": "02806a3ee1254314b2432c382f36d1b5",
-        "key": "949ee987469786ae1ec7d7b47954f964",
-        "name": "Unite8 Sports 1 HD",
-        "id": "Unite8Sports1HD",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Unite8Sports1HD",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0",
-        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd"
-    },
-     {
-        "keyId": "37930fd0266e4cc3bc0db4c48b80e984",
-        "key": "b35d5015863b7dab2c2f406c543d7fd1",
-        "name": "Unite8 Sports 2 HD",
-        "id": "Unite8Sports2HD",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Unite8Sports2HD",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0",
-        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd"
+        "keyId": "d65628c92b3f4a629cf7aa288d060111",
+        "key": "3867949f7034a668565ce253d558afbb",
+        "name": "&Pictures HD",
+        "id": "9487112",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=%26PicturesHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/75364a7b9f09477b9ee80016a6440b6b/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd"
     },
     {
-        "keyId": "7b309971782048618ff0f6a86ec76017",
-        "key": "ae46b4cdb76536514714f737c8410239",
-        "name": "Zee Keralam HD",
-        "id": "ZeeKeralamHD",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeKeralamHD",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cb2d529482614186a8ba29d47346902b/version/0",
-        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd"
-    },
-    {
-        "keyId": "8dea532cabfe4f71ba20f62310e7949f",
-        "key": "7a214a974e4f4d1d9bb66364d5f0cb92",
-        "name": "& Picture",
-        "id": "AndPicture",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=AndPicture",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd"
-    },
-    {
-        "keyId": "de8045e9f0fb4d03845dcc4a8bd7712a",
-        "key": "6807bd09bda34ada83152908192af6d6",
-        "name": "&pictures HD",
-        "id": "AndPicturehd",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=AndPicturehd",
-        "category": "Movies",
-        "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd"
-    },
-    
-    {
-        "keyId": "67d18634ccb04875875c60fb8d9caaba",
-        "key": "99a66471c09e4b8a8dc39a0de6803f75",
-        "name": "&TV HD",
-        "id": "AndTvhd",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=AndTvhd",
-        "category": "Entertainment",
-        "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd"
-    },
-
-    {
-        "keyId": "26df86eeebb04d7fbc45c948f76e81fd",
-        "key": "5f3a23f1a73c4c96ababce5fffe7b06b",
-        "name": "& TV",
-        "id": "AndTv",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=AndTv",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd"
-    },
-    {
-        "name": "Big Magic",
-        "id": "7",
-        "category": "Entertainment",
-        "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png",
-        "url": "https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209"
-    },
-    {
-        "keyId": "b70a8cf9450c4d6484b4ac4d3c6761c0",
-        "key": "0908be844260409cbac180bf0181da40",
-        "name": "DISCOVERY CHANNEL",
-        "id": "DiscoveryChannel",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=DiscoveryChannel",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd"
-    },
-    {
-        "keyId": "601f58d4b7094d2baf78c85d1d9cb6c9",
-        "key": "609e0cc03198455fa36fd2cc3e7f940d",
-        "name": "DISCOVERY KIDS",
-        "id": "DiscoveryKids",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=DiscoveryKids",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd"
-    },
-    {
-        "keyId": "5458f45efedb4d6f8aa6ac76c85b621b",
-        "key": "dbf8a0a306a64525ba3012fd225370c0",
-        "name": "DISCOVERY SCIENCE",
-        "id": "DiscoveryScience",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=DiscoveryScience",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd"
-    },
-    {
-        "keyId": "c011525969e44b99a86059dbb3cdf4e8",
-        "key": "6700a5d93203417b8585f7de7dd1a09b",
-        "name": "DISCOVERY TURBO",
-        "id": "DiscoveryTurbo",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=DiscoveryTurbo",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd"
-    },
-    {
-        "keyId": "9872e439f21f4a299cab249c6554daa3",
-        "key": "0cdfcfe0d0f1fbe100554ce3ef4c4665",
-        "name": "&Flix SD",
-        "id": "18",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=18",
-        "category": "Movies",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU",
-        "url": "https://edge4-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd"
-    },
-    {
-        "keyId": "2828ea6f6a984505b0454da0c03f68b9",
-        "key": "5d3b7195086544c2807aa8c1544e7379",
-        "name": "INVESTIGATION DISCOVERY HD",
-        "id": "InvestigationDiscoveryHD",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=InvestigationDiscoveryHD",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd"
-    },
-    {
-        "keyId": "ed197e7253c04946903f03bad9afac91",
-        "key": "99ebb8683ea74b70a9fda1cbdc2cc1b4",
-        "name": "KOREAN DRAMAS",
-        "id": "KoreanDramas",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=KoreanDramas",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd"
-    },
-    {
-        "keyId": "1779c27b9d077a3ba0c9cc1bb9a94b9f",
-        "key": "cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
-        "name": "KOREAN DRAMAS",
-        "id": "KoreanDramas2",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=KoreanDramas2",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png",
-        "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd"
-    },
-    {
-        "keyId": "2a457a6a58184234ba9bfa6916ce8013",
-        "key": "ef3dd80894774430a33ecbc9108e91d7",
-        "name": "MTVBEATS",
-        "id": "MTVBeats",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=MTVBeats",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd"
-    },
-    {
-        "keyId": "d78c01625c3f4ed98912609799298544",
-        "key": "b91bb882f9624872ada6125006fe5c73",
-        "name": "NDTV INDIA",
-        "id": "NDTVIndia",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=NDTVIndia",
-        "logo": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd"
-    },
-    {
-        "keyId": "b994480f788d41ddbc805862ac469416",
-        "key": "78a6a0fc1758483595da7113e58e4467",
-        "name": "SHORTSTV",
-        "id": "Shortstv",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Shortstv",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd"
-    },
-    {
-        "keyId": "e48e7373d6be47ecab83a20849f6823e",
-        "key": "513ce07a2ee24ffdbe667eff5a9d46a8",
-        "name": "TLC",
-        "id": "TLC",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=TLC",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd"
-    },
-    {
-        "keyId": "nXoZF+4yRNGYGTzdH/H+rg",
-        "key": "PD6NAln3SPGDD3E6dpdg5w",
-        "name": "Zee Action",
-        "id": "13",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=13",
-        "category": "Movies",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd"
-    },
-    {
-        "keyId": "4023613457774cbeb71a62c339970e63",
-        "key": "1c3e9fce5f014542be9cd1f749181204",
-        "name": "Zee Anmol",
-        "id": "3",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=3",
-        "category": "Entertainment",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd"
-    },
-    {
-        "keyId": "812411cba8bc42c79eb2b19cd78ad3f3",
-        "key": "468a0b8d3d5d42d8a5c41bb875390a74",
-        "name": "Zee Anmol Cinema",
-        "id": "11",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=11",
-        "category": "Movies",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd"
-    },
-    
-    
-    
-    {
-        "keyId": "fbbfd9ce4bbe4d818b16df7dfe89f05b",
-        "key": "1e96d0f88ef740e982d6f6105721c8bc",
-        "name": "Zee Bangla Cinema",
-        "id": "ZeeBanglaCinema",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBanglaCinema",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd"
-    },
-    
-    {
-        "keyId": "1df83e058b864da896c9288eef63b113",
-        "key": "fc32f26239054b56aab48225305598fe",
-        "name": "Zee Bangla HD",
-        "id": "ZeeBanglaHD",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBanglaHD",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd"
-    },
-    
-    {
-        "keyId": "e1ec6098b5014ac7aae0b37f72d5e85e",
-        "key": "c04950f25d8e4107a96e828e7911e53b",
-        "name": "ZEE BIHJH",
-        "id": "ZeeBiharJharkhand",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiharJharkhand",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd"
-    },
-    
-    {
-        "keyId": "e61523260c614746b25b9a5523fe9a39",
-        "key": "72ddbf37f76f49acbb8e140e7279e7a1",
-        "name": "ZEE BOLLYWOOD",
-        "id": "ZeeBollywood",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBollywood",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd"
-    },
-    
-    {
-        "keyId": "bef87892e58c446d893b16a848703b70",
-        "key": "51959fcbc8fe4091b570ba254bf749ae",
-        "name": "ZEE BUSINESS",
-        "id": "ZeeBusiness",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBusiness",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd"
-    },
-    {
-        "keyId": "43513b13f4b542e39c9265921dfc1726",
-        "key": "b0b2678bcd274c37b888a6c987d502ed",
-        "name": "ZEE CINEMA",
-        "id": "ZeeCinema",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeCinema",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd"
-    },
-    {
-        "keyId": "9WvqrJ8SRhaHLHQcnOT6Tg",
-        "key": "XUCpAyOPStmKu-0Yd9Tj0Q",
-        "name": "Zee Cinema HD",
-        "id": "9",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=9",
-        "category": "Movies",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd"
-    },
-    
-    {
-        "name": "Zee Classic",
-        "id": "12",
-        "category": "Movies",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png",
-        "url": "https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209"
-    },
-    
-    {
-        "keyId": "10616d7c4bee41f1825bd805c6295172",
-        "key": "dc85f2112f63477fb39fc149493c49be",
-        "name": "ZEE HINDUSTAN",
-        "id": "ZeeHindustan",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeHindustan",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd"
-    },
-    
-    {
-        "keyId": "50e714b65ead453cbfab9b20bed5c79d",
-        "key": "bc08e108b9ee4f65b99cb9dad9532f3f",
-        "name": "Zee Kannada HD ",
-        "id": "ZeeKannadaHD",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeKannadaHD",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd"
-    },
-    
-    {
-        "keyId": "2a8d6c938ea647248f7a10eedc39f097",
-        "key": "7d81feb84ed84bd88fdc5ca9de3c16da",
-        "name": "Zee Marathi HD",
-        "id": "ZeeMarathiHD",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeMarathiHD",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd"
+        "keyId": "4197f891c1fd49398492a39edc08880f",
+        "key": "e21789d3753adcdcb9e20705a1a6082c",
+        "name": "&Tv HD",
+        "id": "9487113",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=%26TvHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/6ce923e690114400bcdc43ea7a3b27be/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd"
     },
     {
         "keyId": "",
         "key": "",
+        "name": "9X Jalwa",
+        "id": "9487075",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=9XJalwa",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bab798478e714be3a5ae861fc04606f0/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9X_Jalwa/hls_fta/9X_Jalwa.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "9X Jhakaas",
+        "id": "9487069",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=9XJhakaas",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/1da89d8c25f0491e8ed1a9c1d0b716fb/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9X_Jhakaas/hls_fta/9X_Jhakaas.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "9X Tashan",
+        "id": "9487073",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=9XTashan",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/2481ada1cd354fe3a5b6abed499a2191/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9X_Tashan/hls_fta/9X_Tashan.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "9XM",
+        "id": "9487071",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=9XM",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/18981b21fabf41f9832523ad441963f8/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8"
+    },
+    {
+        "keyId": "f23137a7f4f047b3bd43ae89f40a1c88",
+        "key": "410a2054ef8bbfc22b04a0bdbd9c2c1d",
+        "name": "Anmol Cinema 2",
+        "id": "9624885",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=AnmolCinema2",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dcf4c8f28821488c8974932036e10394/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd"
+    },
+    {
+        "keyId": "e8f7c45130db414fb326788051712c91",
+        "key": "cbb54ebfc6cff48b53a50714fb9bd24d",
+        "name": "Big Magic",
+        "id": "9624883",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=BigMagic",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a4225f7d32c549638e3c8926a78079e6/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "DD Bharti",
+        "id": "9487060",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=DDBharti",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9ac9516189654175bffc220b723e928d/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/DD_Bharti/hls_fta/DD_Bharti.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "DD National",
+        "id": "9487068",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=DDNational",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/28b8bef7e39548d0ab6ab86d4bbb5e88/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/DD_National/hls_fta/DD_National.m3u8"
+    },
+    {
+        "keyId": "2dd1e6a786df4bf2b38620cdebb288ad",
+        "key": "8d2956b20859ae47ec6530125312036d",
+        "name": "ET Now",
+        "id": "9487081",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ETNow",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/81f431adc0714cff84be95b33d9b1b83/version/0",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/ET_Now/dash/ET_Now.mpd"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "Fakt Marathi",
+        "id": "9487064",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=FaktMarathi",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a924cd82e1d44b9cad4a6f62daee5126/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Fakt_Marathi/hls_fta/Fakt_Marathi.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "Music India",
+        "id": "9487063",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=MusicIndia",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9bc111a3d6f04e5bad9483462ed48e28/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Music_India/hls_fta/Music_India.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "News Nation",
+        "id": "9487062",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=NewsNation",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9c50bb3d0a9341a1a631f1423591afef/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "Sangeet Bangla",
+        "id": "9487053",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=SangeetBangla",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ebd2edebccb641a58ae57956dd4ccfb8/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bangla/hls_fta/Sangeet_Bangla.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "Sangeet Bhojpuri",
+        "id": "9487059",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=SangeetBhojpuri",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/032d38ed29b54e51a6e0575bd9e0d837/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangeet_Bhojpuri.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "Sansad TV HD",
+        "id": "9487058",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=SansadTVHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f6ace40e05bd435184b232ca5d67fc62/version/0",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8"
+    },
+    {
+        "keyId": "",
+        "key": "",
+        "name": "Sansad TV SD",
+        "id": "9487056",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=SansadTVSD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/599cdaeda82a49bda2daf6f649eb2065/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_SD/dash_fta/Sansad_TV_SD.mpd"
+    },
+    {
+        "keyId": "4247e817e4f54d6da1a6549b57c57745",
+        "key": "3adbbb81a66fa8c31ffa8212a3248e65",
+        "name": "Times Now",
+        "id": "9487067",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=TimesNow",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd"
+    },
+    {
+        "keyId": "fe5ee339d8d54084ac84b78bcd789d5a",
+        "key": "37bd2ffbb86bb381b23eceba003868aa",
+        "name": "Unite8 Sports 1 HD",
+        "id": "9624886",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Unite8Sports1HD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd"
+    },
+    {
+        "keyId": "94e7fb64c408441fb7d7c71d0fa4f738",
+        "key": "e7be39a37bc269d49ce6344e9bda0acf",
+        "name": "Unite8 Sports 2 HD",
+        "id": "9624884",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Unite8Sports2HD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd"
+    },
+    {
+        "keyId": "ca31d20be79a42b2aeb9df5b01fe6c5e",
+        "key": "4ff0a3a30872b3fc7e25158869c194a0",
+        "name": "Wion",
+        "id": "9487082",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Wion",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/938610751fea47dbbaa97beae47fdc12/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd"
+    },
+    {
+        "keyId": "c6eabc0b895a45c9a1b6f6ddd39753d0",
+        "key": "25d4cab89cbb82e6f53f968ccf609e3b",
+        "name": "Zee 24 GHANTA",
+        "id": "9487065",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zee24GHANTA",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/4250427f57894b2c904cdd96bbd418ac/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Twenty_Four_Ghanta/dash/Zee_Twenty_Four_Ghanta.mpd"
+    },
+    {
+        "keyId": "9b31d75c5fb74d46b27ee9da02e1058f",
+        "key": "67eca1f7ffc9420c2d551c56273a9ecd",
+        "name": "Zee Action",
+        "id": "9487052",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAction",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd"
+    },
+    {
+        "keyId": "b98b494794214206a909d0a2d03f592e",
+        "key": "2690c7d35346de3d34abe10ecbd5aefb",
+        "name": "Zee Anmol",
+        "id": "9487051",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAnmol",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/4ec3fd623663486c91b92d5b2c7cc9b8/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd"
+    },
+    {
+        "keyId": "6ea5f82e319b49e6a942fec24635d153",
+        "key": "09bfcb97157c9bd73e9f413e406a766d",
+        "name": "Zee Anmol Cinema",
+        "id": "9487057",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAnmolCinema",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b9a50d8fab3541af81681eb6bd385eaf/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd"
+    },
+    {
+        "keyId": "4ae40a1d2aa5481cafcbb079b05e20e1",
+        "key": "ac1af0e45f62e0334206ceb9c3a8a76d",
+        "name": "Zee Bangla HD",
+        "id": "9504796",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBanglaHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dd74c3cd17ff4baca804bce74b811384/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd"
+    },
+    {
+        "keyId": "7d2ae45c9b5f4feab914281f496e8f95",
+        "key": "6a6c110e264183698e35c5a6820dc27d",
+        "name": "Zee Bangla Sonar",
+        "id": "9624894",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBanglaSonar",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f508a6918aac461382774c4a34f50c30/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_Cinema/dash/Zee_Bangla_Cinema.mpd"
+    },
+    {
+        "keyId": "0da24516119541f2911f8dd3267f8f63",
+        "key": "32775da13ea68238748db869d6d6dd97",
+        "name": "Zee Biskope",
+        "id": "9624887",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiskope",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd"
+    },
+    {
+        "keyId": "6de5abfb096145478109cd348d9de127",
+        "key": "757ad63118faa8c41d18a72f97b4f88b",
+        "name": "Zee Bollywood",
+        "id": "9487104",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBollywood",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/e1de996d54864c78b8daf60d63974223/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd"
+    },
+    {
+        "keyId": "8e2ceac4bfd9407db963df80922c879c",
+        "key": "f2855b36eae9f7c0aa1bb57b88bc0477",
+        "name": "Zee Cinema HD",
+        "id": "9487096",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeCinemaHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2316f5734094e8486486d6911fe6560/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd"
+    },
+    {
+        "keyId": "1886a4a188144c309361b29d9d823888",
+        "key": "9138f03ed8dc9a485e76c15249873fd1",
+        "name": "Zee Cinemalu HD",
+        "id": "9624889",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeCinemaluHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a33211ad359a4cba8b23144e4081ff68/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd"
+    },
+    {
+        "keyId": "ea2a3d3118524d129b07d0b7eaa2216c",
+        "key": "74315d66a5b5dd72ca92ebee4959b389",
+        "name": "Zee Classic",
+        "id": "9624882",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeClassic",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/97ff8066a4d945d0ad72764a1f58762b/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd"
+    },
+    {
+        "keyId": "f1f0a5aeff55449f9a81af256f7093e6",
+        "key": "0378a0b8820186629ccb940a64586053",
+        "name": "Zee Kannada HD",
+        "id": "9624893",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeKannadaHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/37b5fbe79db34171a1873cf889458149/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Kannada_HD/dash/Zee_Kannada_HD.mpd"
+    },
+    {
+        "keyId": "d2e244741c5949d9a3abe3564fded421",
+        "key": "2e73e7a2bb9d78c3f311e8cdb9e0ad34",
+        "name": "Zee Keralam HD",
+        "id": "9624895",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeKeralamHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cb2d529482614186a8ba29d47346902b/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd"
+    },
+    {
+        "keyId": "3b9107641e514ce9b0275a15a619754a",
+        "key": "1f5e4c7fdd4a16bc38888d9bacccd41b",
+        "name": "Zee Marathi HD",
+        "id": "9504795",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeMarathiHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9d03463ae16544f2b87dd2e173b22685/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Marathi_HD/dash/Zee_Marathi_HD.mpd"
+    },
+    {
+        "keyId": "4ea4bfbd31414b338c2e69cae42ae8ff",
+        "key": "749fc79567fedf35b1c5f148b367c001",
         "name": "Zee News",
-        "id": "ZeeNews",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s",
-        "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
+        "id": "9487055",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeNews",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/087a098c826c480796c1e9ac0ade0d82/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_News/dash/Zee_News.mpd"
     },
     {
-        "keyId": "ecad0b097b574078a4a1bde24bfdb2e5",
-        "key": "568bb13d04db4b738864f6c849474cd5",
+        "keyId": "d86d79822a884b50afe3d1321a593477",
+        "key": "df13163d722add2997398e4922766c0f",
+        "name": "Zee Power",
+        "id": "9649339",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePower",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd"
+    },
+    {
+        "keyId": "2634d5292af3487d80433fdb755b755e",
+        "key": "d0cdb5bcd795a8e31b6b1b531de46050",
+        "name": "ZEE PUNJABI",
+        "id": "9624890",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZEEPUNJABI",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/600751eb0b714c9992c92d8bfc78e814/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_PUNJABI/dash/ZEE_PUNJABI.mpd"
+    },
+    {
+        "keyId": "0b65ae41a3d34650b0d1f4a40342e3fe",
+        "key": "df0866f3ab77c5b45218be232eebe749",
         "name": "Zee Sarthak",
-        "id": "ZeeSarthak",
+        "id": "9487093",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeSarthak",
-        "logo": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd"
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c86007cd6db744eeb8b6f8431e4f363a/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Sarthak/dash/Zee_Sarthak.mpd"
     },
-    
-
     {
-        "keyId": "f081f32756374c3d8265e1a1e029614e",
-        "key": "356a3a6d8ce34d49a84ad464b20b1a3e",
-        "name": "Zee Talkies",
-        "id": "ZeeTalkies",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTalkies",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd"
+        "keyId": "88906bb949e541b8b3e7db1e8dcbec27",
+        "key": "02eb244d1d6d6dd6f046ce59a9e0faff",
+        "name": "Zee Talkies HD",
+        "id": "9487089",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTalkiesHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8afbf5d35d83410e9ee9597d9645d3be/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd"
     },
-    
-
     {
-        "keyId": "0d4e3e7dac2d58b93bf819a72fe8d510",
-        "key": "667a33f4d5bb3587f2d5209886839eac",
-        "name": "Zee Tamil",
-        "id": "ZeeTamil",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTamil",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd"
+        "keyId": "9711b70016d34663a3e173a3143ddf58",
+        "key": "fc5cb4333f8bc635b59124f665ffecbf",
+        "name": "Zee Tamil HD",
+        "id": "9624892",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTamilHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/5c9c11bbbda849479e58f8759e1fc4d5/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Tamil_HD/dash/ZEE_Tamil_HD.mpd"
     },
-    
     {
-        "keyId": "1ce5cd75a6ad44a38a7d1b8dbaf9c330",
-        "key": "657fc8e7d533456cb0644fe03458a4b2",
+        "keyId": "b0c56e9c82d74e85951ba654723da337",
+        "key": "e55d7b860348fcc945a47c47b8789caa",
         "name": "Zee Telugu HD",
-        "id": "ZeeTeluguHD",
+        "id": "9624891",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTeluguHD",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd"
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/3e8e7c08dedc48ee9ed67fc0bc4ecf76/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Telugu_HD/dash/ZEE_Telugu_HD.mpd"
     },
     {
-        "keyId": "ed068cf84f0640ccbc7c0e395c0a272e",
-        "key": "bb722190f2bb446391020411a7d0828b",
-        "name": "ZEE TV",
-        "id": "ZeeTv",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTv",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd"
+        "keyId": "a02da6490fda4b7ba09a7a8b954a6b6c",
+        "key": "c12a5144a243bf7083a14ecbc3354f83",
+        "name": "Zee Thirai",
+        "id": "9649000",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeThirai",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd"
     },
     {
-        "keyId": "65c3633157574361b191059e46e72968",
-        "key": "78450b11381340c297d96c13183d3744",
-        "name": "Zee TV HD",
-        "id": "Zeetvhd",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zeetvhd",
-        "category": "Entertainment",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd"
+        "keyId": "07ce9d39fd034172a214ef37fa608fd3",
+        "key": "d094e47b9da0769c793f02b731e730d8",
+        "name": "ZEE TV HD",
+        "id": "9487083",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZEETVHD",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/04bc627420754c2592f21bb6c37d7f41/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd"
     },
-    
-    
     {
-        "keyId": "f0fb14eebe474a6ab74c8301d55a7224",
-        "key": "f9f8b2e30704458b8db844a285ce32be",
-        "name": "ZING",
-        "id": "Zing",
+        "keyId": "1f71aa45d5a047b39bb4a0f5faa2d318",
+        "key": "9c8d9162cbc411b54258c60f55d0ff2c",
+        "name": "Zee Yuva",
+        "id": "9624888",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeYuva",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/4c0723e870914be8b9e77207a96227cd/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Yuva/dash/Zee_Yuva.mpd"
+    },
+    {
+        "keyId": "32bde93403714946b9bbc34036ed6e7c",
+        "key": "1d00142401cf74897fd837c4d9f2ef94",
+        "name": "Zee Zest",
+        "id": "9650645",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeZest",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2cc8c4a35c44b0bb21c05185150f4a0/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd"
+    },
+    {
+        "keyId": "1de4f57aba8041febd722d95e6cdc1e8",
+        "key": "ace7117cc9afba047ee7dc193cf77f48",
+        "name": "Zing",
+        "id": "9487091",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zing",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd"
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8ec419e798e644fca91ae4e11f182a1c/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zing/dash/Zing.mpd"
     },
-    
     {
-        "keyId": "86edec9e3b7d4042a4d4a1ca14f847ee",
-        "key": "9def4315f0004019a3705bcb3cf30ca3",
-        "name": "ZOOM",
-        "id": "Zoom",
+        "keyId": "f4f7487dd78c48eabfda06f382b64c87",
+        "key": "1cf672e78d4dfcd02f20b8428df415a3",
+        "name": "Zoom",
+        "id": "9487084",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zoom",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd"
-    },
-    {
-        "name": "Zee Comedy Nation (1080p)",
-        "id": "140",
-        "category": "Comedy",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
-        "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Al Jazeera Documentary (1080p) [Geo-blocked]",
-        "id": "178",
-        "category": "Documentary",
-        "logo": "https://i.imgur.com/5dNJlLo.png",
-        "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8"
-    },
-    {
-        "name": "Anmol Cinema (576p)",
-        "id": "321",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a01v/index.m3u8"
-    },
-    {
-        "name": "Anmol Cinema 2 (576p)",
-        "id": "322",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
-    },
-    {
-        "name": "Zee Action (576p)",
-        "id": "642",
-        "category": "Movies",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/512px-Zee_Action_2025.svg.png",
-        "url": "http://163.61.227.29:8000/play/a044/index.m3u8"
-    },
-    {
-        "name": "Zee Bollymovies (1080p) [Geo-blocked]",
-        "id": "643",
-        "category": "Movies",
-        "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
-        "url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8"
-    },
-    {
-        "name": "Zee Bollymovies Australia (1080p) [Geo-blocked]",
-        "id": "644",
-        "category": "Movies",
-        "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
-        "url": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8"
-    },
-    {
-        "name": "Zee Bollywood (576p)",
-        "id": "645",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a00n/index.m3u8"
-    },
-    {
-        "name": "Zee Cinema (1080p)",
-        "id": "646",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a06w/index.m3u8"
-    },
-    {
-        "name": "Zee Cinema APAC (1080p) [Geo-blocked]",
-        "id": "647",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8"
-    },
-    {
-        "name": "Zee South Flix (1080p)",
-        "id": "648",
-        "category": "Movies",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
-        "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Al Jazeera (1080p)",
-        "id": "1408",
-        "category": "News",
-        "logo": "https://i.imgur.com/7bRVpnu.png",
-        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8"
-    },
-    {
-        "name": "Al Jazeera English (1080p)",
-        "id": "1409",
-        "category": "News",
-        "logo": "https://i.imgur.com/7bRVpnu.png",
-        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
-    },
-    {
-        "name": "Al Jazeera Mubasher (1080p)",
-        "id": "1410",
-        "category": "News",
-        "logo": "https://i.imgur.com/X80DQvF.png",
-        "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8"
-    },
-    {
-        "name": "Al Jazeera Mubasher 24 (1080p)",
-        "id": "1411",
-        "category": "News",
-        "logo": "https://i.imgur.com/LMCcIZ2.png",
-        "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8"
-    },
-    {
-        "name": "Al Jazeera Mubasher Broadcast 2 (1080p)",
-        "id": "1412",
-        "category": "News",
-        "logo": "https://i.imgur.com/nJmi6G6.png",
-        "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
-    },
-    {
-        "name": "Zee 24 Ghanta (576p)",
-        "id": "2174",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://103.140.254.2:3500/live/464.m3u8"
-    },
-    {
-        "name": "Zee 24 Taas (720p)",
-        "id": "2175",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
-    },
-    {
-        "name": "Zee Bharat (720p)",
-        "id": "2176",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8"
-    },
-    {
-        "name": "Zee Bihar Jharkhand (720p)",
-        "id": "2177",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BIHAR_JHARKHAND/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8"
-    },
-    {
-        "name": "Zee Delhi NCR Haryana (720p)",
-        "id": "2178",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8"
-    },
-    {
-        "name": "Zee Kannada News (720p)",
-        "id": "2179",
-        "category": "News",
-        "logo": "https://english.cdn.zeenews.com/images/logo/zee-kannada-logo-20.svg",
-        "url": "https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8"
-    },
-    {
-        "name": "Zee Madhya Pradesh Chhattisgarh (720p)",
-        "id": "2180",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8"
-    },
-    {
-        "name": "Zee News (1080p)",
-        "id": "2181",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8"
-    },
-    {
-        "name": "Zee News Malayalam (720p)",
-        "id": "2182",
-        "category": "News",
-        "logo": "https://i.imgur.com/MePj7ET.png",
-        "url": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8"
-    },
-    {
-        "name": "Zee Punjab Haryana Himachal (720p)",
-        "id": "2183",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8"
-    },
-    {
-        "name": "Zee Rajasthan (720p)",
-        "id": "2184",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8"
-    },
-    {
-        "name": "Zee Telugu News (720p)",
-        "id": "2185",
-        "category": "News",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png",
-        "url": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
-    },
-    {
-        "name": "Zee Uttar Pradesh/Uttarakhand (720p)",
-        "id": "2186",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
-    },
-    {
-        "name": "Anmol Cinema (576p)",
-        "id": "2366",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a01v/index.m3u8"
-    },
-    {
-        "name": "Anmol Cinema 2 (576p)",
-        "id": "2367",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
-    },
-    {
-        "name": "Tehzeeb TV (720p)",
-        "id": "2550",
-        "category": "Undefined",
-        "logo": "https://i.imgur.com/PCVOdup.png",
-        "url": "https://cdn-4.pishow.tv/live/239/master.m3u8"
-    },
-    {
-        "name": "Zee Action (576p)",
-        "id": "2563",
-        "category": "Movies",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/512px-Zee_Action_2025.svg.png",
-        "url": "http://163.61.227.29:8000/play/a044/index.m3u8"
-    },
-    {
-        "name": "Zee Bharat (720p)",
-        "id": "2564",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8"
-    },
-    {
-        "name": "Zee Bollywood (576p)",
-        "id": "2565",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a00n/index.m3u8"
-    },
-    {
-        "name": "Zee Business (720p)",
-        "id": "2566",
-        "category": "Business",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BUSINESS/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8"
-    },
-    {
-        "name": "Zee Cafe (1080p)",
-        "id": "2567",
-        "category": "Series",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a076/index.m3u8"
-    },
-    {
-        "name": "Zee Cine Classic (1080p)",
-        "id": "2568",
-        "category": "Classic",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
-        "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Zee Cinema (1080p)",
-        "id": "2569",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a06w/index.m3u8"
-    },
-    {
-        "name": "Zee Cinema APAC (1080p) [Geo-blocked]",
-        "id": "2570",
-        "category": "Movies",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8"
-    },
-    {
-        "name": "Zee Classic (576p)",
-        "id": "2571",
-        "category": "Classic",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a006/index.m3u8"
-    },
-    {
-        "name": "Zee Comedy Nation (1080p)",
-        "id": "2572",
-        "category": "Comedy",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
-        "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Zee Delhi NCR Haryana (720p)",
-        "id": "2573",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8"
-    },
-    {
-        "name": "Zee Dil Se (1080p)",
-        "id": "2574",
-        "category": "Entertainment",
-        "logo": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
-        "url": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Zee Horror Nights (1080p)",
-        "id": "2575",
-        "category": "Entertainment",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png",
-        "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Zee Madhya Pradesh Chhattisgarh (720p)",
-        "id": "2576",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8"
-    },
-    {
-        "name": "Zee News (1080p)",
-        "id": "2577",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8"
-    },
-    {
-        "name": "Zee Rajasthan (720p)",
-        "id": "2578",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8"
-    },
-    {
-        "name": "Zee South Flix (1080p)",
-        "id": "2579",
-        "category": "Movies",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
-        "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
-    },
-    {
-        "name": "Zee TV (1080p)",
-        "id": "2580",
-        "category": "Entertainment",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "http://66.102.120.18:8000/play/a00y/index.m3u8"
-    },
-    {
-        "name": "Zee TV Canada (480p)",
-        "id": "2581",
-        "category": "Undefined",
-        "logo": "https://i.imgur.com/mARKUZ9.png",
-        "url": "https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8"
-    },
-    {
-        "name": "Zee Uttar Pradesh/Uttarakhand (720p)",
-        "id": "2582",
-        "category": "News",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/LOGO_HD_image.png",
-        "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
-    },
-    {
-        "name": "Zee Telugu News (720p)",
-        "id": "2651",
-        "category": "News",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png",
-        "url": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f84de3464c0a4609ac222605bd3b3bfe/version/0",
+        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd"
     }
 ]
-
-
-
-    
