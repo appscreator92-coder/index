@@ -167,7 +167,7 @@
         "name": "Times Now",
         "id": "9487067",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=TimesNow",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/162d960506c64575affc1c4825c3ae75/version/0",
         "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd"
     },
     {
@@ -338,7 +338,7 @@
         "name": "Zee Power",
         "id": "9649339",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePower",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d048d81770964b929d4dc3b32a2cc903/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd"
     },
     {
