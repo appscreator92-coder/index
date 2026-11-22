@@ -77,7 +77,7 @@
         "name": "DD Bharti",
         "id": "9487060",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=DDBharti",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9ac9516189654175bffc220b723e928d/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/352de2ba90694929895751d926b6f3bc/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/DD_Bharti/hls_fta/DD_Bharti.m3u8"
     },
     {
@@ -122,7 +122,7 @@
         "name": "News Nation",
         "id": "9487062",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=NewsNation",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9c50bb3d0a9341a1a631f1423591afef/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d69dfc0396864d8f8329566e4aa7dbc1/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation.m3u8"
     },
     {
@@ -167,7 +167,7 @@
         "name": "Times Now",
         "id": "9487067",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=TimesNow",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/162d960506c64575affc1c4825c3ae75/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0",
         "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd"
     },
     {
@@ -338,7 +338,7 @@
         "name": "Zee Power",
         "id": "9649339",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePower",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d048d81770964b929d4dc3b32a2cc903/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd"
     },
     {
@@ -419,7 +419,7 @@
         "name": "Zee Zest",
         "id": "9650645",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeZest",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/180b6b1cab5e4dd4bd44f50d80045491/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2cc8c4a35c44b0bb21c05185150f4a0/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd"
     },
     {
