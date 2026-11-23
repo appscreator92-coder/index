@@ -252,8 +252,26 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_Cinema/dash/Zee_Bangla_Cinema.mpd"
     },
     {
+        "keyId": "6e5cabf703ee401f8da35db218cbbafc",
+        "key": "75c32fef085dd9744bbd3d2a8db143b1",
+        "name": "ZEE Bharat",
+        "id": "9825959",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZEEBharat",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f852d000d92b402e9693d41a1cd6528b/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_BHARAT/dash/Zee_BHARAT.mpd"
+    },
+    {
+        "keyId": "6d477b6e5624487badfad365fca4d9e8",
+        "key": "ca01ec1039acbaba0e47dddc9c6b3e42",
+        "name": "Zee Bihar Jharkhand",
+        "id": "9825962",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiharJharkhand",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/90c072dc5c8a4136a167cadeb02d1445/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bihar_Jharkhand/dash/Zee_Bihar_Jharkhand.mpd"
+    },
+    {
         "keyId": "aaab4513593e4fc5a2918905deceea95",
-        "key": "d4bd57d6b8d7c2d78e2aa961787e3ef6",
+        "key": "1be52b9f15e489a7c94d219360e85ed2",
         "name": "Zee Biskope",
         "id": "9624887",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiskope",
@@ -268,6 +286,15 @@
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBollywood",
         "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/e1de996d54864c78b8daf60d63974223/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd"
+    },
+    {
+        "keyId": "3b8d8bf190a44aaaa845b3ad7fdee95a",
+        "key": "86e31ded4e6ed33d0c1c16f69f39ab20",
+        "name": "Zee Business",
+        "id": "9825964",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBusiness",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/0eee91d012274ebd863d40ddfb7e497d/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Business/dash/Zee_Business.mpd"
     },
     {
         "keyId": "190aed4caff84c21b240df5abeb8eac1",
