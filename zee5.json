@@ -122,7 +122,7 @@
         "name": "News Nation",
         "id": "9487062",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=NewsNation",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d69dfc0396864d8f8329566e4aa7dbc1/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9c50bb3d0a9341a1a631f1423591afef/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation.m3u8"
     },
     {
@@ -140,7 +140,7 @@
         "name": "Sangeet Bhojpuri",
         "id": "9487059",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=SangeetBhojpuri",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8a99957d3eda4cc5a308ad0a90d92c1e/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/032d38ed29b54e51a6e0575bd9e0d837/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangeet_Bhojpuri.m3u8"
     },
     {
@@ -149,7 +149,7 @@
         "name": "Sansad TV 1",
         "id": "9487056",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=SansadTV1",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/599cdaeda82a49bda2daf6f649eb2065/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ca626f335d7647178e790a05cf1c9ffa/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8"
     },
     {
@@ -212,7 +212,7 @@
         "name": "Zee Action",
         "id": "9487052",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAction",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/1939be35954742989bd03c0108a64f4c/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd"
     },
     {
@@ -253,7 +253,7 @@
     },
     {
         "keyId": "aaab4513593e4fc5a2918905deceea95",
-        "key": "1be52b9f15e489a7c94d219360e85ed2",
+        "key": "d4bd57d6b8d7c2d78e2aa961787e3ef6",
         "name": "Zee Biskope",
         "id": "9624887",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiskope",
@@ -284,7 +284,7 @@
         "name": "Zee Cinemalu HD",
         "id": "9624889",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeCinemaluHD",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a33211ad359a4cba8b23144e4081ff68/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b9ab293f61c24d7697352215c83ce463/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd"
     },
     {
@@ -295,6 +295,15 @@
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeClassic",
         "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/97ff8066a4d945d0ad72764a1f58762b/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd"
+    },
+    {
+        "keyId": "5469454a452f4c69baae01fb4b1244eb",
+        "key": "1fdcee777f174ad833aed40fe1ed33a2",
+        "name": "Zee Delhi NCR Haryana",
+        "id": "9825961",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeDelhiNCRHaryana",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ce7d48501c344dbb9fbcbd227a9fc6c7/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_NCR/dash/ZEE_NCR.mpd"
     },
     {
         "keyId": "4d52a6a5269c4b26ab89f77a7eaf4f80",
@@ -324,6 +333,15 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Marathi_HD/dash/Zee_Marathi_HD.mpd"
     },
     {
+        "keyId": "bcda6062ff7848dc8f1cf322bd65f399",
+        "key": "5584aa963c8d84f0a005b33aac1a3ec9",
+        "name": "Zee MP Chattisgarh",
+        "id": "9825963",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeMPChattisgarh",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/3dd06e1b5f9f498987b4bad81a153c56/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_MP_Chattisgarh/dash/Zee_MP_Chattisgarh.mpd"
+    },
+    {
         "keyId": "0c0f0c8c110142dbb3c9b97b41f47b50",
         "key": "3558d60945e94677e4a4105d2e12d2be",
         "name": "Zee News",
@@ -340,6 +358,15 @@
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePower",
         "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd"
+    },
+    {
+        "keyId": "4c2a17d4fedf4533abad8988ecdc7ee9",
+        "key": "e998f47b41c1c4f5df0255690554dac9",
+        "name": "Zee Punjab Haryana Himachal",
+        "id": "9825965",
+        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePunjabHaryanaHimachal",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/6f2eafd18aa04eb8a8e9e712d7f68929/version/0",
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_PUNJAB_HARYANA_HIMACHAL/dash/ZEE_PUNJAB_HARYANA_HIMACHAL.mpd"
     },
     {
         "keyId": "b8b9b570c44b495d9bc7d6b77d7b43bd",
