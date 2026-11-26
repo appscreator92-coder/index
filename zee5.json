@@ -54,8 +54,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8"
     },
     {
-        "keyId": "2540babf314f46999d717d4a6c99b009",
-        "key": "b802f476b254a8c5efa27bcb249a9506",
+        "keyId": "904823587c27460787879d0251794a65",
+        "key": "3f7ec88c5f3de48dc4d442f6ac62794d",
         "name": "Anmol Cinema 2",
         "id": "9624885",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=AnmolCinema2",
@@ -90,13 +90,13 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/DD_National/hls_fta/DD_National.m3u8"
     },
     {
-        "keyId": "1b5b994b14bb4de5950e58276052f3aa",
-        "key": "c2112f545ec02afbeaef588701eef389",
+        "keyId": "9bbc6c5c660f4728b7c45732c74d59b8",
+        "key": "a8c0d9e7d89e80a208be583dcfde0f1a",
         "name": "ET Now",
         "id": "9487081",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ETNow",
         "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/81f431adc0714cff84be95b33d9b1b83/version/0",
-        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/ET_Now/dash/ET_Now.mpd"
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ET_Now/dash/ET_Now.mpd"
     },
     {
         "keyId": "",
@@ -162,15 +162,6 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_2_HD/hls_fta/Sansad_TV_2_HD.m3u8"
     },
     {
-        "keyId": "d40d7c608cae429dab14a8d5ffd960f1",
-        "key": "a2fe08e2919b63160f535b8b4bf16ca4",
-        "name": "Times Now",
-        "id": "9487067",
-        "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=TimesNow",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0",
-        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd"
-    },
-    {
         "keyId": "91f5211b3df24094acba29bbe937c97f",
         "key": "883acc4b6347335a5293e54e28e916a0",
         "name": "Unite8 Sports 1 HD",
@@ -194,7 +185,7 @@
         "name": "Wion",
         "id": "9487082",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Wion",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/11d3678b209d426688a88adc01830f1d/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/938610751fea47dbbaa97beae47fdc12/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd"
     },
     {
@@ -207,8 +198,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Twenty_Four_Ghanta/dash/Zee_Twenty_Four_Ghanta.mpd"
     },
     {
-        "keyId": "08c3d3f0e3bc49d694229a0d7f341a99",
-        "key": "c9ef1aef542b7ee1ed745990e38c93cc",
+        "keyId": "169957b58142423580834bc960fea4c7",
+        "key": "eb0e03b623464a9350491a899ee511ad",
         "name": "Zee Action",
         "id": "9487052",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAction",
@@ -275,7 +266,7 @@
         "name": "Zee Biskope",
         "id": "9624887",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiskope",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/097a839840ae4dd3acde3233b9a05a78/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd"
     },
     {
@@ -378,8 +369,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_News/dash/Zee_News.mpd"
     },
     {
-        "keyId": "3ef16277a8624da8bc3d31c5783be7be",
-        "key": "6f4b49255a635f96886465adeaee6287",
+        "keyId": "118d65901e1948999e3ccb180996ba19",
+        "key": "2abe0f2965d53154db8371ddf3b3a78c",
         "name": "Zee Power",
         "id": "9649339",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePower",
@@ -446,7 +437,7 @@
         "name": "Zee Thirai",
         "id": "9649000",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeThirai",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/52a61ca3a8d0466492b16fe324dfe66c/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0",
         "url": "httpS://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd"
     },
     {
@@ -486,12 +477,12 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zing/dash/Zing.mpd"
     },
     {
-        "keyId": "07b6a48d3a094539af45382c1b748bd3",
-        "key": "326ce2fd8f8cdae580c9776af2e702ec",
+        "keyId": "55677a7c30dc40299cf5f030151feb5f",
+        "key": "0b7e42fbb8299488ed0236a2e2334b07",
         "name": "Zoom",
         "id": "9487084",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zoom",
         "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f84de3464c0a4609ac222605bd3b3bfe/version/0",
-        "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd"
+        "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zoom/dash/Zoom.mpd"
     }
 ]
