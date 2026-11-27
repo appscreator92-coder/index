@@ -1,7 +1,7 @@
 [
     {
-        "keyId": "be7e7ae3e68a4d8e8156dae789920393",
-        "key": "8ac76a576b7f724500826200f2fc3da4",
+        "keyId": "3185b6bf23f34e82a1de14f9fb4940bd",
+        "key": "ef00395db55401fe7e4177ab123f7b5e",
         "name": "&Pictures HD",
         "id": "9487112",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=%26PicturesHD",
@@ -9,8 +9,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd"
     },
     {
-        "keyId": "80a11ec6f77c4626ab3710b8183f4b26",
-        "key": "307ff94f99aaaf6de5c4dc56d1e9d356",
+        "keyId": "11ebda9d540440dca4e45c7ca6610828",
+        "key": "7a6ca7100d577282d48e9a5aa92b9db6",
         "name": "&Tv HD",
         "id": "9487113",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=%26TvHD",
@@ -50,7 +50,7 @@
         "name": "9XM",
         "id": "9487071",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=9XM",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/18981b21fabf41f9832523ad441963f8/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3a2368776534f61b3f76712af00c113/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8"
     },
     {
@@ -63,8 +63,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd"
     },
     {
-        "keyId": "ce71eaa433824d0bb9202ff1f6304d4b",
-        "key": "a5441420ebca24143edf8adae72b102c",
+        "keyId": "e724c862b58b4384bc124e7464eb0e92",
+        "key": "e510cda434c267b8ee53ad10eee032ad",
         "name": "Big Magic",
         "id": "9624883",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=BigMagic",
@@ -90,8 +90,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/DD_National/hls_fta/DD_National.m3u8"
     },
     {
-        "keyId": "9bbc6c5c660f4728b7c45732c74d59b8",
-        "key": "a8c0d9e7d89e80a208be583dcfde0f1a",
+        "keyId": "2da26aed983648fbad7783626dec47bc",
+        "key": "d0c89984437398023f4026573b4e571f",
         "name": "ET Now",
         "id": "9487081",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ETNow",
@@ -162,8 +162,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_2_HD/hls_fta/Sansad_TV_2_HD.m3u8"
     },
     {
-        "keyId": "91f5211b3df24094acba29bbe937c97f",
-        "key": "883acc4b6347335a5293e54e28e916a0",
+        "keyId": "8894ae43ddb54a72a5118fe1f6fea40f",
+        "key": "379943761ec95877480e02a564b00cbe",
         "name": "Unite8 Sports 1 HD",
         "id": "9624886",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Unite8Sports1HD",
@@ -171,8 +171,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd"
     },
     {
-        "keyId": "e72e40700a7b450fb6db8e11c84458c2",
-        "key": "7e00ae01fed1dbceada1ccc3f4ac8499",
+        "keyId": "c1875fac3a164261be27960bc143c4cf",
+        "key": "a3acc0f5ee1424a86c7b1f197de07669",
         "name": "Unite8 Sports 2 HD",
         "id": "9624884",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Unite8Sports2HD",
@@ -180,8 +180,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd"
     },
     {
-        "keyId": "a476d1e9283e46d79e0506bd14674f4f",
-        "key": "cea6296f1f63496f91e67ee3278ee65b",
+        "keyId": "5f4d4d33a70f4825af71d8a108c66c40",
+        "key": "1ce838c3406fca6fdffdbb70fd5683f3",
         "name": "Wion",
         "id": "9487082",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Wion",
@@ -189,8 +189,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd"
     },
     {
-        "keyId": "a8bddec1b2c440e5a9f43ad7aa2d93bb",
-        "key": "16a80b717a9fbab88af457fd88572cad",
+        "keyId": "987a59863111486d899a44b15760552d",
+        "key": "b803482a44a795f9ecbbd9721e21c055",
         "name": "Zee 24 GHANTA",
         "id": "9487065",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zee24GHANTA",
@@ -207,8 +207,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd"
     },
     {
-        "keyId": "3f00c395737d4cc194907bf079ae7b1e",
-        "key": "7f077039660a7d0295e9e37b07e7f2bf",
+        "keyId": "52d81d851bb34b6e8af3798e32139231",
+        "key": "447747fa5e82072702f6276ba4c8fab2",
         "name": "Zee Anmol",
         "id": "9487051",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAnmol",
@@ -216,8 +216,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd"
     },
     {
-        "keyId": "e9776f834a6f4ad7a9d7e83d12cf2280",
-        "key": "fac1a5c5e9890ee8b21dfdcdf10217e3",
+        "keyId": "54ff36fa57464794b7f622daa8e4cc89",
+        "key": "01ce25c48665607c2e40fdb25c65d769",
         "name": "Zee Anmol Cinema",
         "id": "9487057",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAnmolCinema",
@@ -225,8 +225,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd"
     },
     {
-        "keyId": "c6fd585195be45b59a2fec6d586f46d4",
-        "key": "3efdc4a180cc3860b7274d3a0c47db3e",
+        "keyId": "fa02f4e0047b412998dd21e4fec4c9ed",
+        "key": "d9f17820e690788e718428ff7ede2f87",
         "name": "Zee Bangla HD",
         "id": "9504796",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBanglaHD",
@@ -234,17 +234,17 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd"
     },
     {
-        "keyId": "bfff7aa9f06042b5bac5ac75b9191b1a",
-        "key": "57e9a8953be18a131e4c1709887837ce",
+        "keyId": "ab368b801a0243ebbf84673e32d5a3a7",
+        "key": "fcaf0c51ef5a83b67382d44a2d9e73c4",
         "name": "Zee Bangla Sonar",
         "id": "9624894",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBanglaSonar",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/32b8cfb6cafe43a493a8ecb19de99128/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f508a6918aac461382774c4a34f50c30/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_Cinema/dash/Zee_Bangla_Cinema.mpd"
     },
     {
-        "keyId": "e55734094d514d4bad882ad5b5cbd35c",
-        "key": "edb981d3bec7c99b90413ec038a1dfe3",
+        "keyId": "e6665ef7e17242b0a5ba1bfbe7c2377c",
+        "key": "dd41ad9049bc1ee57638b3e510db0ac4",
         "name": "ZEE Bharat",
         "id": "9825959",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZEEBharat",
@@ -261,8 +261,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bihar_Jharkhand/dash/Zee_Bihar_Jharkhand.mpd"
     },
     {
-        "keyId": "51897fbaec3940a3baa0c0a0aff11583",
-        "key": "6f2be325e7d11a06a49feb835440d401",
+        "keyId": "7f86d385e50648efa8dac281dba71561",
+        "key": "4694bf17bbb860d2473af7e169be13f5",
         "name": "Zee Biskope",
         "id": "9624887",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiskope",
@@ -270,8 +270,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd"
     },
     {
-        "keyId": "dac7f9a0365a4b74a92bd17eae8c729b",
-        "key": "adf7a28a8d29dba3c0b2839f818ca640",
+        "keyId": "d290f092f7714f2696b713150566e259",
+        "key": "098f8ade866e5eda2ff893893d3bd038",
         "name": "Zee Bollywood",
         "id": "9487104",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBollywood",
@@ -279,8 +279,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd"
     },
     {
-        "keyId": "91c794a037d041f2a13b4dbaebd4f8f4",
-        "key": "8cc026b2de8150ae530ba1a7a9d46125",
+        "keyId": "c3932168eaa84f37856df2576ed6108e",
+        "key": "3556f71a2930fe39259b95d80599007b",
         "name": "Zee Business",
         "id": "9825964",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBusiness",
@@ -288,17 +288,17 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Business/dash/Zee_Business.mpd"
     },
     {
-        "keyId": "075b09373fbe44959ad7247b4a63c64b",
-        "key": "75444c1246592f07fc7f094d557f4afb",
+        "keyId": "e3c20781c90943abbea93d50d37941b8",
+        "key": "20e139b4d422703f3dff6a5b47a5dc3e",
         "name": "Zee Cinema HD",
         "id": "9487096",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeCinemaHD",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c91e031d66e1443a9412978290a260db/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2316f5734094e8486486d6911fe6560/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd"
     },
     {
-        "keyId": "8f635ef944f642edb3e8443ef2056b4e",
-        "key": "a0f525264a42d14c4bf0272f0eae0564",
+        "keyId": "b7fcb275ec614ab0b708cf72ac1d8687",
+        "key": "b2af9d222415a27122bad9ff1be7a749",
         "name": "Zee Cinemalu HD",
         "id": "9624889",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeCinemaluHD",
@@ -306,8 +306,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd"
     },
     {
-        "keyId": "0138bea97d264b228a7bf80925057f77",
-        "key": "c8f7a7d9e4b967cce4ec1fde69182c3c",
+        "keyId": "d41f124a3c4a42018efeb09adb80953c",
+        "key": "bc430fc53f46d6781baa5f329eefa112",
         "name": "Zee Classic",
         "id": "9624882",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeClassic",
@@ -315,8 +315,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd"
     },
     {
-        "keyId": "e6bbae001d00400594bc3be116aab3a2",
-        "key": "bd4447af85d9504560ef58303056ed04",
+        "keyId": "5df9a03fe9494986b820995af2e18b6a",
+        "key": "83e1d73f47d8fcbcb17e471cf6ac1db9",
         "name": "Zee Delhi NCR Haryana",
         "id": "9825961",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeDelhiNCRHaryana",
@@ -324,8 +324,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_NCR/dash/ZEE_NCR.mpd"
     },
     {
-        "keyId": "ec913079081f4caa8b3a65b9de30947b",
-        "key": "760f9638d719df74f3e6d4258e47356f",
+        "keyId": "71bb20379ead436c828d005d25a805c5",
+        "key": "878cb80e8ec6ab605426ee76ceef8790",
         "name": "Zee Kannada HD",
         "id": "9624893",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeKannadaHD",
@@ -333,17 +333,17 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Kannada_HD/dash/Zee_Kannada_HD.mpd"
     },
     {
-        "keyId": "44671f76832645de853543ca9c1e4d33",
-        "key": "0b8f8056c0e6e1c4f5e3eb37eccb87e5",
+        "keyId": "e4d7c8fb0d0f4271b07eeb78db4e5937",
+        "key": "8f7315cd1e7e12dc7276e126a598a727",
         "name": "Zee Keralam HD",
         "id": "9624895",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeKeralamHD",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cb2d529482614186a8ba29d47346902b/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/7ef2fad202a04745b29c34c30e27305b/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd"
     },
     {
-        "keyId": "a5444ffc17a1416bb141b40e76ec8d22",
-        "key": "6aa8d5590ca34543bd9f6acdf6249761",
+        "keyId": "6832cd545f3e487ba00cd09248a17afe",
+        "key": "c3ad143b22a5bc7f052a962a06217627",
         "name": "Zee Marathi HD",
         "id": "9504795",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeMarathiHD",
@@ -360,8 +360,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_MP_Chattisgarh/dash/Zee_MP_Chattisgarh.mpd"
     },
     {
-        "keyId": "a8042d8cd91845f888839caf4147f670",
-        "key": "7aa8ed0f0a14747050e836ede5bcee30",
+        "keyId": "6d842ed43a4341a788fe28337fcc494d",
+        "key": "63eaf7e8eff4c90b836d559c3b696510",
         "name": "Zee News",
         "id": "9487055",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeNews",
@@ -378,8 +378,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd"
     },
     {
-        "keyId": "5d6fe5de9bcc450bbc432c5992025392",
-        "key": "a0b396ece6bd9dc9c3e70a093af79884",
+        "keyId": "b0463a507f4e444a9fbe3caf7b9f0578",
+        "key": "71b0ac654fee16a13e9b8beea6dde4db",
         "name": "Zee Punjab Haryana Himachal",
         "id": "9825965",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePunjabHaryanaHimachal",
@@ -387,8 +387,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_PUNJAB_HARYANA_HIMACHAL/dash/ZEE_PUNJAB_HARYANA_HIMACHAL.mpd"
     },
     {
-        "keyId": "11e4042359bb4c2a90cac87a07578b26",
-        "key": "3e3367d0a6a601d33d3006f6ace88883",
+        "keyId": "817b7030e8f34d77bc374de1568dfcd4",
+        "key": "d9b4899cdf06a8081992e47fc3a8d66a",
         "name": "ZEE PUNJABI",
         "id": "9624890",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZEEPUNJABI",
@@ -396,8 +396,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_PUNJABI/dash/ZEE_PUNJABI.mpd"
     },
     {
-        "keyId": "443c4a95ff72482788cfd2721220b2fe",
-        "key": "dfedaf10568fef902679a18a175dcd11",
+        "keyId": "89bb47953d524324a6a52d08c7332ea5",
+        "key": "59f737061cdbe418ea281b1f0f579b65",
         "name": "Zee Sarthak",
         "id": "9487093",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeSarthak",
@@ -405,8 +405,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Sarthak/dash/Zee_Sarthak.mpd"
     },
     {
-        "keyId": "21412e56d4d74e5bb36d50aef855d288",
-        "key": "2f0bfd33e2ac77f32142a0cfbb7f54a4",
+        "keyId": "40a4583753c04c1ba19390ff950d14a7",
+        "key": "aeefa83fb94ef0e96d506066a74ad495",
         "name": "Zee Talkies HD",
         "id": "9487089",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTalkiesHD",
@@ -414,8 +414,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd"
     },
     {
-        "keyId": "34b814a383564892984e0d6bd1ab58ab",
-        "key": "1dc9e4e9e3ca71a8058dd571917269e3",
+        "keyId": "ebad591002434bf39ccaa594f1ab531a",
+        "key": "e76a353fc160ab9c2d68d16fa2e64fbc",
         "name": "Zee Tamil HD",
         "id": "9624892",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTamilHD",
@@ -423,8 +423,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Tamil_HD/dash/ZEE_Tamil_HD.mpd"
     },
     {
-        "keyId": "ef3e5c3cbfdd4ff68c87a4497c7efa42",
-        "key": "647084fbf06ee7f2c9b2beb5d335a62f",
+        "keyId": "336ca46fd0074e77a8ade0b190c22a6b",
+        "key": "a878f00e240c484425499e0e977acf1d",
         "name": "Zee Telugu HD",
         "id": "9624891",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeTeluguHD",
@@ -432,17 +432,17 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Telugu_HD/dash/ZEE_Telugu_HD.mpd"
     },
     {
-        "keyId": "a3a5c5432ee44686b5b2224f6d5250ef",
-        "key": "0dd02b48ee6b11c3e457cc7080c02dda",
+        "keyId": "0c9f3ff7800d4c83b2e5b84c2ea9360d",
+        "key": "18843b5643ddc9e8de9cb1f99cfa27b0",
         "name": "Zee Thirai",
         "id": "9649000",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeThirai",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/52a61ca3a8d0466492b16fe324dfe66c/version/0",
         "url": "httpS://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd"
     },
     {
-        "keyId": "4ca565a50d3c4c9ba1e3d00e61800943",
-        "key": "65983b9574767eb3b9e14a0ab3c87930",
+        "keyId": "4d13822f85774a18be5a47300d5fa567",
+        "key": "73b0c76762335601646656799bec45a9",
         "name": "ZEE TV HD",
         "id": "9487083",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZEETVHD",
@@ -450,8 +450,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd"
     },
     {
-        "keyId": "b2fbaf7419af45888471e33ca0cc9a3b",
-        "key": "3dbc2d35893b26eea9aedfc3d87b0192",
+        "keyId": "e82a19e3b6714a458fd1e6985b3a38fe",
+        "key": "0cabc011d58c7c114355c54a6545e67d",
         "name": "Zee Yuva",
         "id": "9624888",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeYuva",
@@ -459,8 +459,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Yuva/dash/Zee_Yuva.mpd"
     },
     {
-        "keyId": "c858370798d54d16b904a888a005c153",
-        "key": "df8cd696f7c174940ddbf24c969e8a08",
+        "keyId": "c1c3f321a2cf414885eec28a83b63aa9",
+        "key": "1f8df8288b58b61ebc3a08563bcff779",
         "name": "Zee Zest",
         "id": "9650645",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeZest",
@@ -468,8 +468,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd"
     },
     {
-        "keyId": "f89934a1c38c4747a6c2e60d5fb2dddb",
-        "key": "444c2fa3f13674e7ae076317e75b95e3",
+        "keyId": "595d62e7a85f4a8e8ef6741e972fc141",
+        "key": "3a159c8b4c09bb793b54188349dde1bf",
         "name": "Zing",
         "id": "9487091",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zing",
@@ -477,8 +477,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zing/dash/Zing.mpd"
     },
     {
-        "keyId": "55677a7c30dc40299cf5f030151feb5f",
-        "key": "0b7e42fbb8299488ed0236a2e2334b07",
+        "keyId": "c795c2252d3a4c7e850916039e2a8ff7",
+        "key": "27e5ca3a574b5e59de64155169b2ed60",
         "name": "Zoom",
         "id": "9487084",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Zoom",
