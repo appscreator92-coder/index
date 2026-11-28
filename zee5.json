@@ -50,7 +50,7 @@
         "name": "9XM",
         "id": "9487071",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=9XM",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3a2368776534f61b3f76712af00c113/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/18981b21fabf41f9832523ad441963f8/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8"
     },
     {
@@ -149,7 +149,7 @@
         "name": "Sansad TV 1",
         "id": "9487056",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=SansadTV1",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/599cdaeda82a49bda2daf6f649eb2065/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ca626f335d7647178e790a05cf1c9ffa/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8"
     },
     {
@@ -266,7 +266,7 @@
         "name": "Zee Biskope",
         "id": "9624887",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeBiskope",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/097a839840ae4dd3acde3233b9a05a78/version/0",
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd"
     },
     {
@@ -437,7 +437,7 @@
         "name": "Zee Thirai",
         "id": "9649000",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeThirai",
-        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/52a61ca3a8d0466492b16fe324dfe66c/version/0",
+        "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0",
         "url": "httpS://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd"
     },
     {
