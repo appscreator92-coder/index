@@ -54,8 +54,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8"
     },
     {
-        "keyId": "904823587c27460787879d0251794a65",
-        "key": "3f7ec88c5f3de48dc4d442f6ac62794d",
+        "keyId": "0eb977ff97634637965f5784aefb369a",
+        "key": "6150c612c37fdbd1bdd996484a7f06aa",
         "name": "Anmol Cinema 2",
         "id": "9624885",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=AnmolCinema2",
@@ -181,7 +181,7 @@
     },
     {
         "keyId": "5f4d4d33a70f4825af71d8a108c66c40",
-        "key": "1ce838c3406fca6fdffdbb70fd5683f3",
+        "key": "888d0aeeab486198f8a261348da60a3f",
         "name": "Wion",
         "id": "9487082",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=Wion",
@@ -198,8 +198,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Twenty_Four_Ghanta/dash/Zee_Twenty_Four_Ghanta.mpd"
     },
     {
-        "keyId": "169957b58142423580834bc960fea4c7",
-        "key": "eb0e03b623464a9350491a899ee511ad",
+        "keyId": "e3822a9690b04a43b99a6d6efe9291df",
+        "key": "da3bc6b60cccdfb4bae89999bd19c364",
         "name": "Zee Action",
         "id": "9487052",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeeAction",
@@ -369,8 +369,8 @@
         "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_News/dash/Zee_News.mpd"
     },
     {
-        "keyId": "118d65901e1948999e3ccb180996ba19",
-        "key": "2abe0f2965d53154db8371ddf3b3a78c",
+        "keyId": "392fe0b430b74ac496e0887fad627380",
+        "key": "f030c6e5de3f402a6427396b867ecaf7",
         "name": "Zee Power",
         "id": "9649339",
         "idx1": "https://hdlivetv.gt.tc/livetv/tv/zee5/zee5.php?id=ZeePower",
